@@ -68,12 +68,6 @@ uv run app            # API + frontend on http://127.0.0.1:8000, live sync every
 uv run app --no-sync  # serve the seeded database without touching the network
 ```
 
-## Deploy (free)
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Davimeleon/Grokathon2026_YaleBites)
-
-Uses the free Render web service (`render.yaml` + `Dockerfile`). The instance sleeps after ~15 minutes idle and wakes on the next request; a full Yale Connect sync runs on startup.
-
 `make seed` replays the recorded fixtures through the real sync pipeline and shifts them by whole days so
 the capture date lines up with today, so the default "free food in the next 2 hours" view has data. `/api/meta`
 reports `dataset.kind = "fixture_replay"` until the first live sync replaces it.
