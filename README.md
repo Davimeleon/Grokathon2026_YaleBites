@@ -1,6 +1,8 @@
 # Yale Bites
 
-**Find the food. Discover the people. Explore Yale.**
+**Find food. Meet Friends. Explore Yale.**
+
+Deployed Website: https://yale-bites.onrender.com/
 
 Yale Bites helps the Yale community find upcoming campus events with food, then makes it easy to get there.
 
