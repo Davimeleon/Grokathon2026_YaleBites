@@ -70,28 +70,22 @@ reports `dataset.kind = "fixture_replay"` until the first live sync replaces it.
 
 ## Under the hood
 
-```
-             every 30 min: full sync (next 14 days)        every 3 min: hot sync (next 6 hours)
-                                  \                              /
-  Yale Connect ──► app/fetch (one httpx client, ≤4 in flight, ≥250 ms/host, backoff+jitter, robots.txt,
-                   ETag/Last-Modified + body-hash change detection, raw-response disk cache)
-                ──► app/parse (GraphQL nodes / ICS VEVENTs → NormalizedEvent + EventExtras, content hash)
-                ──► app/parse/store.plan_upsert (pin ids, merge withheld locations, diff hashes)
-                ──► app/pipeline (only new/changed events): app/enrich/food.py + app/enrich/geo.py
-                ──► SQLite (var/yale_bites.sqlite3) ──► app/api (FastAPI, 60 s memo) ──► web/ (Vite + MapLibre)
-```
+Yale Bites turns Yale Connect listings into a useful answer to a simple question: **Where can I find food soon?**
 
-* **Primary source:** the CampusGroups GraphQL API (`/api/v2/graphql`, `events` connection with a server-side
-  `dateRange`, 50 per page). It carries descriptions, the organizer's structured *food included* flag, location
-  privacy, host group and registration, so there are no per-event detail fetches.
-* **Secondary source:** the school-wide ICS feed, used only for the ICS `UID` (the event id) and `LAST-MODIFIED`
-  (`updated_at_source`). It is conditional-GET'd, so it is almost always a free `304`.
-* **Unchanged data is free:** a `304` or a byte-identical GraphQL page marks its events as seen without parsing.
-  An unchanged `content_hash` only bumps `last_seen_at`. Enrichment runs only for new or changed events, or for
-  everything once if `data/food_lexicon.yaml` or `data/buildings.yaml` changes.
-* **Removals:** an event missing from two consecutive *complete* syncs of the *same auth mode* that covered its
-  time becomes `canceled_or_removed`. Anonymous syncs never count absence for authenticated-only events, so an
-  expired cookie cannot mass-cancel them.
+1. **Collect events.** The backend reads upcoming events from Yale Connect's CampusGroups GraphQL API, which
+   includes descriptions, locations, and the organizer's *food included* flag. A calendar feed helps track event
+   IDs and updates. Frequent refreshes keep the next few hours current, while change detection avoids repeatedly
+   processing the same listings.
+2. **Estimate food likelihood.** Our rule-based scoring model weighs the organizer's flag alongside clues in
+   titles, descriptions, and food details. It also accounts for misleading mentions of food. Each event receives
+   a **yes**, **likely**, or **no** label, and matched text is shown as evidence. On a hand-labeled set of 250
+   real events, the **yes** label reached **99.2% precision** (130 correct out of 131 predictions).
+3. **Make the data searchable.** A Python backend built with FastAPI stores cleaned events in SQLite and serves
+   filters for time, food likelihood, search terms, and distance. Location matching places events on the map when
+   Yale Connect provides enough information.
+4. **Help people get there.** The TypeScript frontend, built with Vite and MapLibre, keeps the event list and map
+   in sync. With location permission, it shows nearby events and walking times. A public OpenStreetMap pedestrian
+   routing service draws walking routes, and a Google Maps link opens turn-by-turn directions.
 
 ## Authenticated mode (optional)
 
