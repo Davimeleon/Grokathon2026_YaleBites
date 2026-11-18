@@ -26,7 +26,7 @@ def build_app(settings: Settings) -> FastAPI:
     @asynccontextmanager
     async def lifespan(_app: FastAPI) -> AsyncIterator[None]:
         if not settings.scheduler_enabled:
-            log.info("scheduler disabled (FREEFOOD_SCHEDULER=0); serving existing data only")
+            log.info("scheduler disabled (YALE_BITES_SCHEDULER=0); serving existing data only")
             yield
             return
         from app.sync import build_runtime, create_scheduler
@@ -48,9 +48,9 @@ def build_app(settings: Settings) -> FastAPI:
 
 
 def main(argv: list[str] | None = None) -> None:
-    parser = argparse.ArgumentParser(prog="app", description="Yale free-food finder: API + live sync")
-    parser.add_argument("--host", help="bind address (default FREEFOOD_HOST or 127.0.0.1)")
-    parser.add_argument("--port", type=int, help="port (default FREEFOOD_PORT or 8000)")
+    parser = argparse.ArgumentParser(prog="app", description="Yale Bites: API + live sync")
+    parser.add_argument("--host", help="bind address (default YALE_BITES_HOST or 127.0.0.1)")
+    parser.add_argument("--port", type=int, help="port (default YALE_BITES_PORT or 8000)")
     parser.add_argument("--no-sync", action="store_true", help="serve the existing database without syncing")
     args = parser.parse_args(argv)
 

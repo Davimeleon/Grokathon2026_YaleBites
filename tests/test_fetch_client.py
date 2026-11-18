@@ -395,7 +395,7 @@ async def test_server_set_cookie_never_leaks_to_anonymous_requests(auth_settings
 
 async def test_pattern_proof_feed_token_redacted_via_registered_secret(tmp_path, session_factory):
     feed = "https://yaleconnect.yale.edu/ical/yale/feed_Ab12xY.ics"
-    settings = load_settings({"FREEFOOD_VAR_DIR": str(tmp_path / "var"), "YALECONNECT_ICS_FEEDS": feed})
+    settings = load_settings({"YALE_BITES_VAR_DIR": str(tmp_path / "var"), "YALECONNECT_ICS_FEEDS": feed})
 
     def handler(request: httpx.Request) -> httpx.Response:
         return robots_404(request) or httpx.Response(500)

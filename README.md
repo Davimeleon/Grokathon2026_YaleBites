@@ -1,4 +1,4 @@
-# freefood — Yale free-food & free-event finder
+# Yale Bites
 
 A small web app that shows, in near real time, which events on Yale's campus are happening now or in the
 next few hours and offer **free food** (or are free to attend). Data comes from Yale Connect
@@ -14,7 +14,7 @@ is a thin map + list over a good dataset.
 ```bash
 make install          # uv sync + npm ci (web)
 make web              # build the frontend into web/dist
-make seed             # load the recorded fixtures into var/freefood.sqlite3 (offline)
+make seed             # load the recorded fixtures into var/yale_bites.sqlite3 (offline)
 make test             # full test suite (offline, hermetic)
 uv run app            # API + frontend on http://127.0.0.1:8000, live sync every 3 / 30 min
 uv run app --no-sync  # serve the seeded database without touching the network
@@ -34,7 +34,7 @@ reports `dataset.kind = "fixture_replay"` until the first live sync replaces it.
                 ──► app/parse (GraphQL nodes / ICS VEVENTs → NormalizedEvent + EventExtras, content hash)
                 ──► app/parse/store.plan_upsert (pin ids, merge withheld locations, diff hashes)
                 ──► app/pipeline (only new/changed events): app/enrich/food.py + app/enrich/geo.py
-                ──► SQLite (var/freefood.sqlite3) ──► app/api (FastAPI, 60 s memo) ──► web/ (Vite + MapLibre)
+                ──► SQLite (var/yale_bites.sqlite3) ──► app/api (FastAPI, 60 s memo) ──► web/ (Vite + MapLibre)
 ```
 
 * **Primary source:** the CampusGroups GraphQL API (`/api/v2/graphql`, `events` connection with a server-side
@@ -86,12 +86,12 @@ uv run app
 |---|---|---|
 | `YALECONNECT_COOKIE` | – | session cookie header (authenticated mode) |
 | `YALECONNECT_ICS_FEEDS` | – | comma-separated per-user ICS feed URLs |
-| `FREEFOOD_CONTACT` | `operator@example.invalid` | contact string in the User-Agent |
-| `FREEFOOD_VAR_DIR` | `./var` | DB, raw-response caches, Nominatim cache |
-| `FREEFOOD_DB` | `$FREEFOOD_VAR_DIR/freefood.sqlite3` | database file |
-| `FREEFOOD_SCHEDULER` | `1` | `0` serves existing data without syncing |
-| `FREEFOOD_ONLINE_GEOCODING` | `1` | Nominatim fallback for unknown locations (1 req/s, cached permanently) |
-| `FREEFOOD_HOST` / `FREEFOOD_PORT` | `127.0.0.1` / `8000` | bind address |
+| `YALE_BITES_CONTACT` | `operator@example.invalid` | contact string in the User-Agent |
+| `YALE_BITES_VAR_DIR` | `./var` | DB, raw-response caches, Nominatim cache |
+| `YALE_BITES_DB` | `$YALE_BITES_VAR_DIR/yale_bites.sqlite3` | database file |
+| `YALE_BITES_SCHEDULER` | `1` | `0` serves existing data without syncing |
+| `YALE_BITES_ONLINE_GEOCODING` | `1` | Nominatim fallback for unknown locations (1 req/s, cached permanently) |
+| `YALE_BITES_HOST` / `YALE_BITES_PORT` | `127.0.0.1` / `8000` | bind address |
 
 ## Repository layout
 
@@ -125,5 +125,5 @@ uv run app
   not be verified without a real session. `make demo-auth` tells you in one request. Personal ICS feeds work either way.
 * Building coordinates in `data/buildings.yaml` were placed by hand. Nominatim and Overpass refused requests from the
   build machine. Spot checks put most within about 100 m.
-* The Nominatim fallback (`FREEFOOD_ONLINE_GEOCODING=1`) needs an egress IP that Nominatim accepts. A refusal just
+* The Nominatim fallback (`YALE_BITES_ONLINE_GEOCODING=1`) needs an egress IP that Nominatim accepts. A refusal just
   means no pin; it is never cached as a miss.

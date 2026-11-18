@@ -8,7 +8,7 @@ export interface CacheEntry {
   payload: EventsResponse;
 }
 
-const PREFIX = 'freefood:events:';
+const PREFIX = 'yale-bites:events:';
 /** Older cached payloads are not shown at all: day-old "free pizza" is worse than nothing. */
 export const MAX_CACHE_AGE_MS = 24 * 60 * 60 * 1000;
 

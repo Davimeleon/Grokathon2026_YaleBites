@@ -15,7 +15,7 @@ from tests.conftest import CAPTURE_TIME, DUMMY_COOKIE
 
 
 def _env(tmp_path, cookie: str | None) -> dict[str, str]:
-    env = {"FREEFOOD_VAR_DIR": str(tmp_path / "var"), "FREEFOOD_ONLINE_GEOCODING": "0"}
+    env = {"YALE_BITES_VAR_DIR": str(tmp_path / "var"), "YALE_BITES_ONLINE_GEOCODING": "0"}
     if cookie:
         env["YALECONNECT_COOKIE"] = cookie
     return env

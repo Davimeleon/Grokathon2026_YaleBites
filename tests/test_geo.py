@@ -20,7 +20,7 @@ from app.enrich.geo import (
 )
 from app.schemas import GeocodeMethod
 
-UA = "yale-freefood-finder/0.1 (test)"
+UA = "yale-bites/0.1 (test)"
 
 
 @pytest.fixture(scope="module")

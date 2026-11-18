@@ -178,7 +178,7 @@ def create_app(
     lifespan=None,
 ) -> FastAPI:
     settings = settings or get_settings()
-    app = FastAPI(title="freefood", lifespan=lifespan)
+    app = FastAPI(title="Yale Bites", lifespan=lifespan)
     app.state.settings = settings
     app.state.session_factory = session_factory or _default_session_factory(settings)
 

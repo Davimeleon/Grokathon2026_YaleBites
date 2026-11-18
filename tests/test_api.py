@@ -534,11 +534,11 @@ def test_healthz_and_root_hint(client: TestClient) -> None:
 def test_serves_built_frontend(tmp_settings: Settings, session_factory, tmp_path: Path) -> None:
     dist = tmp_path / "dist"
     (dist / "assets").mkdir(parents=True)
-    (dist / "index.html").write_text("<!doctype html><title>freefood</title>")
+    (dist / "index.html").write_text("<!doctype html><title>Yale Bites</title>")
     (dist / "assets" / "app.js").write_text("console.log('hi')")
     client = TestClient(create_app(replace(tmp_settings, web_dist_dir=dist), session_factory))
     root = client.get("/")
-    assert root.status_code == 200 and "<title>freefood</title>" in root.text
+    assert root.status_code == 200 and "<title>Yale Bites</title>" in root.text
     assert client.get("/assets/app.js").text == "console.log('hi')"
     assert client.get("/api/events").json()["items"] == []
     assert client.get("/healthz").json() == {"ok": True}

@@ -1,4 +1,4 @@
-# freefood web
+# Yale Bites web
 
 Vanilla TypeScript + Vite + MapLibre GL (OpenStreetMap raster tiles). One page: a filter bar driving a
 synchronized map and card list of events with free food on Yale's campus.

@@ -63,7 +63,7 @@ def _env_bool(env: dict[str, str] | os._Environ, name: str, default: bool) -> bo
 @dataclass(frozen=True)
 class Settings:
     var_dir: Path = DEFAULT_VAR_DIR
-    db_path: Path = DEFAULT_VAR_DIR / "freefood.sqlite3"
+    db_path: Path = DEFAULT_VAR_DIR / "yale_bites.sqlite3"
     cache_dir: Path = DEFAULT_VAR_DIR / "cache"
     geocode_cache_path: Path = DEFAULT_VAR_DIR / "nominatim_cache.json"
     food_lexicon_path: Path = DATA_DIR / "food_lexicon.yaml"
@@ -87,7 +87,7 @@ class Settings:
 
     @property
     def user_agent(self) -> str:
-        return f"yale-freefood-finder/0.1 (+campus free-food finder; contact: {self.contact})"
+        return f"yale-bites/0.1 (+Yale Bites; contact: {self.contact})"
 
     @property
     def auth_configured(self) -> bool:
@@ -104,22 +104,22 @@ class Settings:
 
 def load_settings(environ: dict[str, str] | None = None) -> Settings:
     env = os.environ if environ is None else environ
-    var_dir = Path(env.get("FREEFOOD_VAR_DIR") or DEFAULT_VAR_DIR)
+    var_dir = Path(env.get("YALE_BITES_VAR_DIR") or DEFAULT_VAR_DIR)
     feeds = tuple(
         Secret(part.strip()) for part in (env.get("YALECONNECT_ICS_FEEDS") or "").split(",") if part.strip()
     )
     return Settings(
         var_dir=var_dir,
-        db_path=Path(env.get("FREEFOOD_DB") or var_dir / "freefood.sqlite3"),
+        db_path=Path(env.get("YALE_BITES_DB") or var_dir / "yale_bites.sqlite3"),
         cache_dir=var_dir / "cache",
         geocode_cache_path=var_dir / "nominatim_cache.json",
         yaleconnect_cookie=Secret((env.get("YALECONNECT_COOKIE") or "").strip()),
         yaleconnect_ics_feeds=feeds,
-        contact=(env.get("FREEFOOD_CONTACT") or DEFAULT_CONTACT).strip(),
-        scheduler_enabled=_env_bool(env, "FREEFOOD_SCHEDULER", True),
-        online_geocoding=_env_bool(env, "FREEFOOD_ONLINE_GEOCODING", True),
-        host=env.get("FREEFOOD_HOST") or "127.0.0.1",
-        port=int(env.get("FREEFOOD_PORT") or 8000),
+        contact=(env.get("YALE_BITES_CONTACT") or DEFAULT_CONTACT).strip(),
+        scheduler_enabled=_env_bool(env, "YALE_BITES_SCHEDULER", True),
+        online_geocoding=_env_bool(env, "YALE_BITES_ONLINE_GEOCODING", True),
+        host=env.get("YALE_BITES_HOST") or "127.0.0.1",
+        port=int(env.get("YALE_BITES_PORT") or 8000),
     )
 
 

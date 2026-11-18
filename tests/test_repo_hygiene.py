@@ -87,6 +87,6 @@ def test_no_commented_out_code():
 def test_load_settings_uses_given_environ_only(monkeypatch):
     from app.config import load_settings
 
-    monkeypatch.setenv("FREEFOOD_SCHEDULER", "1")
-    assert load_settings({"FREEFOOD_SCHEDULER": "0", "FREEFOOD_ONLINE_GEOCODING": "0"}).scheduler_enabled is False
+    monkeypatch.setenv("YALE_BITES_SCHEDULER", "1")
+    assert load_settings({"YALE_BITES_SCHEDULER": "0", "YALE_BITES_ONLINE_GEOCODING": "0"}).scheduler_enabled is False
     assert load_settings({}).online_geocoding is True

@@ -187,7 +187,7 @@ async def test_authenticated_mode_visibility_and_locations(auth_settings, sessio
 
 
 async def test_expired_session_falls_back_once(tmp_path, session_factory, frozen_now, caplog):
-    settings = load_settings({"FREEFOOD_VAR_DIR": str(tmp_path / "var"), "FREEFOOD_ONLINE_GEOCODING": "0",
+    settings = load_settings({"YALE_BITES_VAR_DIR": str(tmp_path / "var"), "YALE_BITES_ONLINE_GEOCODING": "0",
                               "YALECONNECT_COOKIE": "CG.SessionID=stale-session-value"})
     transport = ReplayTransport()
     runner = make_runner(settings, session_factory, transport)
@@ -214,7 +214,7 @@ async def test_count_collapse_marks_expired(auth_settings, session_factory, froz
 async def test_expired_cookie_never_mass_cancels_authenticated_events(auth_settings, tmp_path, session_factory,
                                                                      frozen_now):
     await make_runner(auth_settings, session_factory, ReplayTransport()).run_plan(full_plan())
-    anon_settings = load_settings({"FREEFOOD_VAR_DIR": str(tmp_path / "var2"), "FREEFOOD_ONLINE_GEOCODING": "0"})
+    anon_settings = load_settings({"YALE_BITES_VAR_DIR": str(tmp_path / "var2"), "YALE_BITES_ONLINE_GEOCODING": "0"})
     runner = make_runner(anon_settings, session_factory, ReplayTransport())
     for _ in range(3):
         result = await runner.run_plan(full_plan())
@@ -231,7 +231,7 @@ async def test_expired_cookie_never_mass_cancels_authenticated_events(auth_setti
 async def test_mixed_mode_misses_do_not_cancel(auth_settings, tmp_path, session_factory, frozen_now):
     gone = first_event_id()
     await make_runner(auth_settings, session_factory, ReplayTransport()).run_plan(full_plan())
-    anon_settings = load_settings({"FREEFOOD_VAR_DIR": str(tmp_path / "v"), "FREEFOOD_ONLINE_GEOCODING": "0"})
+    anon_settings = load_settings({"YALE_BITES_VAR_DIR": str(tmp_path / "v"), "YALE_BITES_ONLINE_GEOCODING": "0"})
     await make_runner(anon_settings, session_factory, EditingTransport(drop={gone})).run_plan(full_plan())
     authed = await make_runner(auth_settings, session_factory, EditingTransport(drop={gone})).run_plan(full_plan())
     assert authed.mode == AuthMode.AUTHENTICATED
@@ -294,7 +294,7 @@ async def test_empty_hot_window_stays_complete_when_unchanged(tmp_settings, sess
 
 
 async def test_expired_cookie_warns_once_across_runs(tmp_path, session_factory, frozen_now, caplog):
-    settings = load_settings({"FREEFOOD_VAR_DIR": str(tmp_path / "var"), "FREEFOOD_ONLINE_GEOCODING": "0",
+    settings = load_settings({"YALE_BITES_VAR_DIR": str(tmp_path / "var"), "YALE_BITES_ONLINE_GEOCODING": "0",
                               "YALECONNECT_COOKIE": "CG.SessionID=stale-session-value"})
     runner = make_runner(settings, session_factory, ReplayTransport())
     with caplog.at_level(logging.WARNING):

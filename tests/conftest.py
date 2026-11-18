@@ -31,7 +31,7 @@ PERSONAL_FEED_URL: str = AUTH_FIXTURE_META["personal_feed_url"]
 
 @pytest.fixture(autouse=True)
 def _hermetic_env(monkeypatch: pytest.MonkeyPatch) -> Iterator[None]:
-    for name in ("YALECONNECT_COOKIE", "YALECONNECT_ICS_FEEDS", "FREEFOOD_DB", "FREEFOOD_VAR_DIR"):
+    for name in ("YALECONNECT_COOKIE", "YALECONNECT_ICS_FEEDS", "YALE_BITES_DB", "YALE_BITES_VAR_DIR"):
         monkeypatch.delenv(name, raising=False)
     yield
     clock.set_clock(None)
@@ -84,7 +84,7 @@ def fixture_pages(prefix: str, auth: bool = False) -> list[dict]:
 @pytest.fixture
 def tmp_settings(tmp_path: Path) -> Settings:
     """Settings rooted in a temp dir, scheduler off, no online geocoding, no credentials."""
-    env = {"FREEFOOD_VAR_DIR": str(tmp_path / "var"), "FREEFOOD_SCHEDULER": "0", "FREEFOOD_ONLINE_GEOCODING": "0"}
+    env = {"YALE_BITES_VAR_DIR": str(tmp_path / "var"), "YALE_BITES_SCHEDULER": "0", "YALE_BITES_ONLINE_GEOCODING": "0"}
     return load_settings(env)
 
 
@@ -92,9 +92,9 @@ def tmp_settings(tmp_path: Path) -> Settings:
 def auth_settings(tmp_path: Path) -> Settings:
     """Like tmp_settings, but with the dummy fixture cookie and personal ICS feed configured."""
     env = {
-        "FREEFOOD_VAR_DIR": str(tmp_path / "var"),
-        "FREEFOOD_SCHEDULER": "0",
-        "FREEFOOD_ONLINE_GEOCODING": "0",
+        "YALE_BITES_VAR_DIR": str(tmp_path / "var"),
+        "YALE_BITES_SCHEDULER": "0",
+        "YALE_BITES_ONLINE_GEOCODING": "0",
         "YALECONNECT_COOKIE": DUMMY_COOKIE,
         "YALECONNECT_ICS_FEEDS": PERSONAL_FEED_URL,
     }

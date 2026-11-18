@@ -33,8 +33,8 @@ async def test_seed_replays_fixtures_shifted_to_today(tmp_settings):
 
 
 def test_seed_cli_is_idempotent(tmp_settings, monkeypatch, capsys):
-    monkeypatch.setenv("FREEFOOD_VAR_DIR", str(tmp_settings.var_dir))
-    monkeypatch.setenv("FREEFOOD_ONLINE_GEOCODING", "0")
+    monkeypatch.setenv("YALE_BITES_VAR_DIR", str(tmp_settings.var_dir))
+    monkeypatch.setenv("YALE_BITES_ONLINE_GEOCODING", "0")
     clock.freeze(CAPTURE_TIME)
     assert main([]) == 0
     first = capsys.readouterr().out

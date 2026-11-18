@@ -4,7 +4,7 @@ install:
 	uv sync
 	cd web && npm ci
 
-# Load the recorded fixtures into var/freefood.sqlite3 through the real sync pipeline (offline).
+# Load the recorded fixtures into var/yale_bites.sqlite3 through the real sync pipeline (offline).
 seed:
 	uv run python -m app.seed
 

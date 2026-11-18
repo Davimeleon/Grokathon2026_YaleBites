@@ -44,7 +44,7 @@ async def test_full_sync_never_leaks_credentials(auth_settings, session_factory,
         good = await runner.run_plan(full_plan())
         assert good.mode.value == "authenticated" and good.authenticated_only_seen >= 8
         # Same credentials, but the session has expired: probe fails, warning names the env var.
-        expired = load_settings({"FREEFOOD_VAR_DIR": str(tmp_path / "v2"), "FREEFOOD_ONLINE_GEOCODING": "0",
+        expired = load_settings({"YALE_BITES_VAR_DIR": str(tmp_path / "v2"), "YALE_BITES_ONLINE_GEOCODING": "0",
                                  "YALECONNECT_COOKIE": EXPIRED_COOKIE,
                                  "YALECONNECT_ICS_FEEDS": PERSONAL_FEED_URL})
         install_redaction(expired)

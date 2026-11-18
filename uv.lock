@@ -91,7 +91,7 @@ wheels = [
 ]
 
 [[package]]
-name = "freefood"
+name = "yale-bites"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

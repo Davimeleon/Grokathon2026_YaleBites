@@ -152,7 +152,7 @@ def test_cookie_header_scope(auth_settings, tmp_settings):
 
 def test_demo_without_env_exits_2_with_guidance(tmp_path):
     out = io.StringIO()
-    code = main(["demo"], environ={"FREEFOOD_VAR_DIR": str(tmp_path)}, out=out)
+    code = main(["demo"], environ={"YALE_BITES_VAR_DIR": str(tmp_path)}, out=out)
     assert code == 2
     text = out.getvalue()
     assert "YALECONNECT_COOKIE is not set" in text and "DevTools" in text
@@ -166,7 +166,7 @@ def test_demo_valid_cookie_runs_seam(tmp_path):
         calls.append(auth.status)
         return 0
 
-    env = {"FREEFOOD_VAR_DIR": str(tmp_path), "YALECONNECT_COOKIE": DUMMY_COOKIE}
+    env = {"YALE_BITES_VAR_DIR": str(tmp_path), "YALECONNECT_COOKIE": DUMMY_COOKIE}
     code = main(["demo"], environ=env, transport=ReplayTransport(), on_valid=on_valid, out=out)
     assert code == 0 and calls == [AuthStatus.VALID]
     assert "is valid" in out.getvalue() and DUMMY_COOKIE not in out.getvalue()
@@ -174,7 +174,7 @@ def test_demo_valid_cookie_runs_seam(tmp_path):
 
 def test_demo_expired_cookie_exits_3(tmp_path):
     out = io.StringIO()
-    env = {"FREEFOOD_VAR_DIR": str(tmp_path), "YALECONNECT_COOKIE": "CG.SessionID=EXPIRED-0000aaaa1111"}
+    env = {"YALE_BITES_VAR_DIR": str(tmp_path), "YALECONNECT_COOKIE": "CG.SessionID=EXPIRED-0000aaaa1111"}
     code = main(["demo"], environ=env, transport=ReplayTransport(), out=out)
     assert code == 3
     assert "rejected" in out.getvalue() and "EXPIRED-0000aaaa1111" not in out.getvalue()
@@ -186,7 +186,7 @@ def test_demo_feeds_only_reports_and_runs_seam(tmp_path):
     async def on_valid(settings, fc, auth) -> int:
         return 0 if auth.status is AuthStatus.NONE else 1
 
-    env = {"FREEFOOD_VAR_DIR": str(tmp_path), "YALECONNECT_ICS_FEEDS": PERSONAL_FEED_URL}
+    env = {"YALE_BITES_VAR_DIR": str(tmp_path), "YALECONNECT_ICS_FEEDS": PERSONAL_FEED_URL}
     code = main(["demo"], environ=env, transport=ReplayTransport(), on_valid=on_valid, out=out)
     assert code == 0
     assert "1 personal ICS feed" in out.getvalue() and PERSONAL_FEED_URL not in out.getvalue()

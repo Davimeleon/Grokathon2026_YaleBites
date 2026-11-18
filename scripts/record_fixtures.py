@@ -146,7 +146,7 @@ def main() -> None:
     parser.add_argument("--out", type=Path, default=Path("tests/data/fixtures"))
     parser.add_argument("--delay", type=float, default=0.6)
     parser.add_argument("--details", type=int, default=24, help="number of event(id) detail responses to record")
-    parser.add_argument("--user-agent", default="yale-freefood-finder/0.1 (+fixture recorder; contact: operator)")
+    parser.add_argument("--user-agent", default="yale-bites/0.1 (+fixture recorder; contact: operator)")
     args = parser.parse_args()
 
     rec = Recorder(args.out, args.delay, args.user_agent)
