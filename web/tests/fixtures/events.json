@@ -1,0 +1,163 @@
+{
+  "generated_at": "2026-11-17T23:01:12Z",
+  "data_as_of": "2026-11-17T22:58:40Z",
+  "data_age_seconds": 152,
+  "window": {"name": "2h", "start": "2026-11-17T23:01:12Z", "end": "2026-11-18T01:01:12Z"},
+  "total": 4,
+  "page": 1,
+  "page_size": 200,
+  "next_page": null,
+  "items": [
+    {
+      "id": "ycal-2337199@campusgroups.com",
+      "source_url": "https://yaleconnect.yale.edu/rsvp?id=2337199",
+      "title": "Queer Tables: Queer Italian Pasta",
+      "host_group": "Yale LGBTQ Center",
+      "starts_at": "2026-11-17T18:30:00-05:00",
+      "ends_at": "2026-11-17T20:00:00-05:00",
+      "all_day": false,
+      "starts_in_minutes": 29,
+      "location": {
+        "raw": "LGBTQ Center, 135 Prospect St",
+        "building_id": "lgbtq-center",
+        "building_name": "Yale LGBTQ Center (135 Prospect St)",
+        "lat": 41.3133,
+        "lng": -72.9254,
+        "geocode_method": "alias",
+        "geocode_confidence": 0.95,
+        "requires_sign_in": false
+      },
+      "food": {
+        "score": 0.97,
+        "label": "yes",
+        "evidence": [
+          {"text": "Pizza will be served", "field": "description", "kind": "positive", "weight": 1.6},
+          {"text": "Food included (organizer flag)", "field": "food_flag", "kind": "flag", "weight": 2.0}
+        ]
+      },
+      "is_free_to_attend": true,
+      "free_evidence": ["RSVP: $0.00"],
+      "cost_raw": "RSVP: free ($0.00 USD); capacity: unlimited",
+      "visibility": "public",
+      "status": "active",
+      "event_type": "Social",
+      "tags": ["LGBTQ+"],
+      "attendance_mode": "IN_PERSON",
+      "distance_m": null,
+      "description_text": "Join us for a queer Italian pasta night. Pizza will be served.",
+      "updated_at": "2026-11-17T22:58:40Z",
+      "last_seen_at": "2026-11-17T22:58:40Z"
+    },
+    {
+      "id": "ycal-2338001@campusgroups.com",
+      "source_url": "https://yaleconnect.yale.edu/rsvp?id=2338001",
+      "title": "Physics Colloquium",
+      "host_group": "Department of Physics",
+      "starts_at": "2026-11-17T17:45:00-05:00",
+      "ends_at": "2026-11-17T19:00:00-05:00",
+      "all_day": false,
+      "starts_in_minutes": -16,
+      "location": {
+        "raw": "Sloane Physics Laboratory, Room 57",
+        "building_id": "sloane-physics",
+        "building_name": "Sloane Physics Laboratory",
+        "lat": 41.3172,
+        "lng": -72.9224,
+        "geocode_method": "fuzzy",
+        "geocode_confidence": 0.8,
+        "requires_sign_in": false
+      },
+      "food": {
+        "score": 0.62,
+        "label": "likely",
+        "evidence": [
+          {"text": "refreshments", "field": "description", "kind": "positive", "weight": 0.8}
+        ]
+      },
+      "is_free_to_attend": null,
+      "free_evidence": [],
+      "cost_raw": null,
+      "visibility": "public",
+      "status": "active",
+      "event_type": "Lecture",
+      "tags": [],
+      "attendance_mode": "IN_PERSON",
+      "distance_m": null,
+      "description_text": "Weekly colloquium; refreshments before the talk.",
+      "updated_at": "2026-11-17T22:58:40Z",
+      "last_seen_at": "2026-11-17T22:58:40Z"
+    },
+    {
+      "id": "ycal-2339100@campusgroups.com",
+      "source_url": "https://yaleconnect.yale.edu/rsvp?id=2339100",
+      "title": "CSSA Hot Pot Night",
+      "host_group": "Chinese Students and Scholars Association",
+      "starts_at": "2026-11-17T19:30:00-05:00",
+      "ends_at": "2026-11-17T21:30:00-05:00",
+      "all_day": false,
+      "starts_in_minutes": 89,
+      "location": {
+        "raw": null,
+        "building_id": null,
+        "building_name": null,
+        "lat": null,
+        "lng": null,
+        "geocode_method": "none",
+        "geocode_confidence": 0.0,
+        "requires_sign_in": true
+      },
+      "food": {
+        "score": 0.9,
+        "label": "yes",
+        "evidence": [
+          {"text": "Food included (organizer flag)", "field": "food_flag", "kind": "flag", "weight": 2.0}
+        ]
+      },
+      "is_free_to_attend": true,
+      "free_evidence": ["RSVP: $0.00"],
+      "cost_raw": "RSVP: free ($0.00 USD)",
+      "visibility": "public",
+      "status": "active",
+      "event_type": "Social",
+      "tags": [],
+      "attendance_mode": "IN_PERSON",
+      "distance_m": null,
+      "description_text": "Hot pot with friends.",
+      "updated_at": "2026-11-17T22:58:40Z",
+      "last_seen_at": "2026-11-17T22:58:40Z"
+    },
+    {
+      "id": "ycal-2340002@campusgroups.com",
+      "source_url": "https://yaleconnect.yale.edu/rsvp?id=2340002",
+      "title": "Thesis Writing Group",
+      "host_group": "Poorvu Center",
+      "starts_at": "2026-11-17T20:00:00-05:00",
+      "ends_at": null,
+      "all_day": false,
+      "starts_in_minutes": 119,
+      "location": {
+        "raw": "Bass Library L01",
+        "building_id": null,
+        "building_name": null,
+        "lat": 41.3108,
+        "lng": -72.9278,
+        "geocode_method": "fuzzy",
+        "geocode_confidence": 0.7,
+        "requires_sign_in": false
+      },
+      "food": {"score": 0.05, "label": "no", "evidence": []},
+      "is_free_to_attend": true,
+      "free_evidence": [],
+      "cost_raw": null,
+      "visibility": "authenticated",
+      "status": "active",
+      "event_type": "Workshop",
+      "tags": [],
+      "attendance_mode": "IN_PERSON",
+      "distance_m": null,
+      "description_text": "Quiet writing time.",
+      "updated_at": "2026-11-17T22:58:40Z",
+      "last_seen_at": "2026-11-17T22:58:40Z"
+    }
+  ]
+}

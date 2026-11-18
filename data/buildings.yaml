@@ -1,0 +1,218 @@
+# Yale-area gazetteer for location resolution (app/enrich/geo.py).
+# Each entry: id, name, optional short code, lat/lng (WGS84), coordinate source,
+# aliases (venue/room names that identify the building), room_prefixes (codes used as
+# "<PREFIX> <room>", e.g. "WLH 116"), addresses (street addresses, "<number> <street> <suffix>").
+# source: manual = hand-placed from campus knowledge (Nominatim was refused at build time).
+non_physical:
+  - online event
+  - online
+  - virtual
+  - zoom
+  - zoom meeting
+  - tbd
+  - tba
+  - to be determined
+  - to be announced
+  - location tbd
+  - n a
+  - various public locations in new haven
+buildings:
+  - {id: wlh, name: William L. Harkness Hall, short: WLH, lat: 41.31094, lng: -72.92873, source: manual,
+     aliases: [w l harkness hall, william l harkness hall, wlh, wlh sudler hall, sudler hall], room_prefixes: [wlh], addresses: [100 Wall St]}
+  - {id: lc, name: Linsly-Chittenden Hall, short: LC, lat: 41.30851, lng: -72.92944, source: manual,
+     aliases: [linsly chittenden hall, linsly chittenden], room_prefixes: [lc], addresses: [63 High St]}
+  - {id: sss, name: Sheffield-Sterling-Strathcona Hall, short: SSS, lat: 41.31237, lng: -72.92536, source: manual,
+     aliases: [sheffield sterling strathcona hall, sheffield sterling strathcona], room_prefixes: [sss], addresses: [1 Prospect St]}
+  - {id: bass, name: Bass Library, lat: 41.31045, lng: -72.92905, source: manual,
+     aliases: [bass library, thain family cafe, thain cafe], room_prefixes: [basslb, bass], addresses: [110 Wall St]}
+  - {id: sml, name: Sterling Memorial Library, short: SML, lat: 41.31121, lng: -72.92900, source: manual,
+     aliases: [sterling memorial library, franke family digital humanities laboratory, dh lab], room_prefixes: [sml], addresses: [120 High St]}
+  - {id: poorvu, name: Poorvu Center for Teaching and Learning, lat: 41.31160, lng: -72.92980, source: manual,
+     aliases: [poorvu center, poorvu center for teaching and learning], addresses: [301 York St]}
+  - {id: dl, name: Dunham Laboratory, short: DL, lat: 41.31312, lng: -72.92472, source: manual,
+     aliases: [dunham laboratory, dunham lab, mann center], room_prefixes: [dl], addresses: [10 Hillhouse Ave]}
+  - {id: hq, name: Humanities Quadrangle, short: HQ, lat: 41.31244, lng: -72.93005, source: manual,
+     aliases: [humanities quadrangle, humanities quadrangle auditorium, hq], room_prefixes: [hq], addresses: [320 York St]}
+  - {id: hillhouse17, name: 17 Hillhouse Avenue, lat: 41.31392, lng: -72.92413, source: manual,
+     aliases: [17 hillhouse], addresses: [17 Hillhouse Ave]}
+  - {id: slb, name: Sterling Law Building, short: SLB, lat: 41.31175, lng: -72.92620, source: manual,
+     aliases: [sterling law buildings, yale law school, ruttenberg dining hall, derald h ruttenberg dining hall], room_prefixes: [slb], addresses: [127 Wall St]}
+  - {id: baker, name: Baker Hall, lat: 41.31470, lng: -72.92960, source: manual,
+     aliases: [baker hall courtyard, baker lounge], room_prefixes: [baker], addresses: [100 Tower Pkwy]}
+  - {id: kroon, name: Kroon Hall, lat: 41.31631, lng: -72.92430, source: manual,
+     aliases: [kroon, burke auditorium, burke, kroon cafe], addresses: [195 Prospect St]}
+  - {id: sage, name: Sage Hall, lat: 41.31712, lng: -72.92420, source: manual,
+     aliases: [bowers auditorium, bower auditorium], addresses: [205 Prospect St]}
+  - {id: luce, name: Luce Hall, lat: 41.31515, lng: -72.92300, source: manual,
+     aliases: [henry r luce hall, luce hall auditorium], addresses: [34 Hillhouse Ave]}
+  - {id: horchow, name: Horchow Hall, lat: 41.31640, lng: -72.92252, source: manual,
+     aliases: [horchow hall seminar room], addresses: [55 Hillhouse Ave]}
+  - {id: rosenkranz, name: Rosenkranz Hall, lat: 41.31485, lng: -72.92497, source: manual,
+     aliases: [], addresses: [115 Prospect St]}
+  - {id: isps, name: Institution for Social and Policy Studies, short: ISPS, lat: 41.31440, lng: -72.92540, source: manual,
+     aliases: [isps], addresses: [77 Prospect St]}
+  - {id: kbt, name: Kline Biology Tower, short: KBT, lat: 41.31810, lng: -72.92558, source: manual,
+     aliases: [kline tower, steep cafe, marx library, marx science and social science library, kbt], room_prefixes: [kt, kline], addresses: [219 Prospect St]}
+  - {id: kgl, name: Kline Geology Laboratory, short: KGL, lat: 41.31743, lng: -72.92062, source: manual,
+     aliases: [kline geology lab, kgl], room_prefixes: [kgl], addresses: [210 Whitney Ave]}
+  - {id: becton, name: Becton Center, short: BCT, lat: 41.31316, lng: -72.92505, source: manual,
+     aliases: [becton, davies auditorium, davies aud], room_prefixes: [bct], addresses: [15 Prospect St]}
+  - {id: mason, name: Mason Laboratory, short: ML, lat: 41.31335, lng: -72.92373, source: manual,
+     aliases: [mason lab], room_prefixes: [ml], addresses: [9 Hillhouse Ave]}
+  - {id: malone, name: Malone Engineering Center, lat: 41.31403, lng: -72.92530, source: manual,
+     aliases: [malone center], addresses: [55 Prospect St]}
+  - {id: watson, name: Watson Center, lat: 41.31723, lng: -72.92326, source: manual,
+     aliases: [], addresses: [60 Sachem St]}
+  - {id: ysb, name: Yale Science Building, short: YSB, lat: 41.31862, lng: -72.92181, source: manual,
+     aliases: [o c marsh lecture hall, marsh lecture hall, ysb], room_prefixes: [ysb], addresses: [260 Whitney Ave]}
+  - {id: sloane, name: Sloane Physics Laboratory, short: SPL, lat: 41.31727, lng: -72.92622, source: manual,
+     aliases: [sloane physics lab, sloane physics], room_prefixes: [spl], addresses: [217 Prospect St]}
+  - {id: oml, name: Osborn Memorial Laboratories, short: OML, lat: 41.31590, lng: -72.92560, source: manual,
+     aliases: [osborn memorial labs, osborn labs], room_prefixes: [oml], addresses: [165 Prospect St]}
+  - {id: esc, name: Environmental Science Center, short: ESC, lat: 41.31720, lng: -72.92245, source: manual,
+     aliases: [earth observation lab], addresses: [21 Sachem St]}
+  - {id: leitner, name: Leitner Family Observatory, lat: 41.32304, lng: -72.92428, source: manual,
+     aliases: [leitner observatory], addresses: [355 Prospect St]}
+  - {id: bass_center, name: Bass Center for Molecular and Structural Biology, lat: 41.31900, lng: -72.92200, source: manual,
+     aliases: [], addresses: [266 Whitney Ave]}
+  - {id: science_hill, name: Science Hill, lat: 41.31743, lng: -72.92215, source: manual,
+     aliases: [science hill courtyard]}
+  - {id: peabody, name: Peabody Museum, lat: 41.31620, lng: -72.92070, source: manual,
+     aliases: [yale peabody museum, peabody museum of natural history], addresses: [170 Whitney Ave]}
+  - {id: evans, name: Evans Hall (School of Management), lat: 41.31626, lng: -72.92020, source: manual,
+     aliases: [evans hall, yale school of management], room_prefixes: [som], addresses: [165 Whitney Ave]}
+  - {id: whitney55, name: 55 Whitney Avenue, lat: 41.31277, lng: -72.92118, source: manual,
+     aliases: [55 whitney], addresses: [55 Whitney Ave]}
+  - {id: bf, name: Benjamin Franklin College, lat: 41.31760, lng: -72.92790, source: manual,
+     aliases: [franklin college, franklin common room, franklin dining hall], addresses: [90 Prospect St]}
+  - {id: murray, name: Pauli Murray College, lat: 41.31655, lng: -72.92745, source: manual,
+     aliases: [murray college, murray common room, murray dining hall], addresses: [130 Prospect St]}
+  - {id: berkeley, name: Berkeley College, lat: 41.31029, lng: -72.92682, source: manual,
+     aliases: [berkeley common room, berkeley dining hall], addresses: [205 Elm St]}
+  - {id: branford, name: Branford College, lat: 41.30973, lng: -72.92975, source: manual,
+     aliases: [branford common room, branford dining hall], addresses: [74 High St]}
+  - {id: davenport, name: Davenport College, lat: 41.31006, lng: -72.93185, source: manual,
+     aliases: [davenport college common room, davenport theater, davenport common room, davenport dining hall], addresses: [248 York St]}
+  - {id: stiles, name: Ezra Stiles College, lat: 41.31338, lng: -72.93066, source: manual,
+     aliases: [stiles college, stiles common room, stiles dining hall], addresses: [19 Tower Pkwy]}
+  - {id: morse, name: Morse College, lat: 41.31275, lng: -72.93115, source: manual,
+     aliases: [crescent underground, crescent theater, crescent theatre, morse and stiles underground, morse and stiles colleges, morse common room],
+     addresses: [304 York St]}
+  - {id: hopper, name: Grace Hopper College, lat: 41.30898, lng: -72.92591, source: manual,
+     aliases: [hopper college, hopper cabaret, grace hopper cabaret, hopper common room, hopper dining hall], addresses: [189 Elm St]}
+  - {id: je, name: Jonathan Edwards College, lat: 41.30880, lng: -72.93033, source: manual,
+     aliases: [je common room, je dining hall, jonathan edwards common room], addresses: [68 High St]}
+  - {id: pierson, name: Pierson College, lat: 41.30980, lng: -72.93290, source: manual,
+     aliases: [pierson college dining hall, pierson common room], addresses: [261 Park St]}
+  - {id: saybrook, name: Saybrook College, lat: 41.31047, lng: -72.93072, source: manual,
+     aliases: [saybrook underbrook, the saybrook underbrook, saybrook common room], addresses: [242 Elm St]}
+  - {id: silliman, name: Silliman College, lat: 41.31195, lng: -72.92500, source: manual,
+     aliases: [silliman, silliman common room], addresses: [505 College St]}
+  - {id: td, name: Timothy Dwight College, lat: 41.31222, lng: -72.92318, source: manual,
+     aliases: [td common room, timothy dwight common room], addresses: [345 Temple St]}
+  - {id: trumbull, name: Trumbull College, lat: 41.31110, lng: -72.92980, source: manual,
+     aliases: [trumbull head of college house, trumbull common room], addresses: [241 Elm St]}
+  - {id: schwarzman, name: Schwarzman Center, lat: 41.31258, lng: -72.92647, source: manual,
+     aliases: [yale schwarzman center, schwarzman dome, schwarzman good life center lounge, good life center, commons dining hall, the underground],
+     addresses: [168 Grove St]}
+  - {id: woolsey, name: Woolsey Hall, lat: 41.31202, lng: -72.92680, source: manual, aliases: [], addresses: [500 College St]}
+  - {id: battell, name: Battell Chapel, lat: 41.30864, lng: -72.92721, source: manual, aliases: [], addresses: [400 College St]}
+  - {id: dwight_hall, name: Dwight Hall, lat: 41.30909, lng: -72.92886, source: manual, aliases: [], addresses: [67 High St]}
+  - {id: sprague, name: Sprague Hall, lat: 41.31146, lng: -72.92695, source: manual,
+     aliases: [morse recital hall], addresses: [470 College St]}
+  - {id: stoeckel, name: Stoeckel Hall, lat: 41.31098, lng: -72.92628, source: manual, aliases: [], addresses: [469 College St]}
+  - {id: hendrie, name: Hendrie Hall, lat: 41.30920, lng: -72.92478, source: manual, aliases: [], addresses: [165 Elm St]}
+  - {id: afam, name: Afro-American Cultural Center, lat: 41.31210, lng: -72.93318, source: manual,
+     aliases: [afro american cultural center at yale, afam house, the house], addresses: [211 Park St]}
+  - {id: aacc, name: Asian American Cultural Center, short: AACC, lat: 41.30685, lng: -72.93141, source: manual,
+     aliases: [aacc, aacc backyard], addresses: [295 Crown St]}
+  - {id: lacasa, name: La Casa Cultural, lat: 41.30672, lng: -72.93182, source: manual,
+     aliases: [la casa, la casa cultural backyard], addresses: [301 Crown St]}
+  - {id: menacc, name: Middle Eastern and North African Cultural Center, short: MENA CC, lat: 41.30665, lng: -72.93220, source: manual,
+     aliases: [middle eastern north african cultural center, mena cc], addresses: [305 Crown St]}
+  - {id: nacc, name: Native American Cultural Center, short: NACC, lat: 41.30654, lng: -72.92978, source: manual,
+     aliases: [nacc], addresses: [26 High St]}
+  - {id: prospect135, name: Yale LGBTQ Center / McDougal Center, lat: 41.31540, lng: -72.92610, source: manual,
+     aliases: [yale lgbtq center, lgbtq center, yale lgbtq center cafe, mcdougal courtyard, mcdougal graduate student center, mcdougal center],
+     addresses: [135 Prospect St]}
+  - {id: yalerep, name: Yale Repertory Theatre, lat: 41.30800, lng: -72.93143, source: manual,
+     aliases: [yale rep], addresses: [1120 Chapel St]}
+  - {id: univ_theatre, name: University Theatre, lat: 41.30941, lng: -72.93141, source: manual, aliases: [], addresses: [222 York St]}
+  - {id: yuag, name: Yale University Art Gallery, lat: 41.30835, lng: -72.93067, source: manual,
+     aliases: [yale university art gallery patio], addresses: [1111 Chapel St]}
+  - {id: ycba, name: Yale Center for British Art, lat: 41.30788, lng: -72.93000, source: manual, aliases: [], addresses: [1080 Chapel St]}
+  - {id: rudolph, name: Paul Rudolph Hall, lat: 41.30816, lng: -72.93138, source: manual,
+     aliases: [rudolph hall], addresses: [180 York St]}
+  - {id: ccam, name: Center for Collaborative Arts and Media, short: CCAM, lat: 41.30660, lng: -72.93270, source: manual,
+     aliases: [ccam, leeds studio], addresses: [149 York St]}
+  - {id: pwg, name: Payne Whitney Gymnasium, lat: 41.31310, lng: -72.93380, source: manual,
+     aliases: [payne whitney gym, john j lee amphitheater, lee amphitheater], addresses: [70 Tower Pkwy]}
+  - {id: ingalls, name: Ingalls Rink, lat: 41.31737, lng: -72.92854, source: manual, aliases: [], addresses: [73 Sachem St]}
+  - {id: reese, name: Reese Stadium, lat: 41.31420, lng: -72.96120, source: manual, aliases: [], addresses: [75 Central Ave]}
+  - {id: johnson_field, name: Johnson Field, lat: 41.31470, lng: -72.96250, source: manual, aliases: [], addresses: [70 Central Ave]}
+  - {id: yale_bowl, name: Yale Bowl, lat: 41.31330, lng: -72.95960, source: manual, aliases: [], addresses: [81 Central Ave]}
+  - {id: tennis, name: Cullman-Heyman Tennis Center, lat: 41.31063, lng: -72.96334, source: manual,
+     aliases: [cullman heyman tennis center], addresses: [45 Yale Ave]}
+  - {id: yds, name: Yale Divinity School, short: YDS, lat: 41.32313, lng: -72.92264, source: manual,
+     aliases: [yds, sterling divinity quadrangle, niebuhr hall, latourette, marquand chapel, bushnell seminar room, living village community kitchen, div school],
+     addresses: [409 Prospect St]}
+  - {id: miller, name: Miller Hall, lat: 41.32250, lng: -72.92360, source: manual, aliases: [], addresses: [406 Prospect St]}
+  - {id: divfarm, name: Yale Divinity School Farm, lat: 41.32385, lng: -72.92105, source: manual,
+     aliases: [divfarm, divfarm fire pit, yale divinity farm], addresses: [350 Canner St]}
+  - {id: farnam_gardens, name: Farnam Memorial Gardens, lat: 41.32100, lng: -72.92390, source: manual, aliases: [], addresses: [335 Prospect St]}
+  - {id: ysph, name: Yale School of Public Health (LEPH), lat: 41.30280, lng: -72.93200, source: manual,
+     aliases: [yale school of public health, winslow auditorium, leph], room_prefixes: [leph], addresses: [60 College St]}
+  - {id: yigh, name: Yale Institute for Global Health, lat: 41.30398, lng: -72.93012, source: manual, aliases: [], addresses: [100 College St]}
+  - {id: shm, name: Sterling Hall of Medicine, short: SHM, lat: 41.30332, lng: -72.93378, source: manual,
+     aliases: [harkness auditorium, m s harkness auditorium, medical historical library, cushing whitney medical library, cushing whitney library, steiner room],
+     room_prefixes: [shm, shml], addresses: [333 Cedar St]}
+  - {id: brady, name: Brady Memorial Laboratory, lat: 41.30330, lng: -72.93290, source: manual, aliases: [], addresses: [310 Cedar St]}
+  - {id: hope, name: Jane Ellen Hope Building, lat: 41.30370, lng: -72.93320, source: manual,
+     aliases: [hope building], room_prefixes: [hope], addresses: [315 Cedar St]}
+  - {id: tac, name: The Anlyan Center, short: TAC, lat: 41.30241, lng: -72.93300, source: manual,
+     aliases: [anlyan center], room_prefixes: [tac], addresses: [300 Cedar St]}
+  - {id: bcmm, name: Boyer Center for Molecular Medicine, short: BCMM, lat: 41.30330, lng: -72.93490, source: manual,
+     aliases: [bcmm], room_prefixes: [bcmm], addresses: [295 Congress Ave]}
+  - {id: nihb, name: Yale Child Study Center (Cohen Auditorium), lat: 41.30219, lng: -72.93611, source: manual,
+     aliases: [cohen auditorium, yale child study center, child study center, neison irving harris building, nihb],
+     addresses: [230 South Frontage Rd]}
+  - {id: wall53, name: 53 Wall Street, lat: 41.31064, lng: -72.93084, source: manual,
+     aliases: [53 wall street auditorium, 53 wall street black box theater], addresses: [53 Wall St]}
+  - {id: yale_health, name: Yale Health Center, lat: 41.31580, lng: -72.92945, source: manual,
+     aliases: [farmington canal trail], addresses: [55 Lock St]}
+  - {id: west_campus, name: Yale West Campus, lat: 41.25520, lng: -72.99180, source: manual,
+     aliases: [west campus, yale west campus, west campus conference center], addresses: [840 West Campus Dr, 800 West Campus Dr]}
+  - {id: ysn, name: Yale School of Nursing, lat: 41.25330, lng: -72.99510, source: manual, aliases: [], addresses: [400 West Campus Dr]}
+  - {id: oiss, name: Office of International Students and Scholars, short: OISS, lat: 41.31371, lng: -72.92290, source: manual,
+     aliases: [oiss], addresses: [421 Temple St]}
+  - {id: temple433, name: 433 Temple Street, lat: 41.31395, lng: -72.92275, source: manual, aliases: [], addresses: [433 Temple St]}
+  - {id: beinecke, name: Beinecke Rare Book and Manuscript Library, lat: 41.31157, lng: -72.92730, source: manual,
+     aliases: [beinecke, beinecke library], addresses: [121 Wall St]}
+  - {id: slifka, name: Slifka Center, lat: 41.31110, lng: -72.93030, source: manual, aliases: [], addresses: [80 Wall St]}
+  - {id: stm, name: Saint Thomas More Chapel, lat: 41.30995, lng: -72.93342, source: manual,
+     aliases: [st thomas more, saint thomas more], addresses: [268 Park St]}
+  - {id: cross_campus, name: Cross Campus, lat: 41.31070, lng: -72.92860, source: manual, aliases: []}
+  - {id: old_campus, name: Old Campus, lat: 41.30840, lng: -72.92860, source: manual, aliases: []}
+  - {id: desk, name: DESK (Downtown Evening Soup Kitchen), lat: 41.30660, lng: -72.92170, source: manual,
+     aliases: [desk, downtown evening soup kitchen], addresses: [260 State St]}
+  - {id: bobbis, name: "Bobbi's Detroit Style Pizza", lat: 41.31160, lng: -72.93240, source: manual,
+     aliases: [bobbis detroit style pizza, bobbi s detroit style pizza], addresses: [51 Broadway]}
+  - {id: off_broadway, name: Off Broadway Theater, lat: 41.31135, lng: -72.93220, source: manual, aliases: [], addresses: [41 Broadway]}
+  - {id: york168, name: 168 York Street Cafe, lat: 41.30780, lng: -72.93190, source: manual,
+     aliases: [168 york street], addresses: [168 York St]}
+  - {id: lds_trumbull, name: Church of Jesus Christ of Latter-day Saints (Trumbull St), lat: 41.31430, lng: -72.92150, source: manual,
+     aliases: [the church of jesus christ of latter day saints], addresses: [84 Trumbull St]}
+  - {id: gcafe, name: G Cafe East Rock, lat: 41.31990, lng: -72.91400, source: manual, aliases: [], addresses: [534 Orange St]}
+  - {id: pistachio, name: Pistachio Cafe, lat: 41.30660, lng: -72.93600, source: manual,
+     aliases: [pistachio cafe 2], addresses: [1245 Chapel St]}
+  - {id: mary_wade, name: Mary Wade, lat: 41.30860, lng: -72.89010, source: manual,
+     aliases: [chatham place at mary wade], addresses: [138 Clinton Ave]}
+  - {id: hemingway_creek, name: Mariposas del Mundo Butterfly Garden, lat: 41.30140, lng: -72.87530, source: manual,
+     aliases: [mariposas del mundo butterfly garden at hemingway creek], addresses: [261 Eastern St]}
+  - {id: college_woods, name: College Woods (East Rock Park), lat: 41.32900, lng: -72.90800, source: manual,
+     aliases: [college woods], addresses: [41 Cold Spring St]}
+  - {id: riva, name: The Lodge at RIVA, lat: 41.25650, lng: -72.94400, source: manual, aliases: [], addresses: [183 Beach St]}
+  - {id: dyclc, name: Dixwell Yale Community Learning Center, short: DYCLC, lat: 41.31990, lng: -72.93790, source: manual,
+     aliases: [dyclc], addresses: [117 Dixwell Ave]}
+  - {id: edgewood32, name: The Art Gallery at 32 Edgewood Ave, lat: 41.30880, lng: -72.93380, source: manual,
+     aliases: [], addresses: [32 Edgewood Ave]}

@@ -1,0 +1,3473 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:CAMPUSGROUPS
+X-WR-CALNAME:Undergraduate Production
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+DTSTAMP:20261117T002142Z
+LAST-MODIFIED:20260909T171051Z
+CREATED:20260828T130024Z
+SEQUENCE:33
+ORGANIZER;CN="Just Add Water":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCJAW/rsvp_boot?id=2327508#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCJAW
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Comedy,Music
+DTSTART:20260911T000000Z
+DTEND:20260911T010000Z
+UID:bfa02c7b6bdfae7579b964fb70baee448282026_9:00:24_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Just Add Water Recruitment Show
+LOCATION:Crescent Underground
+URL:https://yaleconnect.yale.edu/rsvp?id=2327508
+DESCRIPTION:Join JAW for our annual recruitment show!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2327508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002137Z
+LAST-MODIFIED:20260903T010025Z
+CREATED:20260828T134259Z
+SEQUENCE:30
+ORGANIZER;CN="Just Add Water":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCJAW/rsvp_boot?id=2327776#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCJAW
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Comedy,Music
+DTSTART:20260907T003000Z
+DTEND:20260907T013000Z
+UID:91f131a8e19a0ab94eefa5a998465f6c8282026_9:42:59_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:IMPROVAGANZA!
+LOCATION:SSS 114
+URL:https://yaleconnect.yale.edu/rsvp?id=2327776
+DESCRIPTION:Each year, Yale’s four INCREDIBLE improv comedy groups perform a short set for the incoming class! Come LAUGH with us as we kick off improv rush!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2327776
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002136Z
+LAST-MODIFIED:20260828T223512Z
+CREATED:20260828T223355Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328108#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260905T170000Z
+DTEND:20260905T200000Z
+UID:3d69f1ffcbb4b86705668bc2ab06cc5b8282026_6:33:55_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Auditions Day 2
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328108
+DESCRIPTION:Auditions for Assassins \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328108
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002137Z
+LAST-MODIFIED:20260828T223647Z
+CREATED:20260828T223523Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328109#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260906T203000Z
+DTEND:20260906T233000Z
+UID:59fb542f60103365537a67809e7e237c8282026_6:35:23_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Auditions Day 3
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328109
+DESCRIPTION:Auditions for Assassins\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328109
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002134Z
+LAST-MODIFIED:20260829T002442Z
+CREATED:20260829T002156Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328124#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260902T220000Z
+DTEND:20260903T020000Z
+UID:88abc19ddd96980c3c457989922299228282026_8:21:56_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Auditions DAY 1
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328124
+DESCRIPTION:Uncle Vanya Auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328124
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002134Z
+LAST-MODIFIED:20260829T002524Z
+CREATED:20260829T002455Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328125#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260903T220000Z
+DTEND:20260904T020000Z
+UID:66073d767702a28ff74e00b8fb4923e18282026_8:24:55_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Auditions DAY 2
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328125
+DESCRIPTION:Uncle Vanya Auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328125
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002135Z
+LAST-MODIFIED:20260829T002623Z
+CREATED:20260829T002534Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328126#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260904T220000Z
+DTEND:20260905T020000Z
+UID:09f9b7fb14927cb7ee30f32ff7a220098282026_8:25:34_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Auditions DAY 3
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328126
+DESCRIPTION:Uncle Vanya Auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328126
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002136Z
+LAST-MODIFIED:20260829T002719Z
+CREATED:20260829T002634Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328127#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260905T143000Z
+DTEND:20260905T173000Z
+UID:ba86d89c1217191e27b7e7d04d32459c8282026_8:26:34_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Auditions DAY 4
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328127
+DESCRIPTION:Uncle Vanya Auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328127
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002137Z
+LAST-MODIFIED:20260829T002933Z
+CREATED:20260829T002733Z
+SEQUENCE:3
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328129#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260906T143000Z
+DTEND:20260906T173000Z
+UID:79b7e79c5a4672115d7c269471517b9a8282026_8:27:33_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Auditions DAY 5
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328129
+DESCRIPTION:Uncle Vanya Auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328129
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002136Z
+LAST-MODIFIED:20260901T220826Z
+CREATED:20260831T155252Z
+SEQUENCE:5
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328337#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Training/Workshop
+CATEGORIES;X-CG-CATEGORY=event_tags:Arts,Theater,Dance
+DTSTART:20260906T140000Z
+DTEND:20260906T160000Z
+UID:d0de28838a9957260cf826f7b05d806b8312026_11:52:52_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:UPStart
+LOCATION:53 Wall Street Black Box Theater, 53 Wall Street, New Haven, CT 06520, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2328337
+DESCRIPTION:Want to be a theatre maker at Yale? Then UPStart is the perfect workshop for you. The Office of Undergraduate Production invites you to learn about how to produce and direct your own shows, apply for funding, operate basic theatrical equipment, and meet the Peer Mentors. More information about our office and the peer mentor program can be found here.\nhttps://up.yalecollege.yale.edu/resources/peer-mentor-program\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328337
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002136Z
+LAST-MODIFIED:20260831T175206Z
+CREATED:20260831T163059Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328351#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260905T160000Z
+DTEND:20260905T200000Z
+UID:8e7d3e68a05852ed2acc384a65c270488312026_12:30:59_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Musical Audition
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328351
+DESCRIPTION:Auditions for musical\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328351
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002135Z
+LAST-MODIFIED:20260903T004319Z
+CREATED:20260903T003713Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328748#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260904T213000Z
+DTEND:20260904T230000Z
+UID:5705645e94a0b381da062f53fec0c3d0922026_8:37:13_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Vegan Beef Auditions Day 1
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328748
+DESCRIPTION:Auditions for Vegan Beef\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328748
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002136Z
+LAST-MODIFIED:20260903T005118Z
+CREATED:20260903T004335Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328750#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260905T150000Z
+DTEND:20260905T163000Z
+UID:5d350afe3f5bdd699757a1dea176ad59922026_8:43:35_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Vegan Beef Auditions Day 2
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328750
+DESCRIPTION:Auditions for Vegan Beef\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328750
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002137Z
+LAST-MODIFIED:20260903T004746Z
+CREATED:20260903T004601Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328752#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260906T150000Z
+DTEND:20260906T160000Z
+UID:f4e12af323eb0060fdf73d3e0f20fa88922026_8:46:01_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Vegan Beef Day 3
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328752
+DESCRIPTION:Auditions for Vegan Beef\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328752
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002138Z
+LAST-MODIFIED:20260903T005031Z
+CREATED:20260903T004754Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328753#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260907T173000Z
+DTEND:20260907T193000Z
+UID:bfa7143a0ca7cac834e07a6453f93a67922026_8:47:54_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Vegan Beef Auditions Day 4
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328753
+DESCRIPTION:Auditions for Vegan Beef\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328753
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002134Z
+LAST-MODIFIED:20260903T015416Z
+CREATED:20260903T015211Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328770#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260903T220000Z
+DTEND:20260904T000000Z
+UID:f1fa938a5feec1074a4e3c4e87093588922026_9:52:11_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:bmc auditions day 1
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328770
+DESCRIPTION:bmc auditions day 1\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328770
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002136Z
+LAST-MODIFIED:20260903T144820Z
+CREATED:20260903T144558Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328857#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260905T190000Z
+DTEND:20260905T230000Z
+UID:c0afa1e2f6f920a89ebd37b263ceb184932026_10:45:58_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:bmc auditions day 2
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328857
+DESCRIPTION:bmc auditions \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328857
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002137Z
+LAST-MODIFIED:20260903T144935Z
+CREATED:20260903T144830Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2328858#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260906T143000Z
+DTEND:20260906T170000Z
+UID:180ecdaf68497f6409f7c6ffe67e4cbf932026_10:48:30_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:bmc auditions day 3
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328858
+DESCRIPTION:bmc auditions \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328858
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002136Z
+LAST-MODIFIED:20260904T220502Z
+CREATED:20260904T220324Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2329096#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260905T160000Z
+DTEND:20260905T180000Z
+UID:61cde084866f5f0d45deb101f02af271942026_6:03:24_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:She Loves Me Auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2329096
+DESCRIPTION:she loves me auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2329096
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002136Z
+LAST-MODIFIED:20260905T154719Z
+CREATED:20260905T154445Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2329137#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260905T200000Z
+DTEND:20260905T220000Z
+UID:c9bbccbe82872796afae286cad741621952026_11:44:45_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Tick Tick Boom Auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2329137
+DESCRIPTION:Tick Tick Boom Auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2329137
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002137Z
+LAST-MODIFIED:20260906T144228Z
+CREATED:20260906T144005Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2329238#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260906T160000Z
+DTEND:20260906T173000Z
+UID:8db8ac89cb0d73ce74737c84a19e5a75962026_10:40:05_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2329238
+DESCRIPTION:Falsettos Auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2329238
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002139Z
+LAST-MODIFIED:20260906T230041Z
+CREATED:20260906T225029Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2329278#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260908T220000Z
+DTEND:20260908T223000Z
+UID:4066aa2e0b7db5c570a0ec35f386efe9962026_6:50:29_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Musical Callback
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2329278
+DESCRIPTION:Callback for musical\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2329278
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002139Z
+LAST-MODIFIED:20260906T230637Z
+CREATED:20260906T225504Z
+SEQUENCE:3
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2329281#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260908T233000Z
+DTEND:20260909T023000Z
+UID:9e2ffbc6d15717f3362a23ff8cb61e58962026_6:55:04_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Musical Callbacks
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2329281
+DESCRIPTION:Callbacks for musical\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2329281
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002139Z
+LAST-MODIFIED:20260906T230551Z
+CREATED:20260906T230114Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2329282#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260908T223000Z
+DTEND:20260908T231500Z
+UID:1ee6cfc19bf18a6e1a4029054b2ae171962026_7:01:14_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Musical Callbacks
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2329282
+DESCRIPTION:Callbacks for musical\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2329282
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002139Z
+LAST-MODIFIED:20260907T192156Z
+CREATED:20260907T185703Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2329364#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260908T213000Z
+DTEND:20260909T013000Z
+UID:4c910349c47cd6a23a9c2c9e7e36dc55972026_2:57:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Vanya Callbacks Day 1
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2329364
+DESCRIPTION:Vanya Callbacks\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2329364
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002140Z
+LAST-MODIFIED:20260907T192304Z
+CREATED:20260907T192200Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2329399#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260909T213000Z
+DTEND:20260909T223000Z
+UID:22c351e6e038e65e511f13de1ac04c05972026_3:22:00_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Vanya Callbacks Day 2
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2329399
+DESCRIPTION:Vanya Callbacks Day 2\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2329399
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002141Z
+LAST-MODIFIED:20260909T194107Z
+CREATED:20260909T193950Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2329937#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260910T004500Z
+DTEND:20260910T030000Z
+UID:cb12d8e8bc7f02a52857734736e689cc992026_3:39:50_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:bmc callbacks
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2329937
+DESCRIPTION:bmc callbacks\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2329937
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002153Z
+LAST-MODIFIED:20260911T235033Z
+CREATED:20260911T234801Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2330358#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260920T180000Z
+DTEND:20260920T200000Z
+UID:716169a35d2a86ee6a2409b592708c229112026_7:48:01_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2330358
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2330358
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002151Z
+LAST-MODIFIED:20260913T231306Z
+CREATED:20260913T220627Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2330554#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260918T224500Z
+DTEND:20260919T000000Z
+UID:79c5741979f6039c896fabb8101fc45c9132026_6:06:27_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Music Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2330554
+DESCRIPTION:Falsettos Music Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2330554
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002158Z
+LAST-MODIFIED:20260913T231740Z
+CREATED:20260913T231609Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2330561#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260925T220000Z
+DTEND:20260926T010000Z
+UID:df76dde075822000b76ce8692db006469132026_7:16:09_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Music Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2330561
+DESCRIPTION:Falsettos Music Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2330561
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002151Z
+LAST-MODIFIED:20260915T015302Z
+CREATED:20260915T015103Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2330757#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260918T170000Z
+DTEND:20260918T200000Z
+UID:3f2e6e4f76cf6d6a5b549503e36448d49142026_9:51:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2330757
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2330757
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002153Z
+LAST-MODIFIED:20260915T015444Z
+CREATED:20260915T015310Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2330758#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260921T201500Z
+DTEND:20260921T211500Z
+UID:848172faffbeb522f730b6785ebd31889142026_9:53:10_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2330758
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2330758
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002149Z
+LAST-MODIFIED:20260915T015549Z
+CREATED:20260915T015403Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2330759#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260916T230000Z
+DTEND:20260917T000000Z
+UID:6eb120619a2fea5dae949a8086bdf4ae9142026_9:54:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:UPA rehe
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2330759
+DESCRIPTION:UPA rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2330759
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002155Z
+LAST-MODIFIED:20260915T015725Z
+CREATED:20260915T015545Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2330761#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260922T233000Z
+DTEND:20260923T010000Z
+UID:35b342225f13c3366be4751d951cbdce9142026_9:55:45_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2330761
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2330761
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002156Z
+LAST-MODIFIED:20260915T015850Z
+CREATED:20260915T015758Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2330762#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260923T233000Z
+DTEND:20260924T010000Z
+UID:3a39470503a4f018ab4832efa384c3269142026_9:57:58_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2330762
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2330762
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002249Z
+LAST-MODIFIED:20261025T224639Z
+CREATED:20260915T172117Z
+SEQUENCE:24
+ORGANIZER;CN="Just Add Water":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCJAW/rsvp_boot?id=2330866#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCJAW
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Comedy,Music
+DTSTART:20261108T010000Z
+DTEND:20261108T023000Z
+UID:71901c34b46ba7aff8e94e44ec8bd6b49152026_1:21:17_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Just Add Water 40th Reunion Show!
+LOCATION:LC 101, New Haven, CT 06520, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2330866
+DESCRIPTION:Just Add Water Celebrates its 40th Reunion!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2330866
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002156Z
+LAST-MODIFIED:20260916T025417Z
+CREATED:20260916T025302Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331174#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260923T010000Z
+DTEND:20260923T020000Z
+UID:4a5bf2f5cbbea633e65b3c01fa727d479152026_10:53:02_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Music Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331174
+DESCRIPTION:Falsettos Music Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331174
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002158Z
+LAST-MODIFIED:20260916T160444Z
+CREATED:20260916T160333Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331215#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260925T170000Z
+DTEND:20260925T200000Z
+UID:bd2328d2842565eaac46f79fc0fee89a9162026_12:03:33_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SOML Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331215
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331215
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002204Z
+LAST-MODIFIED:20260916T161551Z
+CREATED:20260916T160657Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331216#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261001T220000Z
+DTEND:20261002T020000Z
+UID:fc205fbb6033d47d3ef35181da8df08b9162026_12:06:57_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Antigone Auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331216
+DESCRIPTION:auditions for CPA\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331216
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002206Z
+LAST-MODIFIED:20260916T162641Z
+CREATED:20260916T162503Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331220#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261004T140000Z
+DTEND:20261004T200000Z
+UID:edda0a038fb1e6d47c561690b71dfeda9162026_12:25:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Antigone Auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331220
+DESCRIPTION:auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331220
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002217Z
+LAST-MODIFIED:20261010T182903Z
+CREATED:20260918T194928Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331618#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261011T170000Z
+DTEND:20261011T210000Z
+UID:bf7c328cc909ceb56d16feb2bc4a23399182026_3:49:28_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Act I Run Through
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331618
+DESCRIPTION:Falsettos Act I Run Through\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331618
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002215Z
+LAST-MODIFIED:20261009T033752Z
+CREATED:20260918T200308Z
+SEQUENCE:24
+ORGANIZER;CN="Just Add Water":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCJAW/rsvp_boot?id=2331620#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCJAW
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Comedy,Music
+DTSTART:20261010T000000Z
+DTEND:20261010T011500Z
+UID:c5bd8e57c329168046c7b056a958de259182026_4:03:08_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Just Add Water's Family Weekend Show!
+LOCATION:Crescent Underground
+URL:https://yaleconnect.yale.edu/rsvp?id=2331620
+DESCRIPTION:Just Add Water introduces are NEWEST BABIES!!!!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331620
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002206Z
+LAST-MODIFIED:20260919T162747Z
+CREATED:20260919T162655Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331647#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261003T140000Z
+DTEND:20261003T170000Z
+UID:e0a3c601087a3b8524d4f12b68f314079192026_12:26:55_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Antigone Auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331647
+DESCRIPTION:auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331647
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002154Z
+LAST-MODIFIED:20260919T172917Z
+CREATED:20260919T172621Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331650#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260922T011500Z
+DTEND:20260922T030000Z
+UID:e625f0f3b72cb8da80dc740ab4a649c39192026_1:26:21_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331650
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331650
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002156Z
+LAST-MODIFIED:20260919T173050Z
+CREATED:20260919T172937Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331651#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260923T211500Z
+DTEND:20260923T221500Z
+UID:ab5b918977aca66f469dd01b7cabe35e9192026_1:29:37_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331651
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331651
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002159Z
+LAST-MODIFIED:20260919T173155Z
+CREATED:20260919T173100Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331652#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260926T230000Z
+DTEND:20260927T010000Z
+UID:0992e5318fdc371bc3ddd0d64b927e7c9192026_1:31:00_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331652
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331652
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002200Z
+LAST-MODIFIED:20260919T173513Z
+CREATED:20260919T173208Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331653#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260928T201500Z
+DTEND:20260928T221500Z
+UID:ea38c590bd8baf712a5fc1eed62154cc9192026_1:32:08_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331653
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331653
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002201Z
+LAST-MODIFIED:20260919T173609Z
+CREATED:20260919T173518Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331655#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260929T011500Z
+DTEND:20260929T030000Z
+UID:a4d878dc71ec2d6656bf275eb6b7779c9192026_1:35:18_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331655
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331655
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002203Z
+LAST-MODIFIED:20260919T174021Z
+CREATED:20260919T173932Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331657#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260930T211500Z
+DTEND:20260930T233000Z
+UID:c57e1a6574ec3eabf65e3af2e31351b29192026_1:39:32_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331657
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331657
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002205Z
+LAST-MODIFIED:20260919T174204Z
+CREATED:20260919T174122Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331660#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261002T170000Z
+DTEND:20261002T200000Z
+UID:d4e0e2fb4f7bfb43b246fc43a345fa9c9192026_1:41:22_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331660
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331660
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002208Z
+LAST-MODIFIED:20260919T174312Z
+CREATED:20260919T174211Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331661#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261005T201500Z
+DTEND:20261005T221500Z
+UID:0ae1b19ff3948bb6835655e602239d2f9192026_1:42:11_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331661
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331661
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002208Z
+LAST-MODIFIED:20260919T174406Z
+CREATED:20260919T174318Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331662#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261006T011500Z
+DTEND:20261006T030000Z
+UID:fef8e335541bde44bc41bf6fb8c16bf29192026_1:43:18_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331662
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331662
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002210Z
+LAST-MODIFIED:20260919T174448Z
+CREATED:20260919T174411Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331663#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261007T000000Z
+DTEND:20261007T020000Z
+UID:f5d2c22afb2bcc9ca0ab291826d9daee9192026_1:44:11_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331663
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331663
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002211Z
+LAST-MODIFIED:20260919T174527Z
+CREATED:20260919T174451Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331664#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261007T230000Z
+DTEND:20261008T000000Z
+UID:a15dd5c69544fab5c22d99f498da45f49192026_1:44:51_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331664
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331664
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002214Z
+LAST-MODIFIED:20260919T174714Z
+CREATED:20260919T174641Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331666#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261009T170000Z
+DTEND:20261009T200000Z
+UID:b57f34e9611911d49fe6da6d2961c8419192026_1:46:41_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331666
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331666
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002216Z
+LAST-MODIFIED:20260919T174804Z
+CREATED:20260919T174718Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331667#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261010T203000Z
+DTEND:20261010T213000Z
+UID:9bffbe3ea8b19f8aa100418335d1b5939192026_1:47:18_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331667
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331667
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002218Z
+LAST-MODIFIED:20260919T174949Z
+CREATED:20260919T174811Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331668#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261012T201500Z
+DTEND:20261012T221500Z
+UID:84280f773993720805d26e89ed69b7459192026_1:48:11_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331668
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331668
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002227Z
+LAST-MODIFIED:20260919T174949Z
+CREATED:20260919T174947Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331669#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261019T201500Z
+DTEND:20261019T221500Z
+UID:10a82ae00d664029ece0b1a55846f87a9192026_1:49:47_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331669
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331669
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002219Z
+LAST-MODIFIED:20260919T175307Z
+CREATED:20260919T175003Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331670#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261013T011500Z
+DTEND:20261013T030000Z
+UID:7dedb9de6f07da9b51819484f07762099192026_1:50:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331670
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331670
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002222Z
+LAST-MODIFIED:20260919T175307Z
+CREATED:20260919T175304Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331671#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261015T011500Z
+DTEND:20261015T030000Z
+UID:22ce8a94fc67a313cf243346ca8cd2619192026_1:53:04_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331671
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331671
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002228Z
+LAST-MODIFIED:20260919T175307Z
+CREATED:20260919T175305Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331672#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261020T011500Z
+DTEND:20261020T030000Z
+UID:d42012acaa32565440e9dfb60c6b4e269192026_1:53:05_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331672
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331672
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002232Z
+LAST-MODIFIED:20260919T175307Z
+CREATED:20260919T175305Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331673#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261027T011500Z
+DTEND:20261027T030000Z
+UID:3321afbc502b61fa925a824433e694be9192026_1:53:05_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331673
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331673
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002220Z
+LAST-MODIFIED:20260919T175452Z
+CREATED:20260919T175311Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331674#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261013T233000Z
+DTEND:20261014T020000Z
+UID:dc856a7cc5ae1e5c93ba662c4d01d4429192026_1:53:11_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331674
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331674
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002221Z
+LAST-MODIFIED:20260919T175539Z
+CREATED:20260919T175455Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331676#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261014T201500Z
+DTEND:20261014T211500Z
+UID:53567de316759177fea441620b2fd9be9192026_1:54:55_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331676
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331676
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002223Z
+LAST-MODIFIED:20260919T175917Z
+CREATED:20260919T175545Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331677#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261015T203000Z
+DTEND:20261015T213000Z
+UID:484d3dbbc8ce77ee8fcaaad5dd2ccbcf9192026_1:55:45_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331677
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331677
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002223Z
+LAST-MODIFIED:20260919T180109Z
+CREATED:20260919T180031Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331678#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261015T213000Z
+DTEND:20261015T223000Z
+UID:28a1cb0da77878b0b429b72f106dcf689192026_2:00:31_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331678
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331678
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002224Z
+LAST-MODIFIED:20260919T180205Z
+CREATED:20260919T180116Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331679#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261016T163000Z
+DTEND:20261016T183000Z
+UID:0ab8dc3112bf2b4a8fbf18efa3b156ef9192026_2:01:16_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331679
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331679
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002226Z
+LAST-MODIFIED:20260919T180243Z
+CREATED:20260919T180210Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331680#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+UID:1ae85c1bcf9a25ba0819a4d5004cf8869192026_2:02:10_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331680
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331680
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002233Z
+LAST-MODIFIED:20260919T180423Z
+CREATED:20260919T180247Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331681#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261027T233000Z
+DTEND:20261028T030000Z
+UID:e26c3404ebc8ea565fb859f0a880b8049192026_2:02:47_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331681
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331681
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002234Z
+LAST-MODIFIED:20260919T180725Z
+CREATED:20260919T180429Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331683#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261028T200000Z
+DTEND:20261028T210000Z
+UID:c1238de84bb38ea2c91fb7f6177044de9192026_2:04:29_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331683
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331683
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002235Z
+LAST-MODIFIED:20260919T180852Z
+CREATED:20260919T180733Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331684#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261028T210000Z
+DTEND:20261028T230000Z
+UID:08b63b5bc921a1d056af452b467193c99192026_2:07:33_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331684
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331684
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002238Z
+LAST-MODIFIED:20260919T181006Z
+CREATED:20260919T180906Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331685#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261030T160000Z
+DTEND:20261030T190000Z
+UID:ddeaee0485aaadcafc2f80f67091bb529192026_2:09:06_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Story of My Life Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331685
+DESCRIPTION:rehe\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331685
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002156Z
+LAST-MODIFIED:20260920T224518Z
+CREATED:20260920T224353Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331944#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260923T010000Z
+DTEND:20260923T023000Z
+UID:770551ee55a96a79c8d62d06f2c8be719202026_6:43:53_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331944
+DESCRIPTION:Music rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331944
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002158Z
+LAST-MODIFIED:20260920T224649Z
+CREATED:20260920T224532Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331945#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260925T000000Z
+DTEND:20260925T020000Z
+UID:f4cdf4f98256a24f7c5a83ad4d4c5f5a9202026_6:45:32_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331945
+DESCRIPTION:Music rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331945
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002202Z
+LAST-MODIFIED:20260920T225057Z
+CREATED:20260920T224704Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331946#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260929T220000Z
+DTEND:20260929T233000Z
+UID:2011b922b91b2b8078ab965cd02396d19202026_6:47:04_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331946
+DESCRIPTION:Music Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331946
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002209Z
+LAST-MODIFIED:20260920T225745Z
+CREATED:20260920T225601Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2331947#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261006T220000Z
+DTEND:20261007T000000Z
+UID:7476ec6777c7222339ffc5d66c0ffc5b9202026_6:56:01_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331947
+DESCRIPTION:Music Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331947
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002211Z
+LAST-MODIFIED:20260921T171127Z
+CREATED:20260921T165511Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332067#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Info Session
+CATEGORIES;X-CG-CATEGORY=event_tags:Arts,Arts and Humanities,Workshop
+DTSTART:20261007T170000Z
+DTEND:20261007T180000Z
+UID:03df5c740ccb55fa8bea320200ac587d9212026_12:55:11_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Archiving Your Student Organization’s Records | A Lunchtime Workshop
+LOCATION:Sterling Memorial Library, International Room
+URL:https://yaleconnect.yale.edu/rsvp?id=2332067
+DESCRIPTION:Join University Archivist Mike Lotstein on Wednesday, October 7,\nto learn about archiving your student organization’s records. \n\nMike will review how to select, prepare, and transfer your student\norganization’s records to the University Archives and provide an\noverview of best practices to maintain and preserve your analog and digital archives within your organization.\n\nLunch will be provided\n\nRSVP to archives@yale.edu by 5 PM on Friday, October 2, 2026\n\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332067
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002153Z
+LAST-MODIFIED:20260921T212418Z
+CREATED:20260921T212311Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332114#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260921T110000Z
+DTEND:20260921T130000Z
+UID:f719ff0e8f7cd416ebca143943a90c2c9212026_5:23:11_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:vanya rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2332114
+DESCRIPTION:vanya rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332114
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002206Z
+LAST-MODIFIED:20260922T203526Z
+CREATED:20260922T203451Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332318#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261003T180000Z
+DTEND:20261003T200000Z
+UID:4f2fa2fef9d1010f3c9a044de16ec9489222026_4:34:51_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Antigone Auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2332318
+DESCRIPTION:auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332318
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002156Z
+LAST-MODIFIED:20260922T233833Z
+CREATED:20260922T233703Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332335#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260923T230000Z
+DTEND:20260924T000000Z
+UID:82ae01d04011b4cfee4df42c33bd3b499222026_7:37:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:[AoR] PPCLFAMECM
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2332335
+DESCRIPTION:standing rehearsal \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332335
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002214Z
+LAST-MODIFIED:20260923T134403Z
+CREATED:20260923T133957Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332382#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261009T180000Z
+DTEND:20261009T183000Z
+UID:9a0e6446790377e8dc1915b48ce5cfe99232026_9:39:57_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2332382
+DESCRIPTION:Falsettos Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332382
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002202Z
+LAST-MODIFIED:20260924T043232Z
+CREATED:20260924T042721Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332585#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260929T230000Z
+DTEND:20260930T013000Z
+UID:480a4d59b0249ba64601983bf12f5ae49242026_12:27:21_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2332585
+DESCRIPTION:Rehearsal for Assassins \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332585
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002211Z
+LAST-MODIFIED:20260924T225654Z
+CREATED:20260924T225112Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332697#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261007T200000Z
+DTEND:20261007T213000Z
+UID:892bce7535dce06f06013c606543837e9242026_6:51:12_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2332697
+DESCRIPTION:Music Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332697
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002214Z
+LAST-MODIFIED:20260924T225921Z
+CREATED:20260924T225702Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332698#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261009T200000Z
+DTEND:20261009T220000Z
+UID:f6bbb663d6141aa1deefc1d80e9e3c579242026_6:57:02_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2332698
+DESCRIPTION:Music Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332698
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002207Z
+LAST-MODIFIED:20260925T004155Z
+CREATED:20260925T003303Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332725#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261004T163000Z
+DTEND:20261004T193000Z
+UID:59408be3d3e08dce6380ac462528eeac9242026_8:33:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2332725
+DESCRIPTION:Rehearsal for Assassins \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332725
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002205Z
+LAST-MODIFIED:20260925T004556Z
+CREATED:20260925T004217Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332727#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261002T191500Z
+DTEND:20261002T204500Z
+UID:34b226f100d80cf367eedfec095601fa9242026_8:42:17_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2332727
+DESCRIPTION:Rehearsal for Assassins\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332727
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002208Z
+LAST-MODIFIED:20260925T005227Z
+CREATED:20260925T004918Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2332729#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261005T233000Z
+DTEND:20261006T013000Z
+UID:119de516df2b22e691273947ed1175379242026_8:49:18_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2332729
+DESCRIPTION:Rehearsal for Assassins\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2332729
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002200Z
+LAST-MODIFIED:20260927T173903Z
+CREATED:20260927T173726Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2333067#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260927T223000Z
+DTEND:20260928T013000Z
+UID:93552fdafaa701297a318db3ee7ea20d9272026_1:37:26_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Vanya read-through
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2333067
+DESCRIPTION:Vanya read-through\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2333067
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002201Z
+LAST-MODIFIED:20260928T215655Z
+CREATED:20260928T215504Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2333566#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260929T000000Z
+DTEND:20260929T010000Z
+UID:a8ce25f41b86e7abdfe63ca4602cbda19282026_5:55:04_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Vanya rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2333566
+DESCRIPTION:Vanya rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2333566
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002202Z
+LAST-MODIFIED:20260929T031709Z
+CREATED:20260929T030809Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2333713#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260929T220000Z
+DTEND:20260929T230000Z
+UID:7e8310d3f03f5b3d09a6d61ba0e532229282026_11:08:09_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2333713
+DESCRIPTION:Uncle Vanya Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2333713
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002203Z
+LAST-MODIFIED:20260930T014747Z
+CREATED:20260930T014648Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2333851#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260930T230000Z
+DTEND:20261001T000000Z
+UID:63973cddecd12533d32b379a5376774b9292026_9:46:48_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:[AoR] PPCLFAMECM
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2333851
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2333851
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002203Z
+LAST-MODIFIED:20260930T131509Z
+CREATED:20260930T130549Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334011#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20260930T210000Z
+DTEND:20260930T233000Z
+UID:d745b86faffb8d163f058e5234367a999302026_9:05:49_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334011
+DESCRIPTION:Falsettos Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334011
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002218Z
+LAST-MODIFIED:20260930T150939Z
+CREATED:20260930T150749Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334035#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261012T210000Z
+DTEND:20261012T223000Z
+UID:0edf2c39f407a95fa6907cb0a49af6799302026_11:07:49_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334035
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334035
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002220Z
+LAST-MODIFIED:20260930T151145Z
+CREATED:20260930T150948Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334036#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261014T000000Z
+DTEND:20261014T013000Z
+UID:32955e13b01e69f861edaeef89986be39302026_11:09:48_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334036
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334036
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002224Z
+LAST-MODIFIED:20260930T151610Z
+CREATED:20260930T151151Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334037#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261016T190000Z
+DTEND:20261016T210000Z
+UID:1fa53cc3164c497446ebc5345d56d0e49302026_11:11:51_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334037
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334037
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002226Z
+LAST-MODIFIED:20260930T151728Z
+CREATED:20260930T151629Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334039#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261018T200000Z
+DTEND:20261018T213000Z
+UID:3e75a361203901caaa036915b4fe19dc9302026_11:16:29_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334039
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334039
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002227Z
+LAST-MODIFIED:20260930T152556Z
+CREATED:20260930T151755Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334040#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261019T211500Z
+DTEND:20261019T221500Z
+UID:88446e39daf2c1e1b7b89d0c1b7aca749302026_11:17:55_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334040
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334040
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002231Z
+LAST-MODIFIED:20260930T152847Z
+CREATED:20260930T152743Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334044#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261026T200000Z
+DTEND:20261026T220000Z
+UID:4f0b7774ad86f6585b64043c20a214709302026_11:27:43_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334044
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334044
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002236Z
+LAST-MODIFIED:20260930T153010Z
+CREATED:20260930T152905Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334046#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261029T010000Z
+DTEND:20261029T023000Z
+UID:56cdb058a1a640b2bccb2c720ec92f799302026_11:29:05_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334046
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334046
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002225Z
+LAST-MODIFIED:20261009T192212Z
+CREATED:20261003T175450Z
+SEQUENCE:11
+ORGANIZER;CN="Davenport Pops Orchestra":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCDPops/rsvp_boot?id=2334418#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCDPOPS
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+DTSTART:20261017T010000Z
+DTEND:20261017T023000Z
+UID:da20709cb7f65e703828aa776da5b52e1032026_1:54:50_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:DPops: Brand New Day
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334418
+DESCRIPTION:DPops is so excited to welcome you to our first concert of the 2026-2027 school year: DPops: Brand New Day! Our music will feature music from Project Hail Mary, Spider Man, Billy Joel, Ace Attourney, Your Name, Enhypen, and Olivia Rodrigo! Join us for a night of music, dance, and maybe even a trip to the underworld…\n\nThe concert starts at 9pm in the Davenport Dining Hall. To attend the in-person concert, you must register for a ticket through Eventbrite. We are happy to announce that people not affiliated with Yale may also attend.\n\nDoors open at 8:45pm on Friday, 10/16. Please be prepared to show your ID. We hope to see you there!\n\nIf you can’t snag a ticket in time, or if you have friends/family who can’t attend, we’ll also be livestreaming the concert on our YouTube channel!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334418
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002208Z
+LAST-MODIFIED:20261004T234934Z
+CREATED:20261004T234839Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334539#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261005T223000Z
+DTEND:20261006T013000Z
+UID:ae23ccbc49109893d731e520d48e32071042026_7:48:39_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334539
+DESCRIPTION:Uncle Vanya Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334539
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002214Z
+LAST-MODIFIED:20261004T235105Z
+CREATED:20261004T235019Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334540#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261009T200000Z
+DTEND:20261009T223000Z
+UID:aa56452fd07301607cc41ed6431bd0ee1042026_7:50:19_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334540
+DESCRIPTION:Uncle Vanya Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334540
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002214Z
+LAST-MODIFIED:20261004T235222Z
+CREATED:20261004T235143Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334541#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261009T183000Z
+DTEND:20261009T193000Z
+UID:ec9b4f7648a7f354594dacfea3822b921042026_7:51:43_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334541
+DESCRIPTION:Uncle Vanya Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334541
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002213Z
+LAST-MODIFIED:20261004T235323Z
+CREATED:20261004T235236Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334542#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261009T010000Z
+DTEND:20261009T020000Z
+UID:c4df89c9af9a918807ef411c42affc3a1042026_7:52:36_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334542
+DESCRIPTION:Uncle Vanya Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334542
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002216Z
+LAST-MODIFIED:20261005T204055Z
+CREATED:20261005T202532Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334666#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261010T201500Z
+DTEND:20261010T210000Z
+UID:f17966db161a932fcd6b9b6403faba051052026_4:25:32_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SOML Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334666
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334666
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002224Z
+LAST-MODIFIED:20261005T204307Z
+CREATED:20261005T204102Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334673#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261016T163000Z
+DTEND:20261016T183000Z
+UID:8d6e49727093571e8da9a0735704a6041052026_4:41:02_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SOML rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334673
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334673
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002226Z
+LAST-MODIFIED:20261005T204621Z
+CREATED:20261005T204338Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334674#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+UID:06eccd1e92d07f95a7a6399519d49eb81052026_4:43:38_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SOML Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334674
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334674
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002234Z
+LAST-MODIFIED:20261005T205026Z
+CREATED:20261005T204717Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334678#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261028T200000Z
+DTEND:20261028T210000Z
+UID:c67049aea83e59f3420a67d405cfaecc1052026_4:47:17_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SOML Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334678
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334678
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002238Z
+LAST-MODIFIED:20261005T205131Z
+CREATED:20261005T205031Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334682#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261030T160000Z
+DTEND:20261030T190000Z
+UID:0000e84b37556de49a8161b42db7cf141052026_4:50:31_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SOML Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334682
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334682
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002239Z
+LAST-MODIFIED:20261005T205309Z
+CREATED:20261005T205138Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334683#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261031T140000Z
+DTEND:20261031T160000Z
+UID:317de3cb266dd6c330a7dcb415a48f661052026_4:51:38_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SOML Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334683
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334683
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002223Z
+LAST-MODIFIED:20261007T132329Z
+CREATED:20261005T221636Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334694#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+DTSTART:20261015T230000Z
+DTEND:20261016T011500Z
+UID:86776619662b72386180d16483ed00ca1052026_6:16:36_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Solaris hosts a Halloween Night, with The Fortune Teller
+LOCATION:Crescent Theater
+URL:https://yaleconnect.yale.edu/rsvp?id=2334694
+DESCRIPTION:We're Solaris, a 5-person instrumental group from the Yale School of Music, hosting a tarot card-themed halloween night with FREE FOOD, pastries, drinks, original music, and a secret interactive event that lets YOU decide how we perform the music! 👻\nYou don't want to miss this event - we're hosting in Ezra Stiles' Crescent Theatre on Thursday, Oct 15, and there will be secret prizes for our lucky winners after the concert and social hour! Bring a friend, come for the food and drinks, stay for the music and games!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334694
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002211Z
+LAST-MODIFIED:20261007T011912Z
+CREATED:20261007T011721Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334867#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261007T230000Z
+DTEND:20261008T000000Z
+UID:9870af14d09c30053aedff9e7d7f75521062026_9:17:21_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:[AoR] PPCLFAMECM
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334867
+DESCRIPTION:rehearsal for AOR\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334867
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002215Z
+LAST-MODIFIED:20261007T174748Z
+CREATED:20261007T015910Z
+SEQUENCE:2
+ORGANIZER;CN="The Exit Players":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCTheExitPlayers/rsvp_boot?id=2334869#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCTHEEXITPLAYERS
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Comedy,Improv
+DTSTART:20261010T000000Z
+DTEND:20261010T010000Z
+UID:77da357306fb6e56ed921f8765fb7e481062026_9:59:10_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:The Ex!t Players Present: Fortune Favors the Frexies 
+LOCATION:The Hopper Cabaret 
+URL:https://yaleconnect.yale.edu/rsvp?id=2334869
+DESCRIPTION:The Ex!t Players present our annual family weekend Frexie show!! Come welcome Ana, Langston, Kate, and Julian to EX!T!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334869
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002224Z
+LAST-MODIFIED:20261007T052207Z
+CREATED:20261007T051839Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2334877#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261016T193000Z
+DTEND:20261016T210000Z
+UID:285caeb1abe8d435406a7de99b2d18d71072026_1:18:39_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2334877
+DESCRIPTION:Rehearsal for Assassins\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2334877
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002226Z
+LAST-MODIFIED:20261010T002848Z
+CREATED:20261010T001427Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335387#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261018T193000Z
+DTEND:20261018T203000Z
+UID:daa0b7767d6bbaa44c79c10f080776571092026_8:14:27_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335387
+DESCRIPTION:Falsettos rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335387
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002217Z
+LAST-MODIFIED:20261010T183046Z
+CREATED:20261010T182910Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335416#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261011T210000Z
+DTEND:20261011T224000Z
+UID:2be2a8b7c3bf14a814bd3992dbffc4b810102026_2:29:10_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos - Act I work
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335416
+DESCRIPTION:Rehearsal for Falsettos\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335416
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T001023Z
+LAST-MODIFIED:20261019T142440Z
+CREATED:20261010T204940Z
+SEQUENCE:3
+ORGANIZER;CN="Yale Artists Cabaret: An Undergraduate Organization":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YACabaret/rsvp_boot?id=2335427#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YACABARET
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+DTSTART:20261030T233000Z
+DTEND:20261031T003000Z
+UID:d5392c8bb57b1d6b1e94025ee5250d3210102026_4:49:40_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:YAC Deadly Sins
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335427
+DESCRIPTION:Join the Yale Artists Cabaret for our Fall Mainstage, DEADLY SINS! A song cycle of great musical theatre hits, one-night only with tales of gluttony, greed, wrath, envy, and more. It’ll be a bloody good time…\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335427
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002218Z
+LAST-MODIFIED:20261011T223920Z
+CREATED:20261011T223734Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335563#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261012T223000Z
+DTEND:20261013T000000Z
+UID:e024315869f1907c947886e12cf2d07d10112026_6:37:34_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:vanya rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335563
+DESCRIPTION:vanya rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335563
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002221Z
+LAST-MODIFIED:20261011T224110Z
+CREATED:20261011T224025Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335564#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261014T210000Z
+DTEND:20261014T230000Z
+UID:ce2e2e5af4c979783698e6245301a08110112026_6:40:25_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:vanya rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335564
+DESCRIPTION:vanya rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335564
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002223Z
+LAST-MODIFIED:20261011T224714Z
+CREATED:20261011T224140Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335565#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261015T214500Z
+DTEND:20261015T223000Z
+UID:93602d18b004ceddbcf87b1aa7a23d3210112026_6:41:40_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:vanya rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335565
+DESCRIPTION:vanya rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335565
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002223Z
+LAST-MODIFIED:20261011T224756Z
+CREATED:20261011T224718Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335566#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261015T223000Z
+DTEND:20261015T233000Z
+UID:b9fff0fae5af09b7b6374a1ac8bdc58a10112026_6:47:18_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:vanya rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335566
+DESCRIPTION:vanya rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335566
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002224Z
+LAST-MODIFIED:20261011T224920Z
+CREATED:20261011T224824Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335567#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261016T170000Z
+DTEND:20261016T184500Z
+UID:9a070a3853844dd8308caab622eb732110112026_6:48:24_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Vanya Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335567
+DESCRIPTION:Vanya Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335567
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T001024Z
+LAST-MODIFIED:20261103T183813Z
+CREATED:20261012T200147Z
+SEQUENCE:26
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335764#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Theater,Acting,Performance,Yale College,Undergraduates,Graduate 
+DTSTART:20261106T003000Z
+DTEND:20261108T013000Z
+UID:b211cff1d7273d629332a261a083d1e510122026_4:01:47_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Iphis & Ianthe
+LOCATION:-
+URL:https://yaleconnect.yale.edu/rsvp?id=2335764
+DESCRIPTION:Loosely based on a myth from Ovid’s Metamorphoses, Iphis and Ianthe is a queer rom-com about literature, gender, and studying for finals. This original one-act runs about 30 minutes.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335764
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002231Z
+LAST-MODIFIED:20261013T165424Z
+CREATED:20261013T165334Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335832#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261026T223000Z
+DTEND:20261027T013000Z
+UID:a8e797909617240312257d0c7162adab10132026_12:53:34_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Back to Bangalore Auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335832
+DESCRIPTION:Back to Bangalore Auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335832
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002233Z
+LAST-MODIFIED:20261013T165716Z
+CREATED:20261013T165509Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335833#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261027T210000Z
+DTEND:20261028T000000Z
+UID:3ce695da898d991f8d201a51c565a0ab10132026_12:55:09_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Back to Bangalore Auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335833
+DESCRIPTION:Back to Bangalore Auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335833
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002235Z
+LAST-MODIFIED:20261013T165855Z
+CREATED:20261013T165736Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335835#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261028T220000Z
+DTEND:20261029T000000Z
+UID:73be040aa2d6b7bccfcd7ef97c23ae9810132026_12:57:36_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Back to Bangalore Auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335835
+DESCRIPTION:Back to Bangalore Auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335835
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002241Z
+LAST-MODIFIED:20261013T170030Z
+CREATED:20261013T165923Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335838#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261102T233000Z
+DTEND:20261103T023000Z
+UID:6134516c5a0d432c6c0437e6dd5b01a910132026_12:59:23_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Back to Bangalore Callbacks
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335838
+DESCRIPTION:Back to Bangalore Callbacks\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335838
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002242Z
+LAST-MODIFIED:20261013T170335Z
+CREATED:20261013T170040Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335839#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261103T230000Z
+DTEND:20261104T020000Z
+UID:a9611c086768d1400ab8d519b9adfc6d10132026_1:00:40_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Back to Bangalore Callbacks
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335839
+DESCRIPTION:Back to Bangalore Callbacks\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335839
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002244Z
+LAST-MODIFIED:20261013T170437Z
+CREATED:20261013T170340Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335840#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261104T233000Z
+DTEND:20261105T010000Z
+UID:30f1e41603b3b4db40f7bfae97f644ce10132026_1:03:40_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Back to Bangalore Callbacks
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335840
+DESCRIPTION:Back to Bangalore Callbacks\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335840
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002223Z
+LAST-MODIFIED:20261014T175346Z
+CREATED:20261013T172420Z
+SEQUENCE:7
+ORGANIZER;CN="Opera Theatre of Yale College":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCOTYC/rsvp_boot?id=2335844#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCOTYC
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Music,Acting,Performance
+DTSTART:20261016T000000Z
+DTEND:20261016T020000Z
+UID:ae182484fe3a854df61bc7026c041ab410132026_1:24:20_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Gilbert & Sullivan Revue
+LOCATION:Murray Common Room (10/15); Silliman Common Room (10/16), 9 Tower Pkwy, New Haven, CT 06511, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2335844
+DESCRIPTION:A Revue-style cabaret performance of selected songs of Gilbert and Sullivan\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335844
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002225Z
+LAST-MODIFIED:20261014T175346Z
+CREATED:20261013T173919Z
+SEQUENCE:1
+ORGANIZER;CN="Opera Theatre of Yale College":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCOTYC/rsvp_boot?id=2335847#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCOTYC
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Music,Acting,Performance
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+UID:eabfd64dfbadbb92e209d1131a73297310132026_1:39:19_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Gilbert & Sullivan Revue
+LOCATION:-
+URL:https://yaleconnect.yale.edu/rsvp?id=2335847
+DESCRIPTION:A Revue-style cabaret performance of selected songs of Gilbert and Sullivan\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335847
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002226Z
+LAST-MODIFIED:20261014T175346Z
+CREATED:20261013T173920Z
+SEQUENCE:1
+ORGANIZER;CN="Opera Theatre of Yale College":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCOTYC/rsvp_boot?id=2335848#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCOTYC
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Music,Acting,Performance
+DTSTART:20261018T000000Z
+DTEND:20261018T020000Z
+UID:122c7804763b8f160b4927bb05ebe39f10132026_1:39:20_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Gilbert & Sullivan Revue
+LOCATION:-
+URL:https://yaleconnect.yale.edu/rsvp?id=2335848
+DESCRIPTION:A Revue-style cabaret performance of selected songs of Gilbert and Sullivan\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335848
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002225Z
+LAST-MODIFIED:20261014T175346Z
+CREATED:20261013T175133Z
+SEQUENCE:1
+ORGANIZER;CN="Opera Theatre of Yale College":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCOTYC/rsvp_boot?id=2335860#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCOTYC
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Music,Acting,Performance
+DTSTART:20261017T000000Z
+DTEND:20261017T020000Z
+UID:56ba202797b3efec0eca67d05cb3b2a810132026_1:51:33_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Gilbert & Sullivan Revue
+LOCATION:Murray Common Room (10/15); Silliman Common Room (10/16), 9 Tower Pkwy, New Haven, CT 06511, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2335860
+DESCRIPTION:A Revue-style cabaret performance of selected songs of Gilbert and Sullivan\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335860
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002259Z
+LAST-MODIFIED:20261108T215603Z
+CREATED:20261013T202621Z
+SEQUENCE:5
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2335881#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+DTSTART:20261114T010000Z
+DTEND:20261114T014500Z
+UID:689ba124dd083d6f3c61553fdddf53a610132026_4:26:21_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:in another life - an evening with Marin Clarisse
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335881
+DESCRIPTION:Join Marin Clarisse for an intimate evening of music in Trumbull College’s Nick Chapel Theater, celebrating the release of her second EP. \n\nFive songs, a piano, and a string quartet, performed by candlelight. This is a small, quiet room built for close listening, with songs that sit somewhere between chamber music and singer-songwriter intimacy.\n\nThe concert is supported by Trumbull College’s Creative and Performing Arts (CPA) award and presented with 17o1 Records, Yale’s student-run record label.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335881
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002221Z
+LAST-MODIFIED:20261014T191609Z
+CREATED:20261014T191424Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336012#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261014T230000Z
+DTEND:20261015T000000Z
+UID:ac4fe8c0eeb416a471f6743ed131286f10142026_3:14:24_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:yyp rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336012
+DESCRIPTION:yyp rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336012
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002228Z
+LAST-MODIFIED:20261019T010850Z
+CREATED:20261015T002138Z
+SEQUENCE:3
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336046#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261020T233000Z
+DTEND:20261021T013000Z
+UID:0a999f645d6e888c975187b36eeeb09d10142026_8:21:38_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336046
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336046
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002235Z
+LAST-MODIFIED:20261016T151907Z
+CREATED:20261016T151551Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336180#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261028T210000Z
+DTEND:20261028T230000Z
+UID:96a248c049512ea737c499ee9e7533a710162026_11:15:51_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336180
+DESCRIPTION:Falsettos Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336180
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002254Z
+LAST-MODIFIED:20261030T152612Z
+CREATED:20261016T152311Z
+SEQUENCE:3
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336182#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261111T221500Z
+DTEND:20261112T000000Z
+UID:e14be519caebcc726faa6e8ae5ad7a1b10162026_11:23:11_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336182
+DESCRIPTION:Falsettos Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336182
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002244Z
+LAST-MODIFIED:20261016T152738Z
+CREATED:20261016T152651Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336183#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261104T220000Z
+DTEND:20261104T233000Z
+UID:dc6ce8d8c36b244bbd7c99426b5ca88410162026_11:26:51_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336183
+DESCRIPTION:Falsettos rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336183
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002238Z
+LAST-MODIFIED:20261016T231642Z
+CREATED:20261016T231524Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336257#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261030T160000Z
+DTEND:20261030T170000Z
+UID:abfc63017e4d4c50c74724f8dbb2d9d310162026_7:15:24_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336257
+DESCRIPTION:Falsettos rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336257
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002237Z
+LAST-MODIFIED:20261016T232227Z
+CREATED:20261016T232109Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336258#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261029T213000Z
+DTEND:20261029T223000Z
+UID:8fb818d69742f850ece7362a659973a510162026_7:21:09_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:[Falsettos] Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336258
+DESCRIPTION:[Falsettos] Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336258
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002238Z
+LAST-MODIFIED:20261020T045008Z
+CREATED:20261020T044738Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336416#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261030T193000Z
+DTEND:20261030T210000Z
+UID:8f6619060d7afd39bcee1e5c323a5b3710202026_12:47:38_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336416
+DESCRIPTION:Rehearsal for Assassins\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336416
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002239Z
+LAST-MODIFIED:20261020T045303Z
+CREATED:20261020T045100Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336417#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261031T183000Z
+DTEND:20261031T203000Z
+UID:75da752edb5c31393bdccc640a83d2a810202026_12:51:00_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336417
+DESCRIPTION:Rehearsal for Assassins\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336417
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002239Z
+LAST-MODIFIED:20261021T153537Z
+CREATED:20261021T153426Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336514#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261031T140000Z
+DTEND:20261031T183000Z
+UID:0a661b4cedb4a1babbd1cb791d61fdf210212026_11:34:26_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336514
+DESCRIPTION:Falsettos Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336514
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002236Z
+LAST-MODIFIED:20261024T155712Z
+CREATED:20261024T155509Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336705#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261029T200000Z
+DTEND:20261029T213000Z
+UID:74e18b0441dca30e1d981fbc6bd3b6d610242026_11:55:09_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336705
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336705
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002238Z
+LAST-MODIFIED:20261024T160111Z
+CREATED:20261024T155832Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336706#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261030T190000Z
+DTEND:20261030T210000Z
+UID:06de4f6fece680fa501fd38eda40d98010242026_11:58:32_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336706
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336706
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002241Z
+LAST-MODIFIED:20261024T160753Z
+CREATED:20261024T160656Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336707#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261102T220000Z
+DTEND:20261102T230000Z
+UID:1e9019385224bb84d9953f6876f396bf10242026_12:06:56_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336707
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336707
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002242Z
+LAST-MODIFIED:20261024T161204Z
+CREATED:20261024T161023Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336708#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261104T000000Z
+DTEND:20261104T023000Z
+UID:393224baef386acd8e9a64bc9dc7fa3910242026_12:10:23_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336708
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336708
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002244Z
+LAST-MODIFIED:20261024T161340Z
+CREATED:20261024T161244Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336709#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261105T020000Z
+DTEND:20261105T033000Z
+UID:de5fbb8c9a1fa1b2b560acfbff147ce810242026_12:12:44_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336709
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336709
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002247Z
+LAST-MODIFIED:20261024T161656Z
+CREATED:20261024T161608Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336710#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261106T200000Z
+DTEND:20261106T213000Z
+UID:78515e37228cf655b5f623fd91747cf310242026_12:16:08_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336710
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336710
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002251Z
+LAST-MODIFIED:20261024T161846Z
+CREATED:20261024T161751Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336711#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261109T210000Z
+DTEND:20261109T220000Z
+UID:fd180ed96b1425e5a280a6a9c84fd4db10242026_12:17:51_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336711
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336711
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002302Z
+LAST-MODIFIED:20261024T163302Z
+CREATED:20261024T163153Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336712#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261116T220000Z
+DTEND:20261116T230000Z
+UID:41c1a7902d9ff7805c3e40c33ac2799810242026_12:31:53_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336712
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336712
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002307Z
+LAST-MODIFIED:20261024T163522Z
+CREATED:20261024T163405Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336713#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261119T020000Z
+DTEND:20261119T033000Z
+UID:808fb9289a40effd671b2e654bb05dc110242026_12:34:05_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336713
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336713
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002307Z
+LAST-MODIFIED:20261024T163729Z
+CREATED:20261024T163604Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336714#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261119T203000Z
+DTEND:20261119T220000Z
+UID:4ee8f3e5b64fdbd53c49c17aea009c5d10242026_12:36:04_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336714
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336714
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261024T163921Z
+CREATED:20261024T163810Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336716#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261201T230000Z
+DTEND:20261202T010000Z
+UID:380ded9c3569818fb9a4d6b223a6b41610242026_12:38:10_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336716
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336716
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261024T164225Z
+CREATED:20261024T164111Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336717#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261213T190000Z
+DTEND:20261213T220000Z
+UID:61fd5d42e0ee8d0b1e527be803c4dec510242026_12:41:11_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336717
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336717
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002234Z
+LAST-MODIFIED:20261024T170637Z
+CREATED:20261024T170449Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2336800#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261028T013000Z
+DTEND:20261028T030000Z
+UID:07a77a1c89650a37371c46b035b1668910242026_1:04:49_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2336800
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2336800
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002232Z
+LAST-MODIFIED:20261026T191120Z
+CREATED:20261026T190807Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337030#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261027T003000Z
+DTEND:20261027T020000Z
+UID:0da3592becb60bfb02917f6aebc5645610262026_3:08:07_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337030
+DESCRIPTION:Uncle Vanya Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337030
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002246Z
+LAST-MODIFIED:20261104T004722Z
+CREATED:20261027T022416Z
+SEQUENCE:10
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337091#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Performance
+DTSTART:20261106T010000Z
+DTEND:20261108T030000Z
+UID:ea6882539c5f0ee466ad51949cb62bdc10262026_10:24:16_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:The Story of My Life 
+LOCATION:The Saybrook Underbrook, Saybrook College, 242 Elm St, New Haven, CT 06511, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2337091
+DESCRIPTION:The Story of My Life follows the friendship of Alvin and Thomas, two men from a small town. These lifelong friends are reunited after Alvin’s mysterious death. In the abstract world of his mind, Thomas struggles to write Alvin’s eulogy while recounting the many turns that their lives have taken since meeting as children. Alvin searches through the manuscripts and stories in Thomas’ mind to lead him on a journey of remembrance. Through music and song, these two friends recount their adventures, explore their past dissonance and ultimately discover what is at the base of every strong friendship… love.\n\nThe Story of My Life is presented through special arrangement with Music Theatre International (MTI). All authorized performance materials are also supplied by MTI. www.mtishows.com\n\nProduced with support from the Marc and Melissa Karetsky Family Theater Fund\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337091
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002236Z
+LAST-MODIFIED:20261027T203104Z
+CREATED:20261027T201350Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337180#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+DTSTART:20261029T013000Z
+DTEND:20261029T030000Z
+UID:750c3ec710876dc3e7ec5049e8024cac10272026_4:13:50_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Yale Dancing with the Stars
+LOCATION:-
+URL:https://yaleconnect.yale.edu/rsvp?id=2337180
+DESCRIPTION:Join six pro dancers and six celebrities in the Off-Broadway Theater as the compete for the Courtnie Bui Mirrorball Trophy!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337180
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002238Z
+LAST-MODIFIED:20261028T130242Z
+CREATED:20261027T202610Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337183#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261030T190000Z
+DTEND:20261030T203000Z
+UID:4ab505f18aff991deafba1993178083910272026_4:26:10_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337183
+DESCRIPTION:Falsettos Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337183
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002235Z
+LAST-MODIFIED:20261028T034931Z
+CREATED:20261028T034847Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337254#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261028T230000Z
+DTEND:20261029T000000Z
+UID:60d60f4ec30c4811a77745fbd10c8b4710272026_11:48:47_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:[AoR] PPCLFAMECM
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337254
+DESCRIPTION:Aor Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337254
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002237Z
+LAST-MODIFIED:20261028T160703Z
+CREATED:20261028T160618Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337298#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261030T000000Z
+DTEND:20261030T013000Z
+UID:010f7086fc19bb5a62fb1235ed9aad1010282026_12:06:18_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:back to bangalore auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337298
+DESCRIPTION:back to bangalore auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337298
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002258Z
+LAST-MODIFIED:20261028T202348Z
+CREATED:20261028T202129Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337339#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261113T203000Z
+DTEND:20261113T223000Z
+UID:a0244a5e172bcf535724c699ad28c66310282026_4:21:29_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Antigone Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337339
+DESCRIPTION:rehearsal for CPA\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337339
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002236Z
+LAST-MODIFIED:20261028T224255Z
+CREATED:20261028T224048Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337360#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261029T193000Z
+DTEND:20261029T203000Z
+UID:a3c39e14379b11db9b697d8556c4f15010282026_6:40:48_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Back to Bangalore audition
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337360
+DESCRIPTION:Back to Bangalore audition\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337360
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002236Z
+LAST-MODIFIED:20261028T225041Z
+CREATED:20261028T224939Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337361#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261029T160000Z
+DTEND:20261029T163000Z
+UID:932c3da1e1bffb9d3ff718423fa7558710282026_6:49:39_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:back to bangalore auditions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337361
+DESCRIPTION:back to bangalore auditions\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337361
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261030T200620Z
+CREATED:20261030T200454Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337559#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261130T003000Z
+DTEND:20261130T020000Z
+UID:4ed1ec16dd6edf5088972bf41bbbabd510302026_4:04:54_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337559
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337559
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002239Z
+LAST-MODIFIED:20261031T023631Z
+CREATED:20261031T023523Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337580#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261031T203000Z
+DTEND:20261031T220000Z
+UID:6d9b49e43bbde60c532e95a8bd0c5fda10302026_10:35:23_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337580
+DESCRIPTION:Rehearsal for Assassins\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337580
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002258Z
+LAST-MODIFIED:20261112T220433Z
+CREATED:20261101T024443Z
+SEQUENCE:14
+ORGANIZER;CN="Yale Vermilion Theater for Students and Scholars":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YVT/rsvp_boot?id=2337660#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YVT
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Acting
+DTSTART:20261114T000000Z
+DTEND:20261115T013000Z
+UID:9daa178948f37fbb412d19fa7060612b10312026_10:44:43_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Sealed Off
+LOCATION:Crescent Underground, Morse and Stiles Colleges, 304 York Street, New Haven, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2337660
+DESCRIPTION:Join us for an unforgettable evening of theater at the Yale Vermilion Theater FA26 Showcase! \n\nSet in 1940s Shanghai, Sealed Off begins when a sudden military blockade brings a tram to a halt amid the turmoil of a city at war. Two strangers, Wu Cuiyuan, a university English teaching assistant, and Lü Zongzhen, a bank clerk, find themselves together in the crowded tram. She longs for genuine human contact; he seeks an escape from the monotony of everyday life. As their conversation unfolds, two individuals constrained by family, society, and the roles they are expected to play discover the possibility of connection in this fleeting moment of stillness. But when the blockade is lifted and the tram begins moving again, what will become of them?\n\nAdapted from Eileen Chang's short story of the same name, Sealed Off explores the delicate interplay between truth and illusion in human nature through a chance encounter between two strangers. It also raises questions about the complexities of love: Do we truly fall in love with another person, or do we simply long to be seen through their eyes? Amid the many constraints of reality, can we ever truly reach our authentic selves and one another?\n\nThis production is supported by the Grace Hopper College Creative and Performing Arts Award. Production in Chinese (Mandarin) with English subtitles. The event is open to the public, with donations welcome (via Venmo @ChinYuan-Ong). We can’t wait to see you there!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337660
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002241Z
+LAST-MODIFIED:20261101T202740Z
+CREATED:20261101T202324Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337700#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261102T202500Z
+DTEND:20261102T211000Z
+UID:b05d30d5b3293556cafe55710ee8bfc31112026_3:23:24_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337700
+DESCRIPTION:Falsettos rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337700
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002240Z
+LAST-MODIFIED:20261101T203433Z
+CREATED:20261101T203305Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337702#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261101T213000Z
+DTEND:20261101T223000Z
+UID:18dfa56fb8be59bb2482ea514ab83abb1112026_3:33:05_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Uncle Vanya Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337702
+DESCRIPTION:Uncle Vanya Rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337702
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002247Z
+LAST-MODIFIED:20261102T042826Z
+CREATED:20261102T042457Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2337738#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261106T203000Z
+DTEND:20261106T220000Z
+UID:ab898f3774e3e6b7242a8f3540270fc21112026_11:24:57_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337738
+DESCRIPTION:Rehearsal for Assassins\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337738
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002243Z
+LAST-MODIFIED:20261104T004011Z
+CREATED:20261104T003745Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338103#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261104T163000Z
+DTEND:20261104T170000Z
+UID:bf037f68255a200d68871360aa0af1e11132026_7:37:45_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Back to Bangalore Callbacks
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338103
+DESCRIPTION:Back to Bangalore Callbacks\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338103
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T235025Z
+LAST-MODIFIED:20261108T011332Z
+CREATED:20261104T205521Z
+SEQUENCE:28
+ORGANIZER;CN="Rhythmic Blue":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCRB/rsvp_boot?id=2338187#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCRB
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Dance,Arts,AFAM HOUSE
+DTSTART:20261111T230000Z
+DTEND:20261112T040000Z
+UID:76696b0f63be635841f1ba65c1091dc91142026_3:55:21_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:RBirthday: Celebrating 35 Years of Rhythmic Blue
+LOCATION:Off Broadway Theater, 41 Broadway, New Haven, CT 06511, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2338187
+DESCRIPTION:Rhythmic Blue is thrilled to present our Fall 2026 Showcase: RBIRTHDAY! \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338187
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002244Z
+LAST-MODIFIED:20261104T210621Z
+CREATED:20261104T210308Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338188#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261105T000000Z
+DTEND:20261105T010000Z
+UID:a0e6803a0cca8d11aeffb33a61447e7e1142026_4:03:08_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:[AoR] PPCLFAMECM
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338188
+DESCRIPTION:rehearsal for team\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338188
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002250Z
+LAST-MODIFIED:20261106T183301Z
+CREATED:20261106T183103Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338343#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261109T010000Z
+DTEND:20261109T030000Z
+UID:6348dc12639dd96ea385586a8e55a2831162026_1:31:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338343
+DESCRIPTION:Pit rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338343
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002257Z
+LAST-MODIFIED:20261111T054101Z
+CREATED:20261106T204143Z
+SEQUENCE:10
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338360#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Beyond the Ballot,gettogether,Dance,Disability,Earth Day,Gender,New Music,Public
+DTSTART:20261113T010000Z
+DTEND:20261115T013000Z
+UID:65431a0e002c881c9810e5ec59d2e7241162026_3:41:43_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:PUPPETS IN SPACE: A Show of Friendship
+LOCATION:-
+URL:https://yaleconnect.yale.edu/rsvp?id=2338360
+DESCRIPTION:An intergalactic space adventure with puppets, fungi, and all-original songs performed with spunk and kazoos. Appropriate for all ages and welcoming Non-Yale community, you just have to wait for someone to open outside gate and door. ~34 minutes long\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338360
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261107T191945Z
+CREATED:20261106T223317Z
+SEQUENCE:2
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338367#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+DTSTART:20261211T000000Z
+DTEND:20261213T030000Z
+UID:ccab0ee58ee52f29072968264f404c251162026_5:33:17_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Much Ado About Nothing
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338367
+DESCRIPTION:When the “skirmish of wit” between rivals Beatrice and Benedick becomes too much for their friends to bear, a plan is hatched to bring them into “a mountain of affection, th’ one with th’ other.” Meanwhile, the passionate romance between Beatrice’s cousin Hero and Benedick’s best friend Claudio seems to be blooming too quickly for others’ tastes. As dark schemes unfold and unexpected romances blossom, not everything in Messina is quite as it seems… and summer isn’t over yet.\n\nWith some of the most beautiful love poetry ever written, the best witty insults, and hilarious comics in the form of the ineffectual night watchmen, Much Ado About Nothing is the OG enemies-to-lovers romcom: truly Shakespeare at his best.\n\nFor all inquiries, please contact: \nrishi.sultana@yale.edu\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338367
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261107T192215Z
+CREATED:20261106T230043Z
+SEQUENCE:4
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338369#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+DTSTART:20261212T000000Z
+DTEND:20261212T030000Z
+UID:d979513d9b1590e5f6827bc907d1c6ce1162026_6:00:43_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Much Ado About Nothing
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338369
+DESCRIPTION:When the “skirmish of wit” between rivals Beatrice and Benedick becomes too much for their friends to bear, a plan is hatched to bring them into “a mountain of affection, th’ one with th’ other.” Meanwhile, the passionate romance between Beatrice’s cousin Hero and Benedick’s best friend Claudio seems to be blooming too quickly for others’ tastes. As dark schemes unfold and unexpected romances blossom, not everything in Messina is quite as it seems… and summer isn’t over yet.\n\nWith some of the most beautiful love poetry ever written, the best witty insults, and hilarious comics in the form of the ineffectual night watchmen, Much Ado About Nothing is the OG enemies-to-lovers romcom: truly Shakespeare at his best.\n\nFor all inquiries, please contact: \nrishi.sultana@yale.edu\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338369
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261106T230529Z
+CREATED:20261106T230044Z
+SEQUENCE:3
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338370#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+DTSTART:20261211T000000Z
+DTEND:20261213T030000Z
+UID:4846c497b5490b8fc699a365ea784cfc1162026_6:00:44_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Much Ado About Nothing
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338370
+DESCRIPTION:When the “skirmish of wit” between rivals Beatrice and Benedick becomes too much for their friends to bear, a plan is hatched to bring them into “a mountain of affection, th’ one with th’ other.” Meanwhile, the passionate romance between Beatrice’s cousin Hero and Benedick’s best friend Claudio seems to be blooming too quickly for others’ tastes. As dark schemes unfold and unexpected romances blossom, not everything in Messina is quite as it seems… and summer isn’t over yet.\n\nWith some of the most beautiful love poetry ever written, the best witty insults, and hilarious comics in the form of the ineffectual night watchmen, Much Ado About Nothing is the OG enemies-to-lovers romcom: truly Shakespeare at his best.\n\nFor all inquiries, please contact: \nrishi.sultana@yale.edu\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338370
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002251Z
+LAST-MODIFIED:20261107T221505Z
+CREATED:20261107T221343Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338443#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261110T000000Z
+DTEND:20261110T020000Z
+UID:8c38b40a456a1653e38a53833c90748b1172026_5:13:43_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338443
+DESCRIPTION:Rehearsal for Assassins\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338443
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002258Z
+LAST-MODIFIED:20261107T231013Z
+CREATED:20261107T230910Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338445#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261113T203000Z
+DTEND:20261113T220000Z
+UID:59efa2e4406a758e4068b5391bdcff341172026_6:09:10_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Assassins Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338445
+DESCRIPTION:Rehearsal for Assassins\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338445
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002254Z
+LAST-MODIFIED:20261111T013149Z
+CREATED:20261111T013049Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338777#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261111T221500Z
+DTEND:20261112T000000Z
+UID:9e94027e1ec44f1aa3a217ff564c1d8311102026_8:30:49_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Falsettos rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338777
+DESCRIPTION:Falsettos rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338777
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002257Z
+LAST-MODIFIED:20261111T160757Z
+CREATED:20261111T160655Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338813#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261113T020000Z
+DTEND:20261113T033000Z
+UID:25daeddda6b88054c505322e6694852111112026_11:06:55_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338813
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338813
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002259Z
+LAST-MODIFIED:20261111T161712Z
+CREATED:20261111T161542Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338825#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261114T000000Z
+DTEND:20261114T013000Z
+UID:450b4fee7fe269b5ec5470373ac6b59111112026_11:15:42_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338825
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338825
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002300Z
+LAST-MODIFIED:20261111T161933Z
+CREATED:20261111T161821Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338826#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261115T170000Z
+DTEND:20261115T183000Z
+UID:dfeea018860a498152ceab95475e1b9311112026_11:18:21_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338826
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338826
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002302Z
+LAST-MODIFIED:20261111T162119Z
+CREATED:20261111T162026Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338827#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261116T230000Z
+DTEND:20261117T000000Z
+UID:8d1768a9263d6f8e380831939000401311112026_11:20:26_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338827
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338827
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002304Z
+LAST-MODIFIED:20261111T162243Z
+CREATED:20261111T162139Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338828#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261117T230000Z
+DTEND:20261118T003000Z
+UID:389ff7af8fdd21ecc8114adbb1e5ce7f11112026_11:21:39_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338828
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338828
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002305Z
+LAST-MODIFIED:20261111T162514Z
+CREATED:20261111T162319Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338829#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261118T210000Z
+DTEND:20261118T223000Z
+UID:ec96e599ac04267d97cf6c813bc44d0c11112026_11:23:19_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338829
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338829
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002307Z
+LAST-MODIFIED:20261111T162724Z
+CREATED:20261111T162629Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338830#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261119T220000Z
+DTEND:20261119T230000Z
+UID:264d788e2c89db39ab5dd5d518ba868311112026_11:26:29_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338830
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338830
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002308Z
+LAST-MODIFIED:20261111T163147Z
+CREATED:20261111T162730Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338831#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261120T010000Z
+DTEND:20261120T033000Z
+UID:b9f20a914d4934cc2350ec9a1acd067611112026_11:27:30_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338831
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338831
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261111T163335Z
+CREATED:20261111T163152Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338832#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261130T213000Z
+DTEND:20261130T230000Z
+UID:ce7941747289293388d4f4f224e3117511112026_11:31:52_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338832
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338832
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261111T180709Z
+CREATED:20261111T163404Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338833#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261203T210000Z
+DTEND:20261203T220000Z
+UID:cb020de00eff4710efed2c1cb7e1889d11112026_11:34:04_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338833
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338833
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261111T180928Z
+CREATED:20261111T180827Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338858#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261204T200000Z
+DTEND:20261204T210000Z
+UID:4c3e1cd785268619a93ddf5511770d5911112026_1:08:27_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338858
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338858
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002308Z
+LAST-MODIFIED:20261112T030406Z
+CREATED:20261112T030213Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2338929#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261120T170000Z
+DTEND:20261120T183000Z
+UID:d206740a8d1f6486cf3ac8229ae9da1411112026_10:02:13_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338929
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338929
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002308Z
+LAST-MODIFIED:20261114T170532Z
+CREATED:20261114T170049Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2339079#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261121T170000Z
+DTEND:20261121T180000Z
+UID:81baa2e2139baa96f25900ceb3e39f8e11142026_12:00:49_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2339079
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2339079
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261114T170532Z
+CREATED:20261114T170522Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2339080#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261128T170000Z
+DTEND:20261128T180000Z
+UID:841168e8f448724fde67fd55bb65c6c511142026_12:05:22_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2339080
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2339080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261114T170532Z
+CREATED:20261114T170523Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2339081#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261205T170000Z
+DTEND:20261205T180000Z
+UID:4f00d51bd0af20e082b5a8f7c24170b411142026_12:05:23_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2339081
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2339081
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261114T170532Z
+CREATED:20261114T170525Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2339082#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261212T170000Z
+DTEND:20261212T180000Z
+UID:343f83c8fb9f1226f5df89300ca8402e11142026_12:05:25_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2339082
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2339082
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261114T170532Z
+CREATED:20261114T170526Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2339083#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261219T170000Z
+DTEND:20261219T180000Z
+UID:a56355c6505044f5571b66da7d4ef63a11142026_12:05:26_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2339083
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2339083
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002310Z
+LAST-MODIFIED:20261114T170532Z
+CREATED:20261114T170527Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2339084#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261226T170000Z
+DTEND:20261226T180000Z
+UID:7c94f86567b259f15c86d8c37379251c11142026_12:05:27_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLM Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2339084
+DESCRIPTION:Rehearsal for SLM\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2339084
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002307Z
+LAST-MODIFIED:20261116T031858Z
+CREATED:20261116T031739Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2339168#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261119T204500Z
+DTEND:20261119T214500Z
+UID:64bd6d413d9f726119e42bb4f1879d8211152026_10:17:39_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Antigone Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2339168
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2339168
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T002305Z
+LAST-MODIFIED:20261116T032655Z
+CREATED:20261116T032605Z
+SEQUENCE:1
+ORGANIZER;CN="Undergraduate Production":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/YCUP/rsvp_boot?id=2339169#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:YCUP
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+DTSTART:20261118T213000Z
+DTEND:20261118T220000Z
+UID:73c23886e8a5b5bfba14cc0f215ef04d11152026_10:26:05_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Antigone Rehearsal
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2339169
+DESCRIPTION:rehearsal\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2339169
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,8 @@
+{
+  "status": 302,
+  "headers": {
+    "location": "https://secure.its.yale.edu/cas/login?service=https%3A%2F%2Fyaleconnect.yale.edu%2Flogin_only%3Fredirect%3D%252Fics_helper",
+    "content-length": "0"
+  },
+  "body": ""
+}

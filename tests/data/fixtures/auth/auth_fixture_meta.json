@@ -1,0 +1,19 @@
+{
+  "dummy_cookie": "CG.SessionID=FIXTURE-SESSION-COOKIE-7f3a9c2e5b1d; AWSALB=FIXTURE-ALB-STICKY",
+  "dummy_ics_token": "FIXTURE-ICS-TOKEN-4e8b1a6c9d2f",
+  "personal_feed_url": "https://yaleconnect.yale.edu/ical/yale/ical_personal_FIXTURE-ICS-TOKEN-4e8b1a6c9d2f.ics",
+  "anonymous_events": 371,
+  "authenticated_events": 379,
+  "revealed_locations": 273,
+  "members_only_ids": [
+    2399001,
+    2399002,
+    2399003,
+    2399004,
+    2399005,
+    2399006,
+    2399007,
+    2399008
+  ],
+  "pages": 8
+}

@@ -1,0 +1,246 @@
+# Free-food lexicon for app/enrich/food.py.
+#
+# Every phrase, weight, window and threshold the classifier uses lives here, so tuning needs no code change.
+# Patterns are Python regexes matched case-insensitively against the original text. `<<name>>` expands to the
+# vocabulary entry of that name (wrapped in a non-capturing group).
+#
+# Scoring: each rule fires at most once (in its best field); within a `group` only the strongest hit counts;
+# group contributions are summed with the bias and squashed by a logistic into [0, 1].
+#   score = 1 / (1 + exp(-(bias + sum)))
+# A `veto` rule forces label "no"; a rule with `cap: likely` forces the label to at most "likely".
+# `unless: [group, ...]` disables a rule when any of those groups fired (e.g. "cash bar" only vetoes when no
+# free food is stated).
+
+scoring:
+  bias: -2.0
+  thresholds:
+    "yes": 0.70      # sum >= ~2.85
+    "likely": 0.25   # sum >= ~0.90
+  ceilings:        # score clamp applied when a cap or veto forces the label down
+    likely: 0.60
+    "no": 0.10
+  evidence_max_chars: 120
+  max_evidence: 6
+
+field_weights:
+  title: 1.3
+  food_details: 1.3
+  description: 1.0
+
+flag:
+  weight: 4.0
+  text: "Organizer marked: food included"
+
+tokenizer: '\$\d[\d,]*(?:\.\d+)?|[\w''’]+'
+
+vocab:
+  # Specific foods: named as present, these near-certainly mean something to eat.
+  food_noun: >-
+    pizzas?|boba|bagels?|donuts?|doughnuts?|dumplings?|cookies?|pastr(?:y|ies)|pies?|sandwich(?:es)?|burritos?|
+    tacos?|sushi|cakes?|cupcakes?|ice\s+cream|mochi|popcorn|cand(?:y|ies)|(?<!hot\s)chocolates?|cheese|
+    empanadas?|samosas?|snacks?|refreshments?|(?:sweet|seasonal|fall|holiday|lovely|delicious|tasty|special)\s+treats|appetizers?|hors\s+d'?oeuvres|desserts?|baked\s+goods|
+    muffins?|croissants?|pancakes|waffles|crepes|catering|catered|pan\s+de\s+muerto|noodles|ramen|bbq|barbecue|
+    hot\s+dogs?|smoothies?|bubble\s+tea|milk\s+tea|cannoli|baklava|churros|tamales|biryani|halal\s+cart|
+    insomnia\s+cookies|light\s+provisions|sustenance
+  # Generic meals: food is probably there, but the word alone does not say it is given out.
+  meal: >-
+    lunch(?:eon)?|dinner|breakfast|brunch|food|meals?|supper|feast|buffet|banquet
+  drink: >-
+    coffee|tea|cider|hot\s+chocolate|cocoa|drinks|beverages|wine|beer|juice|lemonade|seltzer|kombucha|matcha|
+    lattes?|espresso
+  # Meal-named formats (guide: "likely").
+  format: >-
+    lunch\s*(?:&|and|n')\s*learn|reception|mixer|potluck|bring\s+a\s+dish|happy\s+hour|tea\s+time|
+    coffee\s+(?:hour|chat|break)|college\s+tea|cena|fika|study\s+break|wine\s+and\s+cheese|friendsgiving
+  # Single-token food words for the token-window rules.
+  food_token: >-
+    food|lunch|dinner|breakfast|brunch|meals?|pizzas?|snacks?|refreshments|boba|bagels?|donuts?|doughnuts?|
+    dumplings?|cookies?|pastries|pies?|sandwiches|burritos?|tacos?|sushi|cakes?|cupcakes?|desserts?|treats|
+    appetizers|catering|drinks|beverages|coffee|tea|plates?|tickets?
+  meal_token: >-
+    food|lunch|dinner|breakfast|brunch|meals?|pizzas?|snacks?|refreshments|boba|bagels?|donuts?|doughnuts?|
+    dumplings?|cookies?|pastries|pies?|sandwiches|burritos?|tacos?|sushi|cakes?|cupcakes?|desserts?|treats|
+    appetizers|catering
+  vendor: >-
+    insomnia|junzi|atticus|koffee\??|olmo|ashley'?s|frank\s+pepe'?s|pepe'?s|sally'?s\s+apizza|modern\s+(?:apizza|pizza)|
+    bobbi'?s|nice\s+day\s+(?:chinese|kitchen)|gyro\s+king|shake\s+shack|popeyes|domino'?s|tropical\s+smoothie|
+    sweetgreen|ivy\s+noodle|mamoun'?s|mecha\s+noodle|kung\s+fu\s+tea|gong\s+cha|tea\s+hill|sherkaan|
+    zeneli|bar\s+pizza|chipotle|panera|dunkin'?|starbucks|tikkaway|claire'?s\s+corner|ricky\s+d'?s|
+    yorkside|mezcal|soul\s+de\s+cuba|tandoor|pad\s+thai|lalibela
+
+rules:
+  # ---------------- positives ----------------
+  - id: provided_after_food
+    group: provision
+    kind: positive
+    weight: 4.0
+    pattern: '\b(?:<<food_noun>>|<<meal>>)\b[^.!?\n]{0,25}?\b(?:will\s+be\s+|is\s+|are\s+|being\s+)?(?:provided|served|included|catered|on\s+us|ready)\b'
+  - id: will_be_available
+    group: provision
+    kind: positive
+    weight: 3.5
+    pattern: '\b(?:<<food_noun>>|<<meal>>)\s+(?:will\s+be|is)\s+available\b'
+  - id: provide_before_food
+    group: provision
+    kind: positive
+    weight: 4.0
+    pattern: '\b(?:provid(?:e|es|ed|ing)|serv(?:e|es|ing)|offer(?:s|ing)?|bringing|sponsor(?:s|ing)?)\b[^.!?\n]{0,35}?\b(?:<<food_noun>>|<<meal>>)\b'
+  - id: food_from_vendor
+    group: provision
+    kind: positive
+    weight: 3.5
+    pattern: '\b(?:food|lunch|dinner|breakfast|catering|snacks|pizza)\s+(?:from|by|courtesy\s+of)\s+(?-i:[A-Z])'
+  - id: catering_headcount
+    group: headcount
+    kind: positive
+    weight: 3.0
+    pattern: '\b(?:rsvp|register|sign\s*up|registration)\b[^.!?\n]{0,60}?\b(?:catering|food|headcount|head\s+count)\b|\bfor\s+(?:catering|food)\s+(?:count|purposes|planning|orders?)\b|\b(?:dietary\s+(?:restrictions?|needs|preferences)|food\s+allergies)\b|\b(?:vegan|vegetarian|halal|kosher|gluten[-\s]free)(?:/\w+)?\s+options\b'
+  - id: enjoy_food
+    group: provision
+    kind: positive
+    weight: 3.0
+    pattern: '\b(?:great|delicious|good|tasty|yummy|plenty\s+of|lots\s+of|filled\s+with|enjoy(?:ing)?|share\s+a)\s+(?:some\s+)?(?:food|dinner|lunch|meal|brunch|breakfast)\b'
+  - id: specific_food
+    group: specific_food
+    kind: positive
+    weight: 3.0
+    pattern: '\b(?:<<food_noun>>)\b'
+  - id: local_vendor
+    group: mention
+    kind: positive
+    weight: 2.0
+    pattern: '\b(?:<<vendor>>)'
+  - id: free_near_food
+    group: free_food
+    kind: positive
+    weight: 4.0
+    proximity:
+      anchor: 'free|complimentary'
+      target: '<<meal_token>>'
+      window: 3
+      exclude_before: [feel, gluten, dairy, nut, peanut, sugar, alcohol, smoke, fragrance, scent, cruelty, carbon,
+                       tobacco, stress, judgment, judgement, hands, tax, toll, duty, caffeine, allergen, lactose]
+      exclude_after: [to, of, and, "&"]
+  - id: meal_or_drink_mention
+    group: mention
+    kind: positive
+    weight: 1.5
+    pattern: '\b(?:<<format>>|<<meal>>|<<drink>>)\b'
+
+  # ---------------- caps (at most "likely") ----------------
+  - id: hedged_food
+    group: hedge
+    kind: negative
+    weight: 0.0
+    cap: likely
+    proximity:
+      anchor: 'sometimes|occasionally|usually|typically|often|may|might|possibly|most|perhaps|vendor|vendors'
+      target: '<<food_token>>'
+      window: 5
+  - id: potluck
+    group: hedge
+    kind: negative
+    weight: 0.0
+    cap: likely
+    unless: [provision, free_food, flag]
+    pattern: '\bpotluck\b|\bbring\s+(?:a|your\s+favou?rite)\s+dish\b'
+  - id: food_as_activity
+    group: hedge
+    kind: negative
+    weight: 0.0
+    cap: likely
+    pattern: '\b(?:cookie|cake|cupcake|gingerbread|pumpkin)s?\s+(?:decorating|carving|baking|making)\b|\bdecorat\w*\s+(?:cookies|cakes|cupcakes)\b|\b(?:guide|walk|take)\s+\w+\s+through\s+(?:the\s+)?(?:process\s+of\s+)?(?:making|cooking|baking)\b|\bcooking\s+(?:class|lesson|workshop|demo(?:nstration)?)\b|\blearn\s+(?:how\s+)?to\s+(?:cook|bake)\b'
+  # Food awarded to a winner (e.g. "the college with the highest attendance receives free pizza") is not served to attendees.
+  - id: food_as_prize
+    group: hedge
+    kind: negative
+    weight: 0.0
+    cap: likely
+    pattern: '\b(?:highest|most|best|top|winning|first\s+place)\b[^.!?\n]{0,60}?\b(?:receives?|wins?|gets?|earns?|takes\s+home)\b[^.!?\n]{0,20}?\b(?:<<food_noun>>|<<meal>>)\b|\bwinners?\s+(?:will\s+)?(?:receives?|wins?|gets?|earns?)\b[^.!?\n]{0,20}?\b(?:<<food_noun>>|<<meal>>)\b'
+  - id: drinks_only_details
+    group: hedge
+    kind: negative
+    weight: 0.0
+    cap: likely
+    fields: [food_details]
+    pattern: '^\W*(?:(?:apple|hot|iced|warm|free)\s+)?(?:<<drink>>)(?:\s*(?:,|&|and|\+)\s*(?:(?:apple|hot|iced|warm)\s+)?(?:<<drink>>))*\W*$'
+
+  # ---------------- vetoes (label "no") ----------------
+  - id: dollar_near_food
+    group: veto_price
+    kind: veto
+    weight: -6.0
+    proximity:
+      anchor: '\$[1-9][\d,]*(?:\.\d+)?'
+      target: '<<food_token>>|per|plate|person'
+      window: 4
+  - id: ticketed
+    group: veto_price
+    kind: veto
+    weight: -6.0
+    unless: [flag]
+    pattern: '\bticketed\b|\btickets?\s+(?:are\s+)?(?:required|pricing|prices?|sales|cost)\b|\b(?:buy|purchase)\s+(?:a\s+|your\s+)?tickets?\b'
+  - id: for_purchase
+    group: veto_purchase
+    kind: veto
+    weight: -6.0
+    unless: [free_food]
+    proximity:
+      anchor: 'purchase|purchased|purchasing|sale|sales|sell|sells|selling|sold'
+      target: '<<food_token>>|vendors?|trucks?'
+      window: 6
+  - id: bake_sale
+    group: veto_purchase
+    kind: veto
+    weight: -6.0
+    pattern: '\bbake\s+sale\b'
+  - id: cash_bar_only
+    group: veto_cash_bar
+    kind: veto
+    weight: -5.0
+    unless: [provision, specific_food, free_food, headcount]
+    pattern: '\bcash\s+bar\b'
+  - id: pay_own
+    group: veto_pay_own
+    kind: veto
+    weight: -6.0
+    pattern: '\bpay\s+for\s+(?:your|their)\s+own\b|\b(?:order|buy)\s+(?:your|their)\s+own\b|\bon\s+your\s+own\s+dime\b|\bseparate\s+checks\b|\border\s+and\s+pay\b'
+  - id: bring_your_own
+    group: veto_byo
+    kind: veto
+    weight: -5.0
+    unless: [provision, free_food]
+    pattern: '\bbring\s+(?:your\s+own|your|a)\s+(?:lunch|dinner|food|snacks?|meal|breakfast)\b|\bBYO[LF]\b|\bBYO\s+(?:lunch|food|snacks?)\b'
+  - id: food_as_topic
+    group: veto_topic
+    kind: veto
+    weight: -5.0
+    unless: [flag, provided_after_food]
+    pattern: '\bfood[\s-]+(?:insecurity|insecure|systems?|security|justice|banks?|pantry|pantries|drives?|donations?|waste|policy|access|sovereignty|recovery|rescue)\b|\bnutriti\w*|\bsoup\s+kitchens?\b|\bnon-?perishable\b|\bfoodshare\b|\bpantry\b|\bfood\s+drive\b'
+  - id: staff_only
+    group: veto_staff
+    kind: veto
+    weight: -5.0
+    pattern: '\b(?:for|to)\s+(?:volunteers|staff|organizers|board\s+members)\s+only\b|\bstaff\s+only\b'
+  - id: virtual_only
+    group: veto_virtual
+    kind: veto
+    weight: -6.0
+    pattern: '\b(?:zoom|virtual|online|remote)[\s-]+only\b|\bthis\s+(?:event|session|talk|meeting)\s+(?:is|will\s+be)\s+(?:held\s+)?(?:virtual|virtually|online|on\s+zoom)\b|\bwebinar\b'
+
+free_to_attend:
+  # A non-zero amount in the registration options (e.g. "$12.50 USD", "12 USD", or "($10)" in an option name).
+  cost_amount: '\$\s?(\d[\d,]*(?:\.\d+)?)|(\d[\d,]*(?:\.\d+)?)\s*USD'
+  cost_free_words: '\bfree\b|\bno\s+cost\b'
+  paid_patterns:
+    - '\$[1-9][\d,]*(?:\.\d+)?\s*(?:tickets?|admission|fee|entry|cover|per\s+(?:person|ticket|plate|head)|donation|suggested)'
+    - '\b(?:tickets?|admission|entry|cover|registration\s+fee|fee)\s+(?:is|are|costs?|:)?\s*\$[1-9]'
+    - '\bregistration\s+fee\s+includes\b|\bticket\s+pricing\b|\ball\s+ticket\s+sales\b'
+    - '\bvenmo\b[^.!?\n]{0,30}\$[1-9]|\$[1-9][\d,]*[^.!?\n]{0,30}\bvenmo\b|\bplease\s+venmo\b'
+    - '\bsuggested\s+donation\b|\bdonation\s+(?:is\s+)?required\b'
+  free_patterns:
+    - '\bfree\s+and\s+open\b'
+    - '\bopen\s+to\s+(?:all|the\s+public|everyone|the\s+(?:entire\s+|whole\s+)?(?:yale\s+)?community)\b'
+    - '\bfree\s+(?:of\s+charge|admission|entry|to\s+attend|event|for\s+all|for\s+students)\b'
+    - '\b(?:no|without)\s+(?:cost|charge|fee)\b|\badmission\s+is\s+free\b|\bthis\s+(?:event|session)\s+is\s+free\b'
+    - '\bfree!'

@@ -1,0 +1,1142 @@
+{
+  "captured_at": "2026-11-17T22:53:00Z",
+  "files": {
+    "graphql/detail_eWFsZTpFdmVudDoyMzI0NDU2.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzI0NDU2"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzI2NjQz.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzI2NjQz"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzI2OTQw.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzI2OTQw"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzI2OTQx.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzI2OTQx"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzI2OTQy.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzI2OTQy"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzI3MDk4.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzI3MDk4"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzI4MDE1.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzI4MDE1"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzM1MjY2.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzM1MjY2"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzM1NTky.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzM1NTky"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzM3MTk5.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzM3MTk5"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzM3Nzc3.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzM3Nzc3"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzM4MTcx.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzM4MTcx"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzM4MzIy.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzM4MzIy"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzM5MjAz.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzM5MjAz"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzMwMjI2.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzMwMjI2"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_eWFsZTpFdmVudDoyMzMwOTkx.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDoyMzMwOTkx"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/detail_not_found.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Event",
+        "query": "query Event($id: ID!) {\n  event(id: $id) {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n}\n}\n",
+        "variables": {
+          "id": "eWFsZTpFdmVudDox"
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_hot6h_p01.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-17T22:53:00Z",
+              "to": "2026-11-18T04:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_hot6h_p02.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTE4VDAwOjMwOjAwIiwiMjAyNi0xMS0xOFQwMTowMDowMCIsIkhvdyB0byBGaW5kIFNjaG9sYXJseSBBcnRpY2xlcyAgIiwyMzM4NTkyXQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-17T22:53:00Z",
+              "to": "2026-11-18T04:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p01.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p02.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTA0VDAxOjAwOjAwIiwiMjAyNi0xMS0wNFQwMjowMDowMCIsIlllYXRlciB3ZWVrbHkgc3RhZmYgbWVldGluZyIsMjMzMzY1M10",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p03.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTA1VDAwOjQ1OjAwIiwiMjAyNi0xMS0wNVQwMjo0NTowMCIsIldlZWtseSBTdXJ2aXZvciBXYXRjaCBFdmVudCIsMjMyODA4NF0",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p04.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTA1VDIyOjAwOjAwIiwiMjAyNi0xMS0wNVQyMzowMDowMCIsIlByaW5jZXRvbiBpbiBCZWlqaW5nIEluZm9ybWF0aW9uIFNlc3Npb24iLDIzMzczMjVd",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p05.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTA2VDE2OjQ1OjAwIiwiMjAyNi0xMS0wNlQxNzo0NTowMCIsIkNsZWFuIHVwIHRoZSBGYXJtaW5ndG9uIENhbmFsIFRyYWlsIiwyMzM1OTA3XQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p06.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTA3VDAxOjAwOjAwIiwiMjAyNi0xMS0wN1QwMjowMDowMCIsIllGU0EgQm9hcmQgQm9uZGluZyBOaWdodCIsMjMzNTg5MF0",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p07.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTA4VDAwOjAwOjAwIiwiMjAyNi0xMS0wOFQwNDowMDowMCIsIlBhcnR5IG9mIHRoZSBMZWZ0IERlYmF0ZSIsMjMzNjY5MF0",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p08.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTA5VDAxOjAwOjAwIiwiMjAyNi0xMS0wOVQwMjowMDowMCIsIlRlYSAmIE1vY2hpIFNvY2lhbCBIb3VyIiwyMzM3NDQ4XQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p09.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTEwVDAwOjAwOjAwIiwiMjAyNi0xMS0xMFQwMDozMDowMCIsIkZpcnN0IFN0ZXBzIHdpdGggWm90ZXJvICAgIiwyMzM2MjA4XQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p10.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTEwVDIxOjAwOjAwIiwiMjAyNi0xMS0xMFQyMjozMDowMCIsIldyaXRpbmcgYSBSZXNlYXJjaCBQYXBlciBmcm9tIEEgdG8gWiBpbiB0aGUgSHVtYW5pdGllcyBhbmQgU29jaWFsIFNjaWVuY2VzIFNlcmllcyBQYXJ0IDUiLDIzMzA4NTJd",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p11.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTExVDE1OjMwOjAwIiwiMjAyNi0xMS0xMVQxNjozMDowMCIsIkJhcmJhcmEgSiBUdXJwaW4gLSBJbXBsaWNhdGlvbnMgb2YgdGhlIHVzZSBvZiBQRkFTIiwyMzM4MzQyXQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p12.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTExVDIzOjAwOjAwIiwiMjAyNi0xMS0xMlQwMToxNTowMCIsIkRMU0EgeCBZQ1MgTW92aWUgTmlnaHQ6IENPREEiLDIzMzgzNjZd",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p13.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTEyVDE5OjAwOjAwIiwiMjAyNi0xMS0xMlQyMTowMDowMCIsIlRodXJzZGF5IFRlYSBUaW1lOiBHcmF0aXR1ZGUiLDIzMzI4Njhd",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p14.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTEzVDAxOjIwOjAwIiwiMjAyNi0xMS0xM1QwMjozMDowMCIsIllTQVNDQSBUcmFpbmluZyAiLDIzMzg5NzNd",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p15.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTEzVDIxOjAwOjAwIiwiMjAyNi0xMS0xM1QyMjowMDowMCIsIlZpb2xldCBhbmQgQXJ0aHVyIFJlaGVhcnNhbCIsMjMzNzk1OF0",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p16.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTE0VDIwOjAwOjAwIiwiMjAyNi0xMS0xNFQyMTozMDowMCIsIldvbWFuc3BsYWluIHggUGFzcyBIZXIgdGhlIE1pYyBMaXZlIEZpbG1pbmciLDIzMzc0NjRd",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p17.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTE1VDIwOjAwOjAwIiwiMjAyNi0xMS0xNVQyMTowMDowMCIsIkVsZWN0aW9ucyBXZWVrbHkgTWVldGluZyEhIiwyMzM0MjU4XQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p18.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTE2VDIyOjAwOjAwIiwiMjAyNi0xMS0xNlQyMzowMDowMCIsIlRoZSBQb2xpdGljIFdlZWtseSBNZWV0aW5nIChSb29tIDIpIiwyMzMyNTcyXQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_past14d_p19.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTE3VDE5OjAwOjAwIiwiMjAyNi0xMS0xN1QyMDowMDowMCIsIldyaWdodC1JbmdyYWhhbSBJbnN0aXR1dGXigJlzIEZpZWxkIFdvcmtzaG9wIDIwMjcgSW5mbyBTZXNzaW9uIiwyMzM4MjM3XQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-03T22:53:00Z",
+              "to": "2026-11-17T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_upcoming14d_p01.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-17T22:53:00Z",
+              "to": "2026-12-01T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_upcoming14d_p02.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTE4VDAwOjMwOjAwIiwiMjAyNi0xMS0xOFQwMTowMDowMCIsIkhvdyB0byBGaW5kIFNjaG9sYXJseSBBcnRpY2xlcyAgIiwyMzM4NTkyXQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-17T22:53:00Z",
+              "to": "2026-12-01T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_upcoming14d_p03.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTE4VDIyOjAwOjAwIiwiMjAyNi0xMS0xOFQyMzozMDowMCIsIklUVzogQUkgaW4gdGhlIENsYXNzcm9vbSAoTmV3IERhdGUpIiwyMzI2MDUxXQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-17T22:53:00Z",
+              "to": "2026-12-01T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_upcoming14d_p04.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTE5VDE2OjMwOjAwIiwiMjAyNi0xMS0xOVQxNzowMDowMCIsIkRhaWx5IFdvcnNoaXAgYXQgTWFycXVhbmQgQ2hhcGVsIiwyMzI0NjI0XQ",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-17T22:53:00Z",
+              "to": "2026-12-01T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_upcoming14d_p05.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTIwVDAyOjAwOjAwIiwiMjAyNi0xMS0yMFQwNDowMDowMCIsIlJlaGVhcnNhbCIsMjMzMDEzNF0",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-17T22:53:00Z",
+              "to": "2026-12-01T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_upcoming14d_p06.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTIyVDIzOjAwOjAwIiwiMjAyNi0xMS0yM1QwMDozMDowMCIsIlN1bmRheSBUcml2aWEgTmlnaHRzIGF0IEJvYmJp4oCZcyIsMjMyNjg1Nl0",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-17T22:53:00Z",
+              "to": "2026-12-01T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_upcoming14d_p07.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTExLTI5VDE3OjMwOjAwIiwiMjAyNi0xMS0yOVQyMDozMDowMCIsIkp1c3QgQWRkIFdhdGVyIFJlaGVhcnNhbCIsMjMzMjI3MV0",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-17T22:53:00Z",
+              "to": "2026-12-01T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/list_upcoming14d_p08.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "Events",
+        "query": "query Events($first: Int, $after: String, $filter: EventFilterInput) {\n  events(first: $first, after: $after, filter: $filter) {\n    totalCount\n    pageInfo { endCursor hasNextPage }\n    edges { node {\n  id\n  name\n  startDate\n  endDate\n  timezone\n  isMultiDay\n  status\n  customTimeInstruction\n  attendanceMode\n  isFoodIncluded\n  foodDetails\n  descriptionText\n  descriptionHtml\n  shareUrl\n  type { value }\n  tags { name }\n  hostGroup { id name }\n  cohostGroups { id name }\n  parent { id name }\n  location {\n    kind\n    name\n    isToBeDetermined\n    eventLocationPrivacy\n    address { street city state zipcode }\n    coordinates { latitude longitude }\n  }\n  onlineMeeting { platform meetingLinkPrivacy }\n  externalRegistration { url }\n  registration {\n    capacityMode\n    registrationUrl\n    options { name price { amount currency isFlexible } }\n  }\n} }\n  }\n}\n",
+        "variables": {
+          "after": "AggAWyIyMDI2LTEyLTAxVDAyOjAwOjAwIiwiMjAyNi0xMi0wMVQwMzowMDowMCIsIllhbGUgUmVjb3JkIE1lZXRpbmciLDIzMjg2MzVd",
+          "filter": {
+            "dateRange": {
+              "from": "2026-11-17T22:53:00Z",
+              "to": "2026-12-01T22:53:00Z"
+            },
+            "timeRange": "CUSTOM"
+          },
+          "first": 50
+        }
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "graphql/viewer_anonymous.json": {
+      "headers": {
+        "cache-control": "no-store",
+        "content-type": "application/json; charset=utf-8"
+      },
+      "method": "POST",
+      "request_json": {
+        "operationName": "SessionProbe",
+        "query": "query SessionProbe { viewer { latestHubId } }\n",
+        "variables": {}
+      },
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/api/v2/graphql"
+    },
+    "html/ics_helper.html.gz": {
+      "headers": {
+        "cache-control": "private",
+        "content-length": "3412099",
+        "content-type": "text/html; charset=utf-8"
+      },
+      "method": "GET",
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/ics_helper"
+    },
+    "html/rsvp_spa_shell.html": {
+      "redirect_chain": [
+        {
+          "headers": {
+            "cache-control": "private",
+            "content-length": "0",
+            "content-type": "text/html",
+            "location": "/frocos27/rsvp?id=2326515"
+          },
+          "method": "GET",
+          "status": 302,
+          "url": "https://yaleconnect.yale.edu/rsvp?id=2326515"
+        },
+        {
+          "headers": {
+            "cache-control": "private",
+            "content-length": "0",
+            "content-type": "text/html",
+            "location": "/frocos27/rsvp_boot?id=2326515"
+          },
+          "method": "GET",
+          "status": 302,
+          "url": "https://yaleconnect.yale.edu/frocos27/rsvp?id=2326515"
+        },
+        {
+          "headers": {
+            "cache-control": "private",
+            "content-length": "0",
+            "content-type": "text/html",
+            "location": "/w/_/_/events/eWFsZTpFdmVudDoyMzI2NTE1"
+          },
+          "method": "GET",
+          "status": 302,
+          "url": "https://yaleconnect.yale.edu/frocos27/rsvp_boot?id=2326515"
+        },
+        {
+          "headers": {
+            "cache-control": "no-cache, private",
+            "content-length": "432",
+            "content-type": "text/html",
+            "etag": "\"6afae984-1b0\"",
+            "last-modified": "Mon, 16 Nov 2026 11:31:16 GMT"
+          },
+          "method": "GET",
+          "status": 200,
+          "url": "https://yaleconnect.yale.edu/w/_/_/events/eWFsZTpFdmVudDoyMzI2NTE1"
+        }
+      ]
+    },
+    "ics/ical_club_30725.ics": {
+      "headers": {
+        "content-length": "114",
+        "content-type": "binary/octet-stream",
+        "etag": "\"16075678b57d7d5edfb0da96047c8304\"",
+        "last-modified": "Fri, 14 Jan 2022 13:44:16 GMT"
+      },
+      "method": "GET",
+      "requested": "https://yaleconnect.yale.edu/ical/yale/ical_club_30725.ics",
+      "status": 200,
+      "url": "https://static-prod-us-east-1.campusgroups.com/ical/yale/ical_club_30725.ics"
+    },
+    "ics/ical_club_33342.ics": {
+      "headers": {
+        "content-length": "159302",
+        "content-type": "text/calendar; charset=utf-8",
+        "etag": "\"f6a81452c769810e445c67e05c20f96e\"",
+        "last-modified": "Tue, 17 Nov 2026 00:23:12 GMT"
+      },
+      "method": "GET",
+      "requested": "https://yaleconnect.yale.edu/ical/yale/ical_club_33342.ics",
+      "status": 200,
+      "url": "https://static-prod-us-east-1.campusgroups.com/ical/yale/ical_club_33342.ics"
+    },
+    "ics/ical_club_38473.ics": {
+      "headers": {
+        "content-length": "101668",
+        "content-type": "text/calendar; charset=utf-8",
+        "etag": "\"9e21082a1b338fc0d38cd0da43022576\"",
+        "last-modified": "Fri, 13 Nov 2026 20:26:41 GMT"
+      },
+      "method": "GET",
+      "requested": "https://yaleconnect.yale.edu/ical/yale/ical_club_38473.ics",
+      "status": 200,
+      "url": "https://static-prod-us-east-1.campusgroups.com/ical/yale/ical_club_38473.ics"
+    },
+    "ics/ical_yale.ics.gz": {
+      "headers": {
+        "content-length": "6081064",
+        "content-type": "text/calendar; charset=utf-8",
+        "etag": "\"1ad58a33f0de6cd70bd0a12ba687bf2b\"",
+        "last-modified": "Tue, 17 Nov 2026 06:05:24 GMT"
+      },
+      "method": "GET",
+      "status": 200,
+      "url": "https://static-prod-us-east-1.campusgroups.com/ical/yale/ical_yale.ics"
+    },
+    "ics/ical_yale_conditional.txt": {
+      "headers": {
+        "etag": "\"1ad58a33f0de6cd70bd0a12ba687bf2b\"",
+        "last-modified": "Tue, 17 Nov 2026 06:05:24 GMT"
+      },
+      "method": "GET",
+      "sent_if_none_match": "\"1ad58a33f0de6cd70bd0a12ba687bf2b\"",
+      "status": 304,
+      "url": "https://static-prod-us-east-1.campusgroups.com/ical/yale/ical_yale.ics"
+    },
+    "ics/ical_yale_redirect.txt": {
+      "headers": {
+        "content-length": "110",
+        "content-type": "text/html",
+        "location": "https://static-prod-us-east-1.campusgroups.com:443/ical/yale/ical_yale.ics"
+      },
+      "method": "GET",
+      "status": 302,
+      "url": "https://yaleconnect.yale.edu/ical/yale/ical_yale.ics"
+    },
+    "robots/yaleconnect_robots.txt": {
+      "headers": {
+        "cache-control": "max-age=3600",
+        "content-length": "165",
+        "content-type": "text/plain",
+        "etag": "\"779d646bac75dd1:0\"",
+        "last-modified": "Mon, 16 Nov 2026 09:25:28 GMT"
+      },
+      "method": "GET",
+      "status": 200,
+      "url": "https://yaleconnect.yale.edu/robots.txt"
+    }
+  },
+  "windows": {
+    "hot6h": {
+      "events": 72,
+      "from": "2026-11-17T22:53:00Z",
+      "pages": 2,
+      "to": "2026-11-18T04:53:00Z"
+    },
+    "past14d": {
+      "events": 920,
+      "from": "2026-11-03T22:53:00Z",
+      "pages": 19,
+      "to": "2026-11-17T22:53:00Z"
+    },
+    "upcoming14d": {
+      "events": 371,
+      "from": "2026-11-17T22:53:00Z",
+      "pages": 8,
+      "to": "2026-12-01T22:53:00Z"
+    }
+  }
+}

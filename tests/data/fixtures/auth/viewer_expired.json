@@ -1,0 +1,1 @@
+{"errors": [{"message": "The current user is not authorized to access this resource.", "path": ["viewer"], "extensions": {"code": "AUTH_NOT_AUTHENTICATED", "traceId": "00-fixture-expired-session-trace-00"}}], "data": null}

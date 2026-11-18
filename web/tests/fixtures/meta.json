@@ -1,0 +1,25 @@
+{
+  "now": "2026-11-17T23:01:12Z",
+  "data_as_of": "2026-11-17T22:58:40Z",
+  "data_age_seconds": 152,
+  "last_sync": null,
+  "last_full_sync": null,
+  "last_hot_sync": null,
+  "auth": {
+    "mode": "authenticated",
+    "status": "valid",
+    "cookie_configured": true,
+    "ics_feeds_configured": 1,
+    "data_includes_authenticated_events": true
+  },
+  "counts": {
+    "active": 4,
+    "removed": 0,
+    "by_visibility": {"public": 3, "authenticated": 1},
+    "by_food_label": {"yes": 2, "likely": 1, "no": 1},
+    "geocoded": 3,
+    "location_withheld": 1
+  },
+  "coverage": {"primary_source": "graphql", "sources": {}, "geocode_rate": 0.75},
+  "dataset": {"kind": "fixture_replay", "time_shift_days": 3}
+}

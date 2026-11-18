@@ -1,0 +1,1336 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:CAMPUSGROUPS
+X-WR-CALNAME:Yale LGBTQ Center
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+DTSTAMP:20261113T194440Z
+LAST-MODIFIED:20260707T211612Z
+CREATED:20260203T220541Z
+SEQUENCE:7
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2318466#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Grad and professional colleagues,Grad ,Trans,Gender
+DTSTART:20261015T200000Z
+DTEND:20261015T220000Z
+UID:05e7562d23b311d6e144537cc2a456ae232026_5:05:41_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Graduate & Professional Student Meet Up
+LOCATION:168 York Street
+URL:https://yaleconnect.yale.edu/rsvp?id=2318466
+DESCRIPTION:The Yale LGBTQ Center invites graduate and professional students to join us at 168 York Street Café for an evening of good food, great company, and welcoming vibes.\n\nStop by beginning at 4 PM on October 15 to connect with community and meet new people. Appetizers are on us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2318466
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20260707T154856Z
+CREATED:20260707T141415Z
+SEQUENCE:8
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325244#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Cultural and International,Food,First-generation and/or Low-Income,Yale College,Graduate and Professional Students
+DTSTART:20261214T050000Z
+DTEND:20261214T210000Z
+UID:59d1cbfb481bf62345ca5ba19e1a0d58772026_10:14:15_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Soup and Study
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325244
+DESCRIPTION:The Yale LGBTQ Center will be hosting study hours during reading week and our professional staff will be providing free soup for our community members as they prepare for final exams. GF/VG options available.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325244
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20260707T154936Z
+CREATED:20260707T142041Z
+SEQUENCE:10
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325246#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Cultural and International,Food,First-generation and/or Low-Income,Yale College,Graduate and Professional Students
+DTSTART:20261215T050000Z
+DTEND:20261215T210000Z
+UID:63e7fca2c7df6c99370b7cc0a1d20ada772026_10:20:41_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Soup and Study
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325246
+DESCRIPTION:The Yale LGBTQ Center will be hosting study hours during reading week and our professional staff will be providing free soup for our community members as they prepare for final exams. GF/VG options available.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325246
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20260707T155011Z
+CREATED:20260707T142136Z
+SEQUENCE:11
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325248#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Cultural and International,Food,First-generation and/or Low-Income,Yale College,Graduate and Professional Students
+DTSTART:20261216T050000Z
+DTEND:20261216T210000Z
+UID:e3f33607d7846b57689e16b2992c7faa772026_10:21:36_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Soup and Study
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325248
+DESCRIPTION:The Yale LGBTQ Center will be hosting study hours during reading week and our professional staff will be providing free soup for our community members as they prepare for final exams. GF/VG options available.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325248
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194448Z
+LAST-MODIFIED:20260707T155039Z
+CREATED:20260707T142439Z
+SEQUENCE:12
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325249#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Cultural and International,Food,First-generation and/or Low-Income,Yale College,Graduate and Professional Students
+DTSTART:20270503T040000Z
+DTEND:20270503T200000Z
+UID:4835290133919942054a8675923bf03f772026_10:24:39_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Soup and Study
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325249
+DESCRIPTION:The Yale LGBTQ Center will be hosting study hours during reading week and our professional staff will be providing free soup for our community members as they prepare for final exams. GF/VG options available.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325249
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194448Z
+LAST-MODIFIED:20260707T155107Z
+CREATED:20260707T142500Z
+SEQUENCE:13
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325251#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Cultural and International,Food,First-generation and/or Low-Income,Yale College,Graduate and Professional Students
+DTSTART:20270504T040000Z
+DTEND:20270504T200000Z
+UID:dad218e2c80e7939626d8792145beb83772026_10:25:00_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Soup and Study
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325251
+DESCRIPTION:The Yale LGBTQ Center will be hosting study hours during reading week and our professional staff will be providing free soup for our community members as they prepare for final exams. GF/VG options available.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325251
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194442Z
+LAST-MODIFIED:20260914T205009Z
+CREATED:20260707T142659Z
+SEQUENCE:16
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325253#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Gender,Grad ,Trans,Yale College,Cultural and International,Celebration,costumes,Contest,Fall,Food,FUN,gettogether,GradProfLGBTQ,Graduate and Professional Students,Graduate Students,GSAS,Halloween,holidays,LGBTQ ,Library,New Haven,Party,Stress Management,Postdocs,PhD students,Postdoctoral Students,Study break,Volunteer ,Wellness
+DTSTART:20261031T010000Z
+DTEND:20261031T033000Z
+UID:4ade31cf5d271a75858b1a1f797d59e3772026_10:26:59_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Monster Mash 2026: Camp Crystal Queer
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325253
+DESCRIPTION:Join us on Friday, October 30th for the Yale LGBTQ Center’s annual Monster Mash as we head into the woods for Camp Crystal Queer—a retro summer-camp nightmare filled with ’80s slasher energy, eerie campfire legends, queer camp, and just enough mystery to make you question what’s moving on the other side of the lake.\n\nPicture moonlit cabins, flickering flashlights, neon windbreakers, feathered hair, suspiciously glamorous camp counselors, and stories whispered around the fire that always begin with, “They say it happened right here…” Come dressed in your best final-girl fantasy, doomed-counselor couture, scream-queen glamour, lake-creature realness, varsity-jock throwback, masked-menace look, or whatever you’d wear for one very strange last night at summer camp.\n\nExpect a playful collision of retro horror, spooky storytelling, queer excess, and Halloween fun as Camp Crystal Queer transforms Monster Mash into the kind of camp where the counselors are missing, the fire is getting low, and no one can quite explain the footsteps outside the cabin.\n\nStudents, faculty, staff, alumni, and their families are welcome.\n\nThe sun is setting. The stories are getting stranger. Somewhere in the woods, a branch just snapped.\n\nWelcome to Camp Crystal Queer. Check in, gather ’round the fire, and try to survive the night. 🔦🔥🔪\n\n💄 Show off your most creative, glamorous, frightening, or completely unhinged Halloween look\n\n👑 Compete in our annual Costume Contest\n\n🍬 Enjoy free food, decadent treats, and hauntingly good fun\n\n🎭 Explore themed activities and surprises throughout the Center\n\n🎶 Dance the night away at one of Yale’s favorite Halloween traditions\n\n🌈 Students, faculty, staff, alumni, and their families are all welcome.\n\nHelp Bring Monster Mash to Life! 🏳️‍🌈\n\nVolunteer opportunities will be available throughout the day for setup, decorating, activity hosting, event support, and cleanup. Whether you can help for an hour or stay for the entire evening, every contribution helps us create an incredible celebration for the community.\n\nVolunteer sign-up information coming soon.\n\n📍 Yale LGBTQ Center, 135 Prospect Street\n🕘 Starts at 9 PM\n\nCome dressed to impress, frighten, enchant, or surprise us—and prepare for the best Halloween party at Yale.\n\n#MonsterMash2026 #YaleLGBTQCenter #HalloweenAtYale #SpookySeason #YaleEvents #QueerJoy #VolunteerAtYale\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325253
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194439Z
+LAST-MODIFIED:20260707T160816Z
+CREATED:20260707T145022Z
+SEQUENCE:8
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325266#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:Arts,Creative Writing,Study break
+DTSTART:20261012T230000Z
+DTEND:20261013T003000Z
+UID:cc387b88d455af42af52c749c7e47c55772026_10:50:22_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Queer Creatives: Paint & Sip
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325266
+DESCRIPTION:Celebrate OutWeek with an evening of creativity, connection, and queer joy at the Yale LGBTQ Center! Paint whatever inspires you—no rules, no pressure, and no artistic experience required. Whether you’re channeling your inner artist or simply want to splash some color onto a canvas, we’ll provide the supplies, cozy autumn vibes, and space to express yourself freely.\n\nWarm up with hot cider, enjoy some delicious autumn foods, and create alongside community. Come as you are and leave with something uniquely yours.\n\nFood, drinks, and painting supplies provided!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325266
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194434Z
+LAST-MODIFIED:20260708T185722Z
+CREATED:20260707T154624Z
+SEQUENCE:1
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325271#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community
+DTSTART:20260818T220000Z
+DTEND:20260818T233000Z
+UID:186dfe958b013f909a0c5578d6686cb7772026_11:46:24_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Late Bloomers 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325271
+DESCRIPTION:The Late-Bloomers group is a welcoming community for adults ages 25 and older who are exploring, embracing, or reflecting on LGBTQ+ Identity in the later stages of life. Join us on the third Tuesday of each month at the Yale LGBTQ Center (135 Prospect St.) for thoughtful conversations, shared experiences, and meaningful connection in a supportive and inclusive environment. Whether you're newly out, questioning, or simply seeking community with others who understand the journey of living authentically in adulthood, we invite you to come as you are and grow alongside us.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325271
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194437Z
+LAST-MODIFIED:20260909T194855Z
+CREATED:20260707T154625Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325272#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community
+DTSTART:20260922T220000Z
+DTEND:20260922T233000Z
+UID:7cacc86218a0a6e7b0b4bd872af5fc4c772026_11:46:25_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Late Bloomers 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325272
+DESCRIPTION:The Late-Bloomers group is a welcoming community for adults ages 25 and older who are exploring, embracing, or reflecting on LGBTQ+ Identity in the later stages of life. Join us on the third Tuesday of each month at the Yale LGBTQ Center (135 Prospect St.) for thoughtful conversations, shared experiences, and meaningful connection in a supportive and inclusive environment. Whether you're newly out, questioning, or simply seeking community with others who understand the journey of living authentically in adulthood, we invite you to come as you are and grow alongside us.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325272
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194441Z
+LAST-MODIFIED:20260909T194948Z
+CREATED:20260707T154626Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325273#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community
+DTSTART:20261020T220000Z
+DTEND:20261020T233000Z
+UID:441656d502e18b37c50216b2080c1c52772026_11:46:26_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Late Bloomers 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325273
+DESCRIPTION:The Late-Bloomers group is a welcoming community for adults ages 25 and older who are exploring, embracing, or reflecting on LGBTQ+ Identity in the later stages of life. Join us on the third Tuesday of each month at the Yale LGBTQ Center (135 Prospect St.) for thoughtful conversations, shared experiences, and meaningful connection in a supportive and inclusive environment. Whether you're newly out, questioning, or simply seeking community with others who understand the journey of living authentically in adulthood, we invite you to come as you are and grow alongside us.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325273
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194445Z
+LAST-MODIFIED:20260909T195018Z
+CREATED:20260707T154627Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325274#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community
+DTSTART:20261117T230000Z
+DTEND:20261118T003000Z
+UID:ed24d3ec8e15ec8dcbc4a33e22077753772026_11:46:27_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Late Bloomers 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325274
+DESCRIPTION:The Late-Bloomers group is a welcoming community for adults ages 25 and older who are exploring, embracing, or reflecting on LGBTQ+ Identity in the later stages of life. Join us on the third Tuesday of each month at the Yale LGBTQ Center (135 Prospect St.) for thoughtful conversations, shared experiences, and meaningful connection in a supportive and inclusive environment. Whether you're newly out, questioning, or simply seeking community with others who understand the journey of living authentically in adulthood, we invite you to come as you are and grow alongside us.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325274
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20260909T195047Z
+CREATED:20260707T154629Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325275#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community
+DTSTART:20261215T230000Z
+DTEND:20261216T003000Z
+UID:5e02735b33390b49d8f92ab6e667f182772026_11:46:29_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Late Bloomers 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325275
+DESCRIPTION:The Late-Bloomers group is a welcoming community for adults ages 25 and older who are exploring, embracing, or reflecting on LGBTQ+ Identity in the later stages of life. Join us on the third Tuesday of each month at the Yale LGBTQ Center (135 Prospect St.) for thoughtful conversations, shared experiences, and meaningful connection in a supportive and inclusive environment. Whether you're newly out, questioning, or simply seeking community with others who understand the journey of living authentically in adulthood, we invite you to come as you are and grow alongside us.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325275
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20260909T195137Z
+CREATED:20260707T154630Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325276#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community
+DTSTART:20270119T230000Z
+DTEND:20270120T003000Z
+UID:7aace4b2eb2ef787d1dd482522dd15b4772026_11:46:30_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Late Bloomers 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325276
+DESCRIPTION:The Late-Bloomers group is a welcoming community for adults ages 25 and older who are exploring, embracing, or reflecting on LGBTQ+ Identity in the later stages of life. Join us on the third Tuesday of each month at the Yale LGBTQ Center (135 Prospect St.) for thoughtful conversations, shared experiences, and meaningful connection in a supportive and inclusive environment. Whether you're newly out, questioning, or simply seeking community with others who understand the journey of living authentically in adulthood, we invite you to come as you are and grow alongside us.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325276
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194448Z
+LAST-MODIFIED:20260909T195229Z
+CREATED:20260707T154631Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325277#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community
+DTSTART:20270216T230000Z
+DTEND:20270217T003000Z
+UID:489c2f4443ff5a96b175088213cf3f2d772026_11:46:31_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Late Bloomers 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325277
+DESCRIPTION:The Late-Bloomers group is a welcoming community for adults ages 25 and older who are exploring, embracing, or reflecting on LGBTQ+ Identity in the later stages of life. Join us on the third Tuesday of each month at the Yale LGBTQ Center (135 Prospect St.) for thoughtful conversations, shared experiences, and meaningful connection in a supportive and inclusive environment. Whether you're newly out, questioning, or simply seeking community with others who understand the journey of living authentically in adulthood, we invite you to come as you are and grow alongside us.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325277
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194448Z
+LAST-MODIFIED:20260909T195304Z
+CREATED:20260707T154633Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325278#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community
+DTSTART:20270316T220000Z
+DTEND:20270316T233000Z
+UID:d7f1d6274a4345c04114a4c82c6eea33772026_11:46:33_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Late Bloomers 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325278
+DESCRIPTION:The Late-Bloomers group is a welcoming community for adults ages 25 and older who are exploring, embracing, or reflecting on LGBTQ+ Identity in the later stages of life. Join us on the third Tuesday of each month at the Yale LGBTQ Center (135 Prospect St.) for thoughtful conversations, shared experiences, and meaningful connection in a supportive and inclusive environment. Whether you're newly out, questioning, or simply seeking community with others who understand the journey of living authentically in adulthood, we invite you to come as you are and grow alongside us.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325278
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194448Z
+LAST-MODIFIED:20260909T195400Z
+CREATED:20260707T154634Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325279#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community
+DTSTART:20270518T220000Z
+DTEND:20270518T233000Z
+UID:e680cd69061999a41a10b7ec4f974df3772026_11:46:34_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Late Bloomers 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325279
+DESCRIPTION:The Late-Bloomers group is a welcoming community for adults ages 25 and older who are exploring, embracing, or reflecting on LGBTQ+ Identity in the later stages of life. Join us on the third Tuesday of each month at the Yale LGBTQ Center (135 Prospect St.) for thoughtful conversations, shared experiences, and meaningful connection in a supportive and inclusive environment. Whether you're newly out, questioning, or simply seeking community with others who understand the journey of living authentically in adulthood, we invite you to come as you are and grow alongside us.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194448Z
+LAST-MODIFIED:20260909T195437Z
+CREATED:20260707T154635Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325280#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community
+DTSTART:20270622T220000Z
+DTEND:20270622T233000Z
+UID:8239563c07510e39ed89d9205b78cdf6772026_11:46:35_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Late Bloomers 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325280
+DESCRIPTION:The Late-Bloomers group is a welcoming community for adults ages 25 and older who are exploring, embracing, or reflecting on LGBTQ+ Identity in the later stages of life. Join us on the third Tuesday of each month at the Yale LGBTQ Center (135 Prospect St.) for thoughtful conversations, shared experiences, and meaningful connection in a supportive and inclusive environment. Whether you're newly out, questioning, or simply seeking community with others who understand the journey of living authentically in adulthood, we invite you to come as you are and grow alongside us.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325280
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194435Z
+LAST-MODIFIED:20260707T161159Z
+CREATED:20260707T160127Z
+SEQUENCE:4
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325282#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20260909T233000Z
+DTEND:20260910T003000Z
+UID:fe98e7368bd21f7c7850c6b991f8541f772026_12:01:27_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325282
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325282
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194435Z
+LAST-MODIFIED:20260914T202534Z
+CREATED:20260707T160754Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325283#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20260915T233000Z
+DTEND:20260916T003000Z
+UID:b5e2ad89670be336eed0810df2518f0a772026_12:07:54_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325283
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325283
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194437Z
+LAST-MODIFIED:20260914T202657Z
+CREATED:20260707T160755Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325284#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20260922T233000Z
+DTEND:20260923T003000Z
+UID:1c0a96fb1103f19ef2647bc27524a354772026_12:07:55_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325284
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325284
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194438Z
+LAST-MODIFIED:20260914T202735Z
+CREATED:20260707T160756Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325285#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20260929T233000Z
+DTEND:20260930T003000Z
+UID:aceccde55e93f81b0ace038f24750519772026_12:07:56_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325285
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325285
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194438Z
+LAST-MODIFIED:20260914T202815Z
+CREATED:20260707T160758Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325286#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20261006T233000Z
+DTEND:20261007T003000Z
+UID:1c4afc91fe2d929d21d38fe5dbc94d8f772026_12:07:58_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325286
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325286
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194440Z
+LAST-MODIFIED:20260914T203720Z
+CREATED:20260707T160759Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325287#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20261013T233000Z
+DTEND:20261014T003000Z
+UID:3f41b3874aff80af8fb95b9a065011f5772026_12:07:59_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325287
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325287
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194442Z
+LAST-MODIFIED:20260914T203811Z
+CREATED:20260707T160800Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325288#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20261027T233000Z
+DTEND:20261028T003000Z
+UID:021a903227610d061477316255054212772026_12:08:00_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325288
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325288
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194443Z
+LAST-MODIFIED:20260914T203922Z
+CREATED:20260707T160802Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325289#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20261104T003000Z
+DTEND:20261104T013000Z
+UID:52ef1ff74745568167a37b06b6cc0784772026_12:08:02_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325289
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325289
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194444Z
+LAST-MODIFIED:20260914T204040Z
+CREATED:20260707T160803Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325290#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20261111T003000Z
+DTEND:20261111T013000Z
+UID:c635041e6e34b88ccd369dc8216e8c8c772026_12:08:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325290
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325290
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194446Z
+LAST-MODIFIED:20260914T204139Z
+CREATED:20260707T160804Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325291#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20261118T003000Z
+DTEND:20261118T013000Z
+UID:bfe380a9da7c9b8f54153b345b58adc1772026_12:08:04_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325291
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325291
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194446Z
+LAST-MODIFIED:20260914T204458Z
+CREATED:20260707T160805Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325292#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20261202T003000Z
+DTEND:20261202T013000Z
+UID:a9e7642232a9dc8bb0a21f6ac74afae8772026_12:08:05_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325292
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325292
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20260914T204712Z
+CREATED:20260707T160807Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325293#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,LGBTQ 
+DTSTART:20261209T003000Z
+DTEND:20261209T013000Z
+UID:1586f53bd054dbd5dfa1899c80d5eb1c772026_12:08:07_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ace Aro Space  
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325293
+DESCRIPTION:Looking for a welcoming space to connect around the topic of asexuals, aromantics, and the ace or aro spectra (gray/demi/etc.)? Whether you're already part of the community, questioning, or hoping to learn more, we’d love to have you join us!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325293
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194438Z
+LAST-MODIFIED:20260708T185256Z
+CREATED:20260707T174116Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325298#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,LGBTQ ,Community,Plants,Conversation,Food
+DTSTART:20260929T223000Z
+DTEND:20260929T233000Z
+UID:f224b7d682e36c819d33c56320d85ec6772026_1:41:16_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Planting Possibilities 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325298
+DESCRIPTION:Planting Possibilities is a welcoming community space that invites students to come together, connect, and reflect on the seeds we plant for our futures. Join us at the Yale LGBTQ Center (135 Prospect St.) for an engaging succulent planting workshop where we'll explore themes of growth, resilience, authenticity, and cultivating success, both in our own lives and in the soil before us. Inspired by the many ways LGBTQ+ people and allies build community, nurture belonging, and thrive in spaces where they can be fully themselves, this program celebrates the beauty of growth in all its forms. Through meaningful conversation, creativity, and hands-on planting, participants will have the opportunity to cultivate something unique and beautiful while fostering connection in a supportive and inclusive environment. Whether you're seeking community, inspiration, or simply a moment to pause, reflect, and grow, we invite you to plant possibilities with us and watch them flourish together.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325298
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20260708T182631Z
+CREATED:20260707T182556Z
+SEQUENCE:1
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325304#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Food,Conversation,First Generation,LGBTQ 
+DTSTART:20261208T233000Z
+DTEND:20261209T013000Z
+UID:4bdc375429b047414388ff071f41bcfe772026_2:25:56_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Cooking with Sandra: Seasoned with Pride
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325304
+DESCRIPTION:Sandra's Cooking Class: Seasoned with Pride is a welcoming community gathering that celebrates the joy of food, culture, and connection. Join us at the Yale LGBTQ Center (135 Prospect St.) for an interactive cooking experience where students can come together to share stories, build relationships, and explore the ways food nourishes both body and community. Inspired by the spirit of chosen family and the traditions that bring us together, this program offers an affirming space to learn new recipes, exchange experiences, and create something meaningful alongside others. Whether you're a seasoned cook or stepping into the kitchen for the first time, we invite you to bring your curiosity, your appetite, and your authentic self as we cook, connect, and celebrate the many flavors that make our community unique, seasoned with pride.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325304
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194434Z
+LAST-MODIFIED:20260709T151558Z
+CREATED:20260707T190259Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325307#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Orientation
+CATEGORIES;X-CG-CATEGORY=event_tags:Calendar of Opening Days,Yale College,LGBTQ ,Trans,Gender
+DTSTART:20260826T140000Z
+DTEND:20260826T160000Z
+UID:489484d550d844f2792b06754d16b7bf772026_3:02:59_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Meet the Yale LGBTQ Center Peer Liaisons
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325307
+DESCRIPTION:Starting at Yale can feel exciting, overwhelming, and everything in between. The Peer Liaison Program provides first-year Yale College students with an additional layer of mentorship, connection, and support as they transition into campus life—especially students from historically and systematically minoritized communities.\n\nPeer Liaisons, or PLs, are trained and caring upper-class student leaders affiliated with Yale’s residential colleges and cultural or community centers, including the Yale LGBTQ Center. Through individual support, community-building events, and helpful campus connections, PLs help first-year students find resources, build relationships, and develop a stronger sense of belonging at Yale.\n\nCome meet the Yale LGBTQ Center’s Peer Liaisons, learn more about the program, and discover how a PL can support you during your first year.\n\nFirst-year Yale College students are encouraged to request a Peer Liaison:\nhttps://college.yale.edu/communities/student-leadership/peer-liaisons\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325307
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194441Z
+LAST-MODIFIED:20260713T152854Z
+CREATED:20260713T152555Z
+SEQUENCE:17
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325461#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual/Worship
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,Chaplains,Divinity,GradProfLGBTQ,LGBTQ ,Sprituality,Trans,Yale College
+DTSTART:20261018T230000Z
+DTEND:20261019T010000Z
+UID:01b51df5d761d1ec5e4984cc2fbe1bc07132026_11:25:55_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:W{holy} Queer
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325461
+DESCRIPTION:The Chaplain's Office, the Yale LGBTQ Center, and the Slifka Center invite those of all spiritual persuasions and religious traditions to monthly dinner discussions that explore the intersections of all things queer and religious! Come all semester or drop by for one meal. \n\nAll undergrad, graduate, and professional students are welcome!\n \nFor more information, please e-mail our Associate University Chaplain Jenny Peek (jennifer.peek@yale.edu).\n\nRSVP Required.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325461
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194445Z
+LAST-MODIFIED:20260713T153005Z
+CREATED:20260713T152928Z
+SEQUENCE:18
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325462#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual/Worship
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,Chaplains,Divinity,GradProfLGBTQ,LGBTQ ,Sprituality,Trans,Yale College
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+UID:4efcdce2d75718feb1f93714fbead5b37132026_11:29:28_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:W{holy} Queer 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325462
+DESCRIPTION:The Chaplain's Office, the Yale LGBTQ Center, and the Slifka Center invite those of all spiritual persuasions and religious traditions to monthly dinner discussions that explore the intersections of all things queer and religious! Come all semester or drop by for one meal. \n\nAll undergrad, graduate, and professional students are welcome!\n \nFor more information, please e-mail our Associate University Chaplain Jenny Peek (jennifer.peek@yale.edu).\n\nRSVP Required.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325462
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194448Z
+LAST-MODIFIED:20260713T153050Z
+CREATED:20260713T153034Z
+SEQUENCE:18
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325463#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual/Worship
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,Chaplains,Divinity,GradProfLGBTQ,LGBTQ ,Sprituality,Trans,Yale College
+DTSTART:20270208T000000Z
+DTEND:20270208T020000Z
+UID:1afa475e616c90455a0d7b23d20bcefb7132026_11:30:34_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:W{holy} Queer 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325463
+DESCRIPTION:The Chaplain's Office, the Yale LGBTQ Center, and the Slifka Center invite those of all spiritual persuasions and religious traditions to monthly dinner discussions that explore the intersections of all things queer and religious! Come all semester or drop by for one meal. \n\nAll undergrad, graduate, and professional students are welcome!\n \nFor more information, please e-mail our Associate University Chaplain Jenny Peek (jennifer.peek@yale.edu).\n\nRSVP Required.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325463
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194448Z
+LAST-MODIFIED:20260713T153141Z
+CREATED:20260713T153117Z
+SEQUENCE:18
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325464#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual/Worship
+CATEGORIES;X-CG-CATEGORY=event_tags:Ace / Aro,Chaplains,Divinity,GradProfLGBTQ,LGBTQ ,Sprituality,Trans,Yale College
+DTSTART:20270404T230000Z
+DTEND:20270405T010000Z
+UID:cef2194c27001aba45d586eab784c9fc7132026_11:31:17_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:W{holy} Queer 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325464
+DESCRIPTION:The Chaplain's Office, the Yale LGBTQ Center, and the Slifka Center invite those of all spiritual persuasions and religious traditions to monthly dinner discussions that explore the intersections of all things queer and religious! Come all semester or drop by for one meal. \n\nAll undergrad, graduate, and professional students are welcome!\n \nFor more information, please e-mail our Associate University Chaplain Jenny Peek (jennifer.peek@yale.edu).\n\nRSVP Required.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325464
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194436Z
+LAST-MODIFIED:20260721T172231Z
+CREATED:20260713T173809Z
+SEQUENCE:5
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325466#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Social,First-generation and/or Low-Income,Discussion,Public
+DTSTART:20260921T220000Z
+DTEND:20260921T233000Z
+UID:f93c1951f1ee5628d0770a96d472f7e07132026_1:38:09_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Beyond The Binary Dinner
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325466
+DESCRIPTION:A space for discussing gender identity and expression at Yale\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325466
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194441Z
+LAST-MODIFIED:20261018T223445Z
+CREATED:20260713T174402Z
+SEQUENCE:4
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325467#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Social,First-generation and/or Low-Income,Discussion,Public
+DTSTART:20261026T220000Z
+DTEND:20261026T233000Z
+UID:1fafb2c3a492d00ce9744015a3fdb9c97132026_1:44:02_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Beyond The Binary Dinner
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325467
+DESCRIPTION:A space for discussing gender identity and expression at Yale\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325467
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194445Z
+LAST-MODIFIED:20260714T194327Z
+CREATED:20260713T174402Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325468#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Social,First-generation and/or Low-Income,Discussion,Public
+DTSTART:20261116T230000Z
+DTEND:20261117T003000Z
+UID:fc17ecee119798c5e9d740ce93ba21957132026_1:44:02_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Beyond The Binary
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325468
+DESCRIPTION:A space for discussing gender identity and expression at Yale\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325468
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194435Z
+LAST-MODIFIED:20260810T180232Z
+CREATED:20260720T150835Z
+SEQUENCE:6
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325585#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community,Disability,Food,Trans
+DTSTART:20260914T223000Z
+DTEND:20260915T000000Z
+UID:096deae1f8ae2477a0c80b307125f8847202026_11:08:35_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:LGBTQ+ Disability Hangout
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325585
+DESCRIPTION:The Yale LGBTQ Center and Yale Disability Peer Mentor Program invite students to the LGBTQ+ Disability Hangout, a welcoming space for connection, conversation, and community.\n\nTogether, we’ll discuss the intersections of gender, sexuality, disability, and chronic illness at Yale while sharing a meal in a relaxed, affirming environment. Come hang out with us, meet new people, and build community across identities and experiences. RSVP to help us plan accordingly.\n\nDinner provided. All are welcome.\n\nTo support the accessibility of this disability- and chronic illness-centered gathering, masks are required except while actively eating or drinking. Masks will be available at the event. Please do not attend if you are experiencing symptoms of a respiratory illness. Thank you for helping us create a more accessible gathering.\n\nHosted by: \nJohanna Staples-Ager (johanna.staples-ager@yale.edu)\n\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325585
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194438Z
+LAST-MODIFIED:20260810T180313Z
+CREATED:20260720T152411Z
+SEQUENCE:7
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325587#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community,Disability,Food,Trans
+DTSTART:20261005T223000Z
+DTEND:20261006T000000Z
+UID:1c0251b9a995a55335c96d5a84344fcc7202026_11:24:11_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:LGBTQ+ Disability Hangout
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325587
+DESCRIPTION:The Yale LGBTQ Center and Yale Disability Peer Mentor Program invite students to the LGBTQ+ Disability Hangout, a welcoming space for connection, conversation, and community.\n\nTogether, we’ll discuss the intersections of gender, sexuality, disability, and chronic illness at Yale while sharing a meal in a relaxed, affirming environment. Come hang out with us, meet new people, and build community across identities and experiences. RSVP to help us plan accordingly.\n\nDinner provided. All are welcome.\n\nTo support the accessibility of this disability- and chronic illness-centered gathering, masks are required except while actively eating or drinking. Masks will be available at the event. Please do not attend if you are experiencing symptoms of a respiratory illness. Thank you for helping us create a more accessible gathering.\n\nHosted by: \nJohanna Staples-Ager (johanna.staples-ager@yale.edu)\n\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325587
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194444Z
+LAST-MODIFIED:20260810T180352Z
+CREATED:20260720T152550Z
+SEQUENCE:7
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325588#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Group,Social,Community,Disability,Food,Trans
+DTSTART:20261109T233000Z
+DTEND:20261110T010000Z
+UID:4e2822585c673a111cde78dd165de29d7202026_11:25:50_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:LGBTQ+ Disability Hangout
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325588
+DESCRIPTION:The Yale LGBTQ Center and Yale Disability Peer Mentor Program invite students to the LGBTQ+ Disability Hangout, a welcoming space for connection, conversation, and community.\n\nTogether, we’ll discuss the intersections of gender, sexuality, disability, and chronic illness at Yale while sharing a meal in a relaxed, affirming environment. Come hang out with us, meet new people, and build community across identities and experiences. RSVP to help us plan accordingly.\n\nDinner provided. All are welcome.\n\nTo support the accessibility of this disability- and chronic illness-centered gathering, masks are required except while actively eating or drinking. Masks will be available at the event. Please do not attend if you are experiencing symptoms of a respiratory illness. Thank you for helping us create a more accessible gathering.\n\nHosted by: \nJohanna Staples-Ager (johanna.staples-ager@yale.edu)\n\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325588
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194448Z
+LAST-MODIFIED:20260721T182844Z
+CREATED:20260721T182452Z
+SEQUENCE:15
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325614#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Ceremony
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,GradProfStudents,Graduate and Professional Students
+DTSTART:20270519T153000Z
+DTEND:20270519T170000Z
+UID:c064b14c6cdcbe442b25f8750e6ee6ed7212026_2:24:52_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:G&P Lavender Reception for 2027 Commencement 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325614
+DESCRIPTION:Each year we celebrate and honor the achievements of our graduating graduate and professional students in an annual reception.  This year, we invite you to join us in celebrating the class of 2027. This gathering is an opportunity for family, friends, faculty, and staff to recognize the achievements of our graduates.  The Yale LGBTQ Center will be presenting Honor Cords to our graduates as well as connecting them to the GALA Alumni association\n\nREGISTER HERE if you are a graduating G&P student: https://docs.google.com/forms/d/e/1FAIpQLSd8jBLQSUr-wcIEvRQMVmOdqP5MsyXMoOOdCKi1Koxjd1_d6A/viewform\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325614
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194448Z
+LAST-MODIFIED:20260721T182751Z
+CREATED:20260721T182702Z
+SEQUENCE:11
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325615#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Ceremony
+CATEGORIES;X-CG-CATEGORY=event_tags:Yale College,LGBTQ 
+DTSTART:20270505T153000Z
+DTEND:20270505T170000Z
+UID:eccd7acf3066014a565d2e4460b839297212026_2:27:02_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Undergrad Lavender Reception for 2027 Commencement 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325615
+DESCRIPTION:Each year we celebrate and honor the achievements of our graduating undergraduate, graduate and professional students in an annual reception.  This year we invite you to join us in celebrating the class of 2027. This gathering is an opportunity for family, friends, faculty, and staff to recognize the achievements of our graduates. The Yale LGBTQ Center will be presenting Honor Cords to graduates as well as connecting them to the GALA alumni association.  Private recognition is also available.  \n\nREGISTER HERE if you are a graduating student: https://docs.google.com/forms/d/e/1FAIpQLSd8jBLQSUr-wcIEvRQMVmOdqP5MsyXMoOOdCKi1Koxjd1_d6A/viewform\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325615
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T200149Z
+LAST-MODIFIED:20260911T211257Z
+CREATED:20260721T183504Z
+SEQUENCE:9
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2325617#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Trans,Grad ,Graduate ,GradProfStudents,Graduate and Professional Students,Gender,International
+DTSTART:20260911T213000Z
+DTEND:20260911T233000Z
+UID:831c8368618de0bdb27cb3b3768d92707212026_2:35:04_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Autumn Graduate & Professional Mixer
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2325617
+DESCRIPTION:The Yale LGBTQ Center (@yalelgbtq), OISS (@yaleoiss), the McDougal Graduate Student Center (@mcdougalgsl) are excited to offer an autumn mixer for Yale Graduate and Professional LGBTQ students! Join us from 5:30 pm to 7:30 pm on Friday, September 11th in the Caulkins Courtyard located behind the Watson Center. \n\nWe hope you will stop by to make some new friends and reconnect with old ones as we celebrate our community and welcome in the new school year. We are pleased to provide craft beers as well as non-alcoholic options! (Must be 21+ to drink alcohol: if you would like to, please bring a government ID.) See you there!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2325617
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194438Z
+LAST-MODIFIED:20260911T144256Z
+CREATED:20260820T184946Z
+SEQUENCE:5
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2326649#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Fair/Festival
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Grad ,Grad and professional colleagues,Yale College
+DTSTART:20261003T160000Z
+DTEND:20261003T200000Z
+UID:1c8686ded5a76af292a33e670ea6eaee8202026_2:49:46_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:2026 New Haven Pride 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2326649
+DESCRIPTION:🏳️‍🌈 New Haven Pride Festival💫\n\nJoin the Yale LGBTQ Center crew as we head to the New Haven Pride Fest together! Whether you're new to campus or a seasoned Pride pro, come walk with us, connect with community, and celebrate in full color.\n\n🗓 Saturday, October 3\n⏰ 12 PM\n📍 50 Orange St, New Haven, CT 06510\n🎉 Pride Fest runs from 12–4 PM\n\n✨ Come as you are—bring friends, flags, sunscreen, and your Pride spirit!\n\n#NewHavenPride #YaleLGBTQCenter #Pride2026 #QueerYale #LGBTQYale #PrideParadeVibes #YaleToPride \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2326649
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194446Z
+LAST-MODIFIED:20261009T205606Z
+CREATED:20260825T171900Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2327040#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Lecture, Talk, or Panel
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Trans,Gender,Inclusion,Athletics,Community
+DTSTART:20261121T190000Z
+DTEND:20261121T203000Z
+UID:d138e02db7fe67693150c67f0d0804538252026_1:19:00_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:An Afternoon with Schuyler Bailar
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2327040
+DESCRIPTION:The Yale LGBTQ Center is amplifying this community event hosted by James Blackstone Memorial Library in Branford. Schuyler Bailar (he/him), educator, bestselling author, and inclusion advocate, will share his groundbreaking journey as the first transgender athlete to compete on an NCAA Division I men’s team in an engaging presentation and discussion. His books include He/She/They: How We Talk About Gender and Why It Matters and Obie Is Man Enough. Registration is required for this in-person event and closes Saturday, November 21 at 1:00 p.m. Hosted by James Blackstone Memorial Library. Sponsored by the John Loeb Lecture Fund.\n\nPlease register here through the library in addition to the Yale Connect: https://www.meetup.com/everyday-adventurers/events/316596636/\n\nIf you need transportation, please fill out this form: https://forms.gle/NZzQffBkhgeNUt2ZA\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2327040
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194437Z
+LAST-MODIFIED:20260911T144559Z
+CREATED:20260827T192328Z
+SEQUENCE:4
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2327319#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Office Hours/Drop in Hours
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Trans,Music,Arts and Humanities,Arts,Writing,Mentorship,Book Reviews,Celebration,Yale College,Theology,Culture,Community,Family Event,Graduate Students,gettogether,Interactive,Library,Spiritual Formation,Spirituality,Visual Art,Well-Being
+DTSTART:20260925T190000Z
+DTEND:20260925T210000Z
+UID:cfdc8cedefd868d3aaf000bba57b37868272026_3:23:28_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:OPEN HOUSE | A Life of Many Colors: Honoring the Life, Legacy, and Allyship of Dolly Parton
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2327319
+DESCRIPTION:On 9.25 (like 9 to 5), we encourage the entire Yale community to don your pink and denim (and other Dolly-inspired attire) and join us from 3-5pm in the Dollyverse for this event! \n\nA Life of Many Colors is a joyful open house at the Yale LGBTQ Center honoring the life, legacy, and allyship of Dolly Parton. \n\nDrop in between 3 and 5 PM for an afternoon inspired by Dolly’s generosity, imagination, hospitality, cultural impact, commitment to literacy, and enduring connection with LGBTQ communities. \n\nGuests can contribute to a collaborative and colorful art piece called Dolly's Quilt of Many Colors; visit the Cup of Ambition Coffee Bar and enjoy Dolly-inspired foods and desserts in our Stonewall Cafe; explore the Imagination Library and Book Lady display in the Stonewall Library; add a memory or message to our Letters for Dolly Guest Book that we will be sending to her family; learn about and enjoy Dolly music and media that has influenced generations throughout the center.\n\nCome for a few minutes or stay awhile... dream, create, read, eat, listen, learn, connect, and help carry forward a legacy of imagination, kindness, and love.  \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2327319
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194435Z
+LAST-MODIFIED:20260901T183239Z
+CREATED:20260901T182304Z
+SEQUENCE:1
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2328511#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Seminar
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Gender,Trans,Religious Studies,Theology,Theological Reflection
+DTSTART:20260909T220000Z
+DTEND:20260910T000000Z
+UID:be61672d66596ea8b7c39f99f1ef9f5b912026_2:23:04_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Pure and Impure Thoughts: A Homodoxy Seminar
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328511
+DESCRIPTION:Think queerly. Read deeply. Be in community.\n\nPure and Impure Thoughts is a monthly reading and discussion seminar from Homodoxy exploring theological, sexual, political, and social meanings of purity and impurity across religious traditions and genres—particularly as they relate to gay, queer, and trans lives and loves.\n\nConversation is informal, exploratory, and engaged, and readings vary in length and difficulty.\n\nFall 2026 readings:\nSeptember 9 — Indecent Theology: Theological Perversions in Sex, Gender, and Politics by Marcella Althaus-Reid\nOctober 14 — The Trouble with Normal: Sex, Politics, and the Ethics of Queer Life by Michael Warner\nNovember 11 — Reading to be announced\nDecember 9 — Reading to be announced\n\nThe seminar meets from 6:00–8:00 PM at the New Haven Pride Center, 50 Orange St., New Haven. Participation is free. Homodoxy notes that the readings and discussion are most appropriate for ages 18+.\n\nOrganized by Homodoxy and led by Yale alum Samuel Ernest, Ph.D. RSVP through Homodoxy to receive information about the readings.\n\nThe Yale LGBTQ Center is sharing this event on behalf of Homodoxy.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328511
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194440Z
+LAST-MODIFIED:20260914T202841Z
+CREATED:20260901T183246Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2328513#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Seminar
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Gender,Trans,Religious Studies,Theology,Theological Reflection
+DTSTART:20261013T220000Z
+DTEND:20261014T000000Z
+UID:50c4df42969e8566e5a5fcad9118991b912026_2:32:46_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Pure and Impure Thoughts: A Homodoxy Seminar
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328513
+DESCRIPTION:Think queerly. Read deeply. Be in community.\n\nPure and Impure Thoughts is a monthly reading and discussion seminar from Homodoxy exploring theological, sexual, political, and social meanings of purity and impurity across religious traditions and genres—particularly as they relate to gay, queer, and trans lives and loves.\n\nConversation is informal, exploratory, and engaged, and readings vary in length and difficulty.\n\nFall 2026 readings:\nSeptember 9 — Indecent Theology: Theological Perversions in Sex, Gender, and Politics by Marcella Althaus-Reid\nOctober 14 — The Trouble with Normal: Sex, Politics, and the Ethics of Queer Life by Michael Warner\nNovember 11 — Reading to be announced\nDecember 9 — Reading to be announced\n\nThe seminar meets from 6:00–8:00 PM at the New Haven Pride Center, 50 Orange St., New Haven. Participation is free. Homodoxy notes that the readings and discussion are most appropriate for ages 18+.\n\nOrganized by Homodoxy and led by Yale alum Samuel Ernest, Ph.D. RSVP through Homodoxy to receive information about the readings.\n\nThe Yale LGBTQ Center is sharing this event on behalf of Homodoxy.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328513
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194444Z
+LAST-MODIFIED:20260901T183316Z
+CREATED:20260901T183303Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2328514#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Seminar
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Gender,Trans,Religious Studies,Theology,Theological Reflection
+DTSTART:20261111T230000Z
+DTEND:20261112T010000Z
+UID:1b8614db1496587dcc5b908ebaa72f4f912026_2:33:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Pure and Impure Thoughts: A Homodoxy Seminar
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328514
+DESCRIPTION:Think queerly. Read deeply. Be in community.\n\nPure and Impure Thoughts is a monthly reading and discussion seminar from Homodoxy exploring theological, sexual, political, and social meanings of purity and impurity across religious traditions and genres—particularly as they relate to gay, queer, and trans lives and loves.\n\nConversation is informal, exploratory, and engaged, and readings vary in length and difficulty.\n\nFall 2026 readings:\nSeptember 9 — Indecent Theology: Theological Perversions in Sex, Gender, and Politics by Marcella Althaus-Reid\nOctober 14 — The Trouble with Normal: Sex, Politics, and the Ethics of Queer Life by Michael Warner\nNovember 11 — Reading to be announced\nDecember 9 — Reading to be announced\n\nThe seminar meets from 6:00–8:00 PM at the New Haven Pride Center, 50 Orange St., New Haven. Participation is free. Homodoxy notes that the readings and discussion are most appropriate for ages 18+.\n\nOrganized by Homodoxy and led by Yale alum Samuel Ernest, Ph.D. RSVP through Homodoxy to receive information about the readings.\n\nThe Yale LGBTQ Center is sharing this event on behalf of Homodoxy.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328514
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20260901T183333Z
+CREATED:20260901T183319Z
+SEQUENCE:4
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2328515#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Seminar
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Gender,Trans,Religious Studies,Theology,Theological Reflection
+DTSTART:20261209T230000Z
+DTEND:20261210T010000Z
+UID:3f7dde79c3a13ad310de7e0488a7cf7b912026_2:33:19_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Pure and Impure Thoughts: A Homodoxy Seminar
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328515
+DESCRIPTION:Think queerly. Read deeply. Be in community.\n\nPure and Impure Thoughts is a monthly reading and discussion seminar from Homodoxy exploring theological, sexual, political, and social meanings of purity and impurity across religious traditions and genres—particularly as they relate to gay, queer, and trans lives and loves.\n\nConversation is informal, exploratory, and engaged, and readings vary in length and difficulty.\n\nFall 2026 readings:\nSeptember 9 — Indecent Theology: Theological Perversions in Sex, Gender, and Politics by Marcella Althaus-Reid\nOctober 14 — The Trouble with Normal: Sex, Politics, and the Ethics of Queer Life by Michael Warner\nNovember 11 — Reading to be announced\nDecember 9 — Reading to be announced\n\nThe seminar meets from 6:00–8:00 PM at the New Haven Pride Center, 50 Orange St., New Haven. Participation is free. Homodoxy notes that the readings and discussion are most appropriate for ages 18+.\n\nOrganized by Homodoxy and led by Yale alum Samuel Ernest, Ph.D. RSVP through Homodoxy to receive information about the readings.\n\nThe Yale LGBTQ Center is sharing this event on behalf of Homodoxy.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328515
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194439Z
+LAST-MODIFIED:20260902T170959Z
+CREATED:20260902T165817Z
+SEQUENCE:1
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2328695#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Group Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Arts,Arts and Humanities,LGBTQ ,Trans,Yale College,Gender,Graduate and Professional Students
+DTSTART:20261008T223000Z
+DTEND:20261009T000000Z
+UID:44eb55c7f9d28307d179790078958ed6922026_12:58:17_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Trans Artists Meet-Up
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2328695
+DESCRIPTION:Join a gathering for artists to connect, exchange ideas, and discuss the importance of trans art and possibilities for collaboration. Artists of any experience level and artistic discipline are encouraged to participate from across Yale College or the G&P Schools. \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328695
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194445Z
+LAST-MODIFIED:20260929T171138Z
+CREATED:20260911T005322Z
+SEQUENCE:4
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2330226#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:Family/Child Friendly,Food,International,Language,LGBTQ ,QTPOC,Belonging,Conversation,Culinary,Cultural and International,Culture,Dining,Extracurricular
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+UID:f487a3190628672b427cf3a099eb25d59102026_8:53:22_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Queer Tables: Queer Italian Pasta
+LOCATION:Yale LGBTQ Center Café, 135 Prospect Street, New Haven 06511, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2330226
+DESCRIPTION:Come when you can, leave when you must. All are welcome at our table – undergrads, grad students, faculty and staff! \n\nThis is a relaxed and fun place for finding queer joy, chatting across languages, and sharing a small, yummy meal. \n\nThe pasta dish is cooked in the LGBTQ Center's kitchen and varies session by session. Vegan and gluten-free options are always available, and we do our best to accommodate any other dietary requirements.\n\nQueer Italian Pasta is hosted by the Italian Studies Department and LGBTQ Center. Registration is not necessary.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2330226
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194445Z
+LAST-MODIFIED:20261104T171844Z
+CREATED:20260917T204519Z
+SEQUENCE:14
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2331398#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Trans,Grad ,Graduate ,GradProfStudents,Graduate and Professional Students,Gender,International,Divinity
+DTSTART:20261113T220000Z
+DTEND:20261114T000000Z
+UID:fb17900f15b76d7bac20bb81b717bdd29172026_4:45:19_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Graduate & Professional Student Mixer: Pride & Provisions
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331398
+DESCRIPTION:Join the Yale LGBTQ Center and Yale Divinity School for Pride & Provisions, a relaxed evening mixer for graduate and professional students from across Yale.\n\nStop by the Yale LGBTQ Center for wine, beer, cheese, and light provisions while meeting students from across Yale’s graduate and professional schools. Whether you’re looking to make new connections, catch up with friends, or spend some time in community, all Yale G&P students are welcome.\n\nFriday, November 13, 2026 | 5–7 PM\nYale LGBTQ Center | 135 Prospect Street\n\nPresented by the Yale LGBTQ Center in partnership with the Office of Community Engagement and the Office of Student Affairs at Yale Divinity School.\n\nWe hope you will stop by to make some new friends and reconnect with old ones as we celebrate our community and welcome in the new school year. We are pleased to provide craft beers as well as non-alcoholic options! (Must be 21+ to drink alcohol: if you would like to, please bring a government ID.) See you there!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331398
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194436Z
+LAST-MODIFIED:20260918T161623Z
+CREATED:20260918T160742Z
+SEQUENCE:1
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2331565#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Yale & New Haven
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,New Haven,New Haven Small Businesses,New Haven Restaurants
+DTSTART:20260919T150000Z
+DTEND:20260919T220000Z
+UID:080d14b97924137834934e728c7d4e3d9182026_12:07:42_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Queer Pop Up Art Market
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331565
+DESCRIPTION:This queer artisans' pop-up market takes place Saturday, 9/19 from 11 AM - 6 PM at Spruce Coffee in New Haven.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331565
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194436Z
+LAST-MODIFIED:20260918T163421Z
+CREATED:20260918T163054Z
+SEQUENCE:1
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2331568#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Fundraiser
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Music,New Haven
+DTSTART:20260919T220000Z
+DTEND:20260920T020000Z
+UID:24dc2a7c7693d7e1996e426cff5118f69182026_12:30:54_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:BingoMania!
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331568
+DESCRIPTION:CTGMC hosts BingoMania!, an off-campus LGBTQ community event featuring an evening of bingo hosted by Kiki Lucia. Join CTGMC on Saturday, September 19, 2026, at The Annex Club in New Haven. Doors open at 6:00 PM, and games begin at 7:00 PM. Admission is $25 cash only and includes 12 regular games; additional special games are $1 each. Learn more at ctgmc.org/bingomania. Hosted by CTGMC. This event is being amplified by the Yale LGBTQ Center; the Center is not the event host or organizer.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331568
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194436Z
+LAST-MODIFIED:20260918T164320Z
+CREATED:20260918T163911Z
+SEQUENCE:1
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2331569#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Yale & New Haven
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Dance,New Haven,New Haven Small Businesses
+DTSTART:20260920T020000Z
+DTEND:20260920T060000Z
+UID:1778034382de1972623484f7c993073f9182026_12:39:11_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Come get Schooled @SWEAT
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331569
+DESCRIPTION:Butch Queens presents Come get Schooled @SWEAT, an off-campus LGBTQ dance party at Partners Cafe in New Haven. The final SWEAT installment of 2026 features house music from DJ Sabi, Chris Gallo, and Jon Blanchard. The event is for ages 21+ and runs from 10:00 PM Saturday, September 19, through 2:00 AM Sunday, September 20.\n\nHosted and organized by Butch Queens. This off-campus LGBTQ event is being amplified by the Yale LGBTQ Center; the Center is not the host or organizer.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331569
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194437Z
+LAST-MODIFIED:20260918T165359Z
+CREATED:20260918T165054Z
+SEQUENCE:1
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2331571#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Rehearsal
+CATEGORIES;X-CG-CATEGORY=event_tags:Drag Artistry,LGBTQ ,New Haven,New Haven Small Businesses
+DTSTART:20260926T020000Z
+DTEND:20260926T060000Z
+UID:82b0339759929f3463b3cb2f7fedeb2a9182026_12:50:54_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Let’s Have a Kiki (New Haven)
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331571
+DESCRIPTION:Kiki Lucia presents Let’s Have a Kiki, an off-campus LGBTQ drag and variety show at Partners Cafe in New Haven. Hosted and produced by Kiki Lucia, the long-running monthly show features regional drag artists, gender-bending performers, and burlesque performers. The series celebrates 10 years at Partners Cafe in 2026. Music for this edition is by DJ Chris Gallo.\n\nJoin the show Friday, September 25, from 10:00 PM–2:00 AM. 21+ and no cover.\n\nHosted and produced by Kiki Lucia. This off-campus LGBTQ event is being amplified by the Yale LGBTQ Center; the Center is not the host or organizer.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331571
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194440Z
+LAST-MODIFIED:20260918T170031Z
+CREATED:20260918T165930Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2331584#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Fundraiser
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Music,New Haven
+DTSTART:20261017T220000Z
+DTEND:20261018T020000Z
+UID:ab0773af3cec8cedb81e19d59f22b3e79182026_12:59:30_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:BingoMania! 
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331584
+DESCRIPTION:The Connecticut Gay Men’s Chorus (CTGMC) presents BingoMania!, its monthly off-campus LGBTQ drag bingo event at The Annex Club in New Haven. Doors open at 6:00 PM and games begin at 7:00 PM. Admission is $25 cash only and includes 12 regular bingo games; additional special games are $1 each. Beverages and snacks are available for purchase, and attendees may bring their own food. The event page notes cash prizes of up to $2,500.\n\nSeating is first-come, first-served. Attendees who want to hold a place in line may arrive after 4:15 PM to receive a number, but they must return before 6:00 PM and a number does not guarantee a seat.\n\nHosted by the Connecticut Gay Men’s Chorus. This off-campus LGBTQ community event is being amplified by the Yale LGBTQ Center; the Center is not the host or organizer.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331584
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194441Z
+LAST-MODIFIED:20260918T170832Z
+CREATED:20260918T170328Z
+SEQUENCE:1
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2331586#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+DTSTART:20261021T220000Z
+DTEND:20261022T003000Z
+UID:dc3fc3c89b31e2d855c5d00c2d2af5259182026_1:03:28_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:OutPro LGBTQ+ Professional Networking Social — Connecticut
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331586
+DESCRIPTION:Out Professionals presents an off-campus LGBTQ+ professional networking social at Barracuda Bistro & Bar in New Haven. LGBTQ+ professionals, business owners, self-employed professionals, companies, and supportive allies are invited to make connections across industries and career stages. OutPro’s color-coded industry badges help attendees identify people working in fields relevant to them. Complimentary appetizers will be available during the private event, with drinks available for individual purchase. Attendees who park at the nearby Crown Street Garage can receive a parking voucher from Barracuda Bistro & Bar when they leave.\n\nHosted by Out Professionals / OutPro Connecticut. This off-campus LGBTQ+ event is being amplified by the Yale LGBTQ Center; the Center is not the host or organizer.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331586
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194441Z
+LAST-MODIFIED:20260918T171308Z
+CREATED:20260918T171153Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2331587#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Performance
+CATEGORIES;X-CG-CATEGORY=event_tags:Drag Artistry,LGBTQ ,New Haven,New Haven Small Businesses
+DTSTART:20261024T020000Z
+DTEND:20261024T060000Z
+UID:e6c92441aa0bd916fd8c8ada365a9b0d9182026_1:11:53_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Let’s Have a Kiki (New Haven)
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331587
+DESCRIPTION:Kiki Lucia presents Let’s Have a Kiki, an off-campus LGBTQ drag and variety show at Partners Cafe in New Haven. Hosted and produced by Kiki Lucia, the monthly show features regional drag artists, gender-bending performers, and burlesque performers. The series celebrates 10 years at Partners Cafe in 2026 and is described by the organizer as Connecticut’s longest-running monthly show. Music for this edition is by DJ Chris Gallo.\n\nJoin the show on Friday, October 23, from 10:00 PM–2:00 AM. 21+ and no cover.\n\nHosted and produced by Kiki Lucia. This off-campus LGBTQ event is being amplified by the Yale LGBTQ Center; the Center is not the host or organizer.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331587
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194440Z
+LAST-MODIFIED:20261007T205509Z
+CREATED:20260918T211947Z
+SEQUENCE:5
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2331631#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:Arts,FUN,Crafting,Class of 2030,Class of 2027,Class of 2028,Class of 2029,Graduate and Professional Students,Study break
+DTSTART:20261016T190000Z
+DTEND:20261016T210000Z
+UID:5332ee728b9c7e96f3578b40bd1e627f9182026_5:19:47_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:SLIME WORKSHOP
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2331631
+DESCRIPTION:Join us Friday, October 16 from 3-5pm for an afternoon of slime making! We will provide all supplies including a container to take your slime home!\n\nPlease let us know if you have any allergies to the following;\n-Elmer's Glue\n-Boric Acid\n-Baking Soda\n-Food Coloring\n\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2331631
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194438Z
+LAST-MODIFIED:20260929T171541Z
+CREATED:20260929T171142Z
+SEQUENCE:5
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2333771#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:Family/Child Friendly,Food,International,Language,LGBTQ ,QTPOC,Belonging,Conversation,Culinary,Cultural and International,Culture,Dining,Extracurricular
+DTSTART:20261006T230000Z
+DTEND:20261007T010000Z
+UID:ec0518f68f66d6b977b940de1f7794499292026_1:11:42_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Queer Tables: Queer Italian Pasta
+LOCATION:Yale LGBTQ Center Café, 135 Prospect Street, New Haven 06511, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2333771
+DESCRIPTION:Come when you can, leave when you must. All are welcome at our table – undergrads, grad students, faculty and staff! \n\nThis is a relaxed and fun place for finding queer joy, chatting across languages, and sharing a small, yummy meal. \n\nThe pasta dish is cooked in the LGBTQ Center's kitchen and varies session by session. Vegan and gluten-free options are always available, and we do our best to accommodate any other dietary requirements.\n\nQueer Italian Pasta is hosted by the Italian Studies Department and LGBTQ Center. Registration is not necessary.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2333771
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20260929T171802Z
+CREATED:20260929T171544Z
+SEQUENCE:6
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2333773#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:Family/Child Friendly,Food,International,Language,LGBTQ ,QTPOC,Belonging,Conversation,Culinary,Cultural and International,Culture,Dining,Extracurricular
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+UID:5c88da5d93cb7e36ab8747bb017829189292026_1:15:44_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Queer Tables: Queer Italian Pasta
+LOCATION:Yale LGBTQ Center Café, 135 Prospect Street, New Haven 06511, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2333773
+DESCRIPTION:Come when you can, leave when you must. All are welcome at our table – undergrads, grad students, faculty and staff! \n\nThis is a relaxed and fun place for finding queer joy, chatting across languages, and sharing a small, yummy meal. \n\nThe pasta dish is cooked in the LGBTQ Center's kitchen and varies session by session. Vegan and gluten-free options are always available, and we do our best to accommodate any other dietary requirements.\n\nQueer Italian Pasta is hosted by the Italian Studies Department and LGBTQ Center. Registration is not necessary.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2333773
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194443Z
+LAST-MODIFIED:20261008T150556Z
+CREATED:20260929T193018Z
+SEQUENCE:2
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2333796#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Lecture, Talk, or Panel
+CATEGORIES;X-CG-CATEGORY=event_tags:AFAM HOUSE,African American Studies,Book Reviews,Area Studies,Culture,LGBTQ ,Trans,Gender,Library
+DTSTART:20261107T000000Z
+DTEND:20261107T020000Z
+UID:11641a4fdb164fd7dd9d0262252654bd9292026_3:30:18_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Book Talk: A reading of Black Tidal Tales
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2333796
+DESCRIPTION:Join beyond-disciplinary artist Shekinah for A reading of Black Tidal Tales, a journey through the relationships between the Black African Diaspora and the Ocean across time and space. Guided by storytelling, embodiment, and love, this program invites attendees into an exploration shaped by the currents that connect diaspora and ocean.\n\nFriday, November 6 at 7 PM at Yale LGBTQ Center’s Stonewall Library, 135 Prospect Street, New Haven, CT.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2333796
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194439Z
+LAST-MODIFIED:20261007T234810Z
+CREATED:20261007T233513Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2335021#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Lecture, Talk, or Panel
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Spiritual and Religious,Mental Health
+DTSTART:20261013T143000Z
+DTEND:20261013T163000Z
+UID:81de9fd2b7dfbf6b62563bbf3312bc481072026_7:35:13_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:A Queer Spirituality After Religious Harm: Mental Health Implications and Paths Forward
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335021
+DESCRIPTION:Join Dr. Joel Hollier of Sydney, Australia for a conversation on queer spirituality, religious harm, mental health, and paths forward.\n\nThe program will take place on Tuesday, October 13, 2026, from 10:30 AM–12:30 PM at the Yale Program for Recovery and Community Health (PRCH), with a virtual participation option also available. A light lunch will follow the program.\n\nRegistration is free.\n\nThis LGBTQ-focused event is being amplified by the Yale LGBTQ Center.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335021
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194442Z
+LAST-MODIFIED:20261008T001542Z
+CREATED:20261007T235844Z
+SEQUENCE:1
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2335023#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Film and Media Screenings
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ ,Film,Arts and Humanities
+DTSTART:20261028T233000Z
+DTEND:20261029T020000Z
+UID:972f6ac814cfc8d4baa3b85b49cd53501072026_7:58:44_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Advance Screening: CLUB KID (2026)
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335023
+DESCRIPTION:1. Join us for an advance screening of A24’s CLUB KID (2026), written and directed by Jordan Firstman.\nFeatured at the 2026 Cannes Film Festival, the film follows partied-out New York City club promoter Peter, played by Jordan Firstman, whose whirlwind lifestyle is upended by the arrival of the 10-year-old son he never knew he had.\nDCP | 2026 | Directed by Jordan Firstman | US | 122 minutes | English\nThe screening is free and open to the public. No registration is required. Please arrive early to secure a seat.\nPresented by Women’s, Gender, and Sexuality Studies, LGBTQ Studies, the Yale LGBTQ Center, and Yale Film Society.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335023
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T200225Z
+LAST-MODIFIED:20261030T125945Z
+CREATED:20261013T191518Z
+SEQUENCE:59
+ORGANIZER;CN="Office of International Students & Scholars":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/OISS/rsvp_boot?id=2335868#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:OISS
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:International
+DTSTART:20261030T190000Z
+DTEND:20261030T210000Z
+UID:87f1f3abc4507be7879b7c7b779310cc10132026_3:15:18_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:International Trick-Or-Treat & Costume Contest
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2335868
+DESCRIPTION:If you've never had the chance to participate in an American Halloween, now is your chance! Join us for our bigger than ever annual International Trick-or-Treat Tour for an opportunity to dress-up and participate in one of our favorite childhood past-times of receiving free candy. Halloween is one of OISS' favorite holidays of the year and we want it to be yours too!\n\nOISS has partnered up with Graduate Housing, MacMillan Center, McDougal GSL, Office of Career Strategy, Office of LGBTQ Resources, Yale China, and the Yale Police Department for a trick-or-treat tour on this side of campus! Each of our offices will have stations set-up where you can stop by in costume, say "Trick-Or-Treat", and get some Halloween candy.\n\nCostumes for this event are HIGHLY encouraged (basically required), as this is the whole point of Halloween and Trick-Or-Treating! The OISS team is busy preparing our costumes as we speak…\n\nYou must register to attend (to help us prepare candy) and families and children are welcome - open to the Yale Community! \n\nDetails about the trick-or-treat route will be sent to those who register for the event a day or two before the event.\n\n\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2335868
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194443Z
+LAST-MODIFIED:20261101T181910Z
+CREATED:20261026T204900Z
+SEQUENCE:5
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2337058#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:LGBTQ 
+DTSTART:20261103T000000Z
+DTEND:20261103T023000Z
+UID:6620d40f0eddde6a2b11b51c98e9fed410262026_4:49:00_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:LGBTQ Center PLs: Halloween Movie & Baking Night
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2337058
+DESCRIPTION:Join your LGBTQ PLs for a night of post-Halloween baking and spooky entertainment! Open invite to all in Yale College who would like to join, especially first-years and our PL program mentees.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2337058
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20261109T214027Z
+CREATED:20261109T202108Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2338610#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+DTSTART:20261204T003000Z
+DTEND:20261204T023000Z
+UID:0b647da0b054eecfa444fdfc7fb3e3de1192026_3:21:08_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:LGBTQ+ PLs: Nintendo Switch Game Night!
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338610
+DESCRIPTION:The LGBTQ Center is excited to introduce our new Nintendo Switch 2! Come play Mario Party, Overcooked, and Boomerang Foo with your LGBTQ Center PLs. Snacks and drinks will be provided. Bring your friends and folks who make you feel at home—all in Yale College are welcome!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338610
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T194447Z
+LAST-MODIFIED:20261113T001353Z
+CREATED:20261112T234400Z
+SEQUENCE:4
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2338992#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Health/Wellness
+CATEGORIES;X-CG-CATEGORY=event_tags:Crafting,Arts,Study break,FUN,Belonging
+DTSTART:20261204T220000Z
+DTEND:20261205T000000Z
+UID:7c5b7e785b2b9a88f36b97127b96eed811122026_6:44:00_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Button Making and Pizza!!!
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2338992
+DESCRIPTION:Join us for an afternoon of creativity, connection, and self-expression as we transform scraps into statements! At this event, we’ll be making wearable art using magazine clippings, drawings, and collage materials to design one-of-a-kind buttons that reflect our interests, identities, and beliefs.\n\nSupplies will be included, but feel free to bring your own clippings/pictures to be made into a button!\n\nPizza and drinks provided!!!!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2338992
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T202640Z
+LAST-MODIFIED:20261113T202416Z
+CREATED:20261113T201334Z
+SEQUENCE:3
+ORGANIZER;CN="Yale LGBTQ Center":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/LGBTQ/rsvp_boot?id=2339032#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:LGBTQ
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:La Casa Cultural,LGBTQ 
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+UID:919e035a9c096562212b06c758cd54e911132026_3:13:34_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Queer Tables: Food Wars (La Casa x LGBTQ Center)
+LOCATION: Sign in to download the location
+URL:https://yaleconnect.yale.edu/rsvp?id=2339032
+DESCRIPTION:Come join your La Casa and LGBTQ Center PLs for an evening filled with food: queso fresco, ham & chorizo, bolillo bread, and so much more! All members of the Yale College community are invited to join.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2339032
+END:VEVENT
+END:VCALENDAR

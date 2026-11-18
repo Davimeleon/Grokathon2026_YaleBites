@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:CAMPUSGROUPS
+X-WR-CALNAME:My Favorite Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+DTSTAMP:20261117T060000Z
+LAST-MODIFIED:20261116T120000Z
+CREATED:20261101T120000Z
+SEQUENCE:1
+ORGANIZER;CN="Urban Resources Initiative":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/group/rsvp_boot?id=2328015#event_host
+DTSTART:20260829T130000Z
+DTEND:20261219T170000Z
+UID:fixture-personal-2328015@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:New Haven Greenspace Volunteering
+LOCATION:various public locations in New Haven
+URL:https://yaleconnect.yale.edu/rsvp?id=2328015
+DESCRIPTION:Urban Resources Initiative supports 30+ local volunteer groups supporting Community Greenspaces throughout New Haven.  These groups host volunteer activities that include weeding\, mulching\, planting\,  natural areas management\, and canvassing. Please dress to work outdoors and get dirty\, and bring drinking water.  Bug spray\, sunscreen\, sturdy shoes\, long sleeves\, long pants\, and hats are encouraged\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2328015
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T060000Z
+LAST-MODIFIED:20261116T120000Z
+CREATED:20261101T120000Z
+SEQUENCE:1
+ORGANIZER;CN="Buddhist Life at Yale":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/group/rsvp_boot?id=2326940#event_host
+DTSTART:20260906T230000Z
+DTEND:20261207T010000Z
+UID:fixture-personal-2326940@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Practicing the Buddhist Path (Sundays)
+LOCATION:Middle Eastern North African Cultural Center (MENA CC) Salon \, 305 crown st\, New Haven\, CT 06511-3491\, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2326940
+DESCRIPTION:Sundays\, 7 - 8 PM (when classes are in session)\n15 minutes teaching\n15 minutes discussion\n20 minutes guided meditation\nTaught by Sumi (Buddhist chaplain)\, unless otherwise noted\n\nTaking a pragmatic approach\, these sessions look at Buddhist teachings apply to our daily lives -- our everyday choices\, habits\, relationships\, how we move in the world. The aim is for you to walk out the door with \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2326940
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T060000Z
+LAST-MODIFIED:20261116T120000Z
+CREATED:20261101T120000Z
+SEQUENCE:1
+ORGANIZER;CN="Buddhist Life at Yale":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/group/rsvp_boot?id=2326942#event_host
+DTSTART:20260907T000000Z
+DTEND:20261207T020000Z
+UID:fixture-personal-2326942@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Tea & Mochi Social Hour
+LOCATION:Sterling Law Building 129 (SLB 129)\, New Haven\, CT 06520\, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2326942
+DESCRIPTION:Join the Yale Buddhist Student Community for our tea and mochi social hour\, following the 7pm meditation & Buddhist reflection session. All welcome!\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2326942
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T060000Z
+LAST-MODIFIED:20261116T120000Z
+CREATED:20261101T120000Z
+SEQUENCE:1
+ORGANIZER;CN="Buddhist Life at Yale":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/group/rsvp_boot?id=2326941#event_host
+DTSTART:20260909T230000Z
+DTEND:20261210T010000Z
+UID:fixture-personal-2326941@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Meditation Skills Workshops (Wednesdays)
+LOCATION:Spinelli Lounge\, New Haven\, CT 06520\, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2326941
+DESCRIPTION:Fall Semester: Mindfulness Series\nSpring Semester: Compassion (Lovingkindness) Series\nWednesdays\, 7 - 8 PM (when classes are in session)\n\nBeginners: step-by-step instruction on how to meditate. \nExperienced meditators: fill in the gaps\, get detailed instruction\, always something new to learn from different teachers.\n\nCan't make it? Most content available in the Yale Meditation Handbook and \n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2326941
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T060000Z
+LAST-MODIFIED:20261116T120000Z
+CREATED:20261101T120000Z
+SEQUENCE:1
+ORGANIZER;CN="YSE Office of Research Programs":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/group/rsvp_boot?id=2327098#event_host
+DTSTART:20260910T200000Z
+DTEND:20261210T220000Z
+UID:fixture-personal-2327098@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Confluence Speaker Series: Fall 2026
+LOCATION:Kroon Hall\, Burke Auditorium\, New Haven\, CT 06520\, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2327098
+DESCRIPTION:Weekly speaker series open to master's and PhD students\, as well as postdocs at YSE\, to share their research with the YSE and wider Yale community.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2327098
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T060000Z
+LAST-MODIFIED:20261116T120000Z
+CREATED:20261101T120000Z
+SEQUENCE:1
+ORGANIZER;CN="Center for Language Study (CLS)":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/group/rsvp_boot?id=2326643#event_host
+DTSTART:20260917T170000Z
+DTEND:20270513T180000Z
+UID:fixture-personal-2326643@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:CLS Brown Bag Series: 2026-27
+LOCATION:WLH 209\, New Haven\, CT 06520\, United States
+URL:https://yaleconnect.yale.edu/rsvp?id=2326643
+DESCRIPTION:Here you can find all Brown Bag events from the AY 2026-2027.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2326643
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T060000Z
+LAST-MODIFIED:20261116T120000Z
+CREATED:20261101T120000Z
+SEQUENCE:1
+ORGANIZER;CN="Pierson College":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/group/rsvp_boot?id=2399001#event_host
+DTSTART:20261117T230000Z
+DTEND:20261118T010000Z
+UID:fixture-personal-2399001@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Pierson Senior Class Dinner
+LOCATION:Pierson College Dining Hall\, 261 Park St\, New Haven\, CT 06511
+URL:https://yaleconnect.yale.edu/rsvp?id=2399001
+DESCRIPTION:Seniors only. Dinner will be provided by Pierson dining\; please RSVP for the catering count.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2399001
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T060000Z
+LAST-MODIFIED:20261116T120000Z
+CREATED:20261101T120000Z
+SEQUENCE:1
+ORGANIZER;CN="Ezra Stiles College":mailto:noreply@yaleconnect.yale.edu
+CONTACT:https://yaleconnect.yale.edu/group/rsvp_boot?id=2399004#event_host
+DTSTART:20261119T170000Z
+DTEND:20261119T180000Z
+UID:fixture-personal-2399004@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Ezra Stiles Fellows Lunch
+LOCATION:Ezra Stiles College\, Fellows Lounge\, 19 Tower Pkwy
+URL:https://yaleconnect.yale.edu/rsvp?id=2399004
+DESCRIPTION:Lunch with the Head of College for fellows. Sandwiches from Atticus.\n---\nEvent Details: https://yaleconnect.yale.edu/rsvp?id=2399004
+END:VEVENT
+END:VCALENDAR

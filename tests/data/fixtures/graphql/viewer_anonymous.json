@@ -1,0 +1,1 @@
+{"errors":[{"message":"The current user is not authorized to access this resource.","path":["viewer"],"extensions":{"code":"AUTH_NOT_AUTHENTICATED","traceId":"00-5c3ed2dfdf3e79f2f09f44c82c6b5a93-5396eb96a67785f3-01"}}],"data":null}
