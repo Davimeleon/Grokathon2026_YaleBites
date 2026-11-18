@@ -18,9 +18,11 @@ Watch the [1-minute demo](assets/yale_bites_demo.mp4) (`assets/yale_bites_demo.m
 
 ## B. Screenshot: Built with Cursor and Grok
 
-![Yale Bites built in Cursor](assets/cursor-grok-workflow.png)
+![Yale Bites built in Cursor](assets/cursor-agent-workflow.png)
 
-Yale Bites was built in Cursor (agent + computer-use workflow above). The live UI screenshot used as the video poster is `assets/yale-bites-app.png`.
+![Cursor agent workflow](assets/cursor-grok-workflow.png)
+
+Yale Bites was built in Cursor (agent workflow above). Live UI poster: `assets/yale-bites-app.png`.
 
 ## What Yale Bites does
 
