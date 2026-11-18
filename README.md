@@ -1,9 +1,53 @@
 # Yale Bites
 
-A small web app that shows, in near real time, which events on Yale's campus are happening now or in the
-next few hours and offer **free food** (or are free to attend). Data comes from Yale Connect
-(`yaleconnect.yale.edu`, a CampusGroups instance). Ingestion correctness and freshness are the core; the UI
-is a thin map + list over a good dataset.
+**Find the food. Discover the people. Explore Yale.**
+
+Yale Bites helps the Yale community find upcoming campus events with food, then makes it easy to get there.
+
+## A. Demo video
+
+> **Video coming soon.** Add the Yale Bites walkthrough here when it is ready.
+
+<!-- Replace this placeholder with a video link or an embedded player. -->
+
+## B. Screenshot: Built with Cursor and Grok
+
+> **Screenshot coming soon.** Add a screenshot of the Yale Bites development workflow in Cursor with Grok visible.
+
+<!-- Replace this placeholder with: ![Yale Bites in Cursor with Grok](path/to/screenshot.png) -->
+
+## What Yale Bites does
+
+Yale Connect brings together events from across campus, but finding one with food at the right time can mean
+opening and reading many separate listings. Yale Bites turns those listings into a searchable, time-aware map
+and event list. Start with food events in the next two hours, or switch to events happening now, today, or this
+week. Search by food, club, or building; narrow the results to confirmed food; and open the original Yale
+Connect listing for event details.
+
+When an event has a known location, Yale Bites can show its map pin and an estimated walk from your position.
+Select an event to see a walking route, or open directions in Google Maps.
+
+## How it works
+
+Yale Bites collects upcoming Yale Connect listings and reads each event's title, description, organizer-provided
+food information, time, and location. Its evidence-based scoring model looks for signs of food, including the
+organizer's **food included** flag and phrases in the listing. It classifies events as **free food**, **likely
+food**, or **no food listed**, while keeping the supporting text so the result is explainable. The classifier
+is a transparent, lexicon-driven scoring model with editable rules and weights.
+
+The app refreshes its data regularly, stores normalized events, and serves the same results to the map and list.
+Search and time filters help students find relevant events quickly. A Yale building gazetteer and geocoding
+resolve locations when possible; Yale Connect's sign-in restrictions are respected when a location is hidden.
+
+## Why it matters to Yale
+
+Free food can be a practical reason to step into an event, but the value extends beyond a meal. A student looking
+for lunch might discover a new organization, attend a talk, or meet people outside their usual circles. Yale
+Bites gives campus groups another path to interested attendees and helps students make use of events already
+happening around them. By putting time, food information, and walking directions in one place, it makes those
+opportunities easier to find and act on.
+
+For the implementation details:
 
 * `docs/sources.md`: what Yale Connect exposes, measured, with evidence and the source ranking.
 * `docs/api.md`: the HTTP API.
@@ -24,7 +68,7 @@ uv run app --no-sync  # serve the seeded database without touching the network
 the capture date lines up with today, so the default "free food in the next 2 hours" view has data. `/api/meta`
 reports `dataset.kind = "fixture_replay"` until the first live sync replaces it.
 
-## How it works
+## Under the hood
 
 ```
              every 30 min: full sync (next 14 days)        every 3 min: hot sync (next 6 hours)
