@@ -10,7 +10,7 @@ Yale Bites helps the Yale community find, search, and get to upcoming campus eve
 
 [![Yale Bites demo](assets/yale-bites-app.png)](https://github.com/Davimeleon/Grokathon2026_YaleBites/blob/main/assets/yale_bites_demo.mp4)
 
-[Watch the 1-minute demo](https://github.com/Davimeleon/Grokathon2026_YaleBites/blob/main/assets/yale_bites_demo.mp4) — opens GitHub’s video player (does not download). Live app: [yale-bites.onrender.com](https://yale-bites.onrender.com).
+[Watch the 1-minute demo](https://github.com/Davimeleon/Grokathon2026_YaleBites/blob/main/assets/yale_bites_demo.mp4). Live app: [yale-bites.onrender.com](https://yale-bites.onrender.com).
 
 ## B. Screenshot: Built with Cursor and Grok
 
