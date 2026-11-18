@@ -4,7 +4,7 @@
 
 Deployed Website: https://yale-bites.onrender.com/
 
-Yale Bites helps the Yale community find upcoming campus events with food, then makes it easy to get there.
+Yale Bites helps the Yale community find, search, and get to upcoming campus events with food by scraping YaleConnect events with a food likelihood detection model.
 
 ## A. Demo video
 
