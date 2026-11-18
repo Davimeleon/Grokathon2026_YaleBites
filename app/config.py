@@ -118,8 +118,9 @@ def load_settings(environ: dict[str, str] | None = None) -> Settings:
         contact=(env.get("YALE_BITES_CONTACT") or DEFAULT_CONTACT).strip(),
         scheduler_enabled=_env_bool(env, "YALE_BITES_SCHEDULER", True),
         online_geocoding=_env_bool(env, "YALE_BITES_ONLINE_GEOCODING", True),
-        host=env.get("YALE_BITES_HOST") or "127.0.0.1",
-        port=int(env.get("YALE_BITES_PORT") or 8000),
+        # Cloud hosts (Render, etc.) set PORT and expect 0.0.0.0; local defaults stay loopback.
+        host=env.get("YALE_BITES_HOST") or ("0.0.0.0" if env.get("PORT") else "127.0.0.1"),
+        port=int(env.get("YALE_BITES_PORT") or env.get("PORT") or 8000),
     )
 
 

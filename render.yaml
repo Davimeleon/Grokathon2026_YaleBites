@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: yale-bites
+    runtime: docker
+    plan: free
+    healthCheckPath: /healthz
+    envVars:
+      - key: YALE_BITES_CONTACT
+        value: operator@example.invalid
+      - key: YALE_BITES_ONLINE_GEOCODING
+        value: "1"
+      # Optional authenticated mode (locations + members-only events):
+      # set these in the Render dashboard after deploy.
+      - key: YALECONNECT_COOKIE
+        sync: false
+      - key: YALECONNECT_ICS_FEEDS
+        sync: false
