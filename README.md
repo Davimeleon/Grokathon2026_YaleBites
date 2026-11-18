@@ -8,15 +8,19 @@ Yale Bites helps the Yale community find upcoming campus events with food, then 
 
 ## A. Demo video
 
-> **Video coming soon.** Add the Yale Bites walkthrough here when it is ready.
+[![Yale Bites demo](assets/yale-bites-app.png)](assets/yale_bites_demo.mp4)
 
-<!-- Replace this placeholder with a video link or an embedded player. -->
+Watch the [1-minute demo](assets/yale_bites_demo.mp4) (`assets/yale_bites_demo.mp4`). Live app: [yale-bites.onrender.com](https://yale-bites.onrender.com).
+
+<video src="assets/yale_bites_demo.mp4" controls width="100%" poster="assets/yale-bites-app.png">
+  <a href="assets/yale_bites_demo.mp4">Download the Yale Bites demo video</a>
+</video>
 
 ## B. Screenshot: Built with Cursor and Grok
 
-> **Screenshot coming soon.** Add a screenshot of the Yale Bites development workflow in Cursor with Grok visible.
+![Yale Bites built in Cursor](assets/cursor-grok-workflow.png)
 
-<!-- Replace this placeholder with: ![Yale Bites in Cursor with Grok](path/to/screenshot.png) -->
+Yale Bites was built in Cursor (agent + computer-use workflow above). The live UI screenshot used as the video poster is `assets/yale-bites-app.png`.
 
 ## What Yale Bites does
 
